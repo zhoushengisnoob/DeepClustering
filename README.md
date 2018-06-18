@@ -1,5 +1,5 @@
 # DC
-Deep Clustering
+Deep Clustering: methods and implements
 
 ## Methods
 1. [Deep Embedding Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf)
@@ -25,4 +25,5 @@ Deep Clustering
 1. Run existing methods on MNIST
 2. Implement with Pytorch
 
-
+## TIPS
+If you find this repository is helpful to your research or work, it is appreciate to give a star~Thanks~
