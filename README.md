@@ -10,10 +10,11 @@
 7. [Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE)](https://arxiv.org/pdf/1604.03628.pdf)
 8. [Clustering CNN(CCNN)](https://arxiv.org/pdf/1712.01056.pdf)
 9. [Variational Deep Embedding(VADE)](https://arxiv.org/pdf/1611.05148.pdf)
+10. [Clustering-driven Deep Embedding with Pairwise Constraints(CPAC)](https://arxiv.org/pdf/1803.08457.pdf)
 
 ## Codes
-1. [DEC-Caffe](https://github.com/piiswrong/dec)
-2. [IDEC-Keras](https://github.com/XifengGuo/IDEC)
+1. [DEC-Caffe](https://github.com/piiswrong/dec),[DEC-TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering)
+2. [IDEC-Keras](https://github.com/XifengGuo/IDEC),[IDEC-Pytorch](https://github.com/dawnranger/IDEC-pytorch)
 3. [DCN-Theano](https://github.com/boyangumn/DCN-New)
 4. DEN
 5. [DEPICT-Theano](https://github.com/herandy/DEPICT)
@@ -21,6 +22,7 @@
 7. [JULE-Torch](https://github.com/jwyang/JULE.torch)
 8. CCNN
 9. [VADE-Keras](https://github.com/slim1017/VaDE)
+10. [CPAC](https://github.com/sharonFogel/CPAC)
 
 ## TODO
 1. Run existing methods on MNIST
