@@ -1,5 +1,4 @@
-# DC
-Deep Clustering: methods and implements
+# Deep Clustering: methods and implements
 
 ## Methods
 1. [Deep Embedding Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf)
