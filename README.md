@@ -9,6 +9,7 @@
 6. [Discriminatively Boosted Clustering(DBC)](https://arxiv.org/pdf/1703.07980.pdf)
 7. [Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE)](https://arxiv.org/pdf/1604.03628.pdf)
 8. [Clustering CNN(CCNN)](https://arxiv.org/pdf/1712.01056.pdf)
+9. [Variational Deep Embedding(VADE)](https://arxiv.org/pdf/1611.05148.pdf)
 
 ## Codes
 1. [DEC-Caffe](https://github.com/piiswrong/dec)
@@ -19,6 +20,7 @@
 6. DBC
 7. [JULE-Torch](https://github.com/jwyang/JULE.torch)
 8. CCNN
+9. [VADE-Keras](https://github.com/slim1017/VaDE)
 
 ## TODO
 1. Run existing methods on MNIST
