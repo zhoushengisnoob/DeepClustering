@@ -26,4 +26,5 @@ Deep Clustering: methods and implements
 2. Implement with Pytorch
 
 ## TIPS
-If you find this repository is helpful to your research or work, it is appreciate to give a star~Thanks~
+If you find this repository is helpful to your research or work, it is appreciate to give a star~  
+Thanks!
