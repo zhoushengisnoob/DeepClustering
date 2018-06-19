@@ -1,8 +1,8 @@
 # Deep Clustering: methods and implements
 
 ## Methods
-1. [Deep Embedding Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf)
-2. [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf)
+1. [Deep Embedding Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) ICML 2016
+2. [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf) IJCAI 2017
 3. [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf)
 4. [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/)
 5. [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT)](https://arxiv.org/pdf/1704.06327.pdf)
