@@ -1,7 +1,8 @@
 # Deep Clustering: methods and implements
 
 ## Methods
-1. [Deep Embedding Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) ICML 2016
+1. [Deep Embedding Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf)  
+ICML 2016 [DEC-Caffe](https://github.com/piiswrong/dec),[DEC-TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering)
 2. [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf) IJCAI 2017
 3. [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf) Arxiv 2016
 4. [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/) ICPR 2014
@@ -25,7 +26,9 @@
 22. [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf) Arxiv 2017
 23. Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering
 NIPS 2017
-## Codes
+24. [Auto-encoder Based Data Clustering(ABDC)](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf)
+
+## Authors' Codes
 1. [DEC-Caffe](https://github.com/piiswrong/dec),[DEC-TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering)
 2. [IDEC-Keras](https://github.com/XifengGuo/IDEC),[IDEC-Pytorch](https://github.com/dawnranger/IDEC-pytorch)
 3. [DCN-Theano](https://github.com/boyangumn/DCN-New)
@@ -49,6 +52,7 @@ NIPS 2017
 21. GRACE
 22. MIXAE
 23. ___
+24. [ABDC-Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering)
 
 ## TODO
 1. Run existing methods on MNIST
