@@ -3,27 +3,28 @@
 ## Methods
 1. [Deep Embedding Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) ICML 2016
 2. [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf) IJCAI 2017
-3. [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf)
-4. [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/)
-5. [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT)](https://arxiv.org/pdf/1704.06327.pdf)
-6. [Discriminatively Boosted Clustering(DBC)](https://arxiv.org/pdf/1703.07980.pdf)
-7. [Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE)](https://arxiv.org/pdf/1604.03628.pdf)
-8. [Clustering CNN(CCNN)](https://arxiv.org/pdf/1712.01056.pdf)
-9. [Variational Deep Embedding(VADE)](https://arxiv.org/pdf/1611.05148.pdf)
-10. [Clustering-driven Deep Embedding with Pairwise Constraints(CPAC)](https://arxiv.org/pdf/1803.08457.pdf)
-11. [Deep Continuous Clustering(DCC)](https://arxiv.org/pdf/1803.01449.pdf)
-12. [Clustering and Unsupervised Anomaly Detection with l2 Normalized Deep Auto-Encoder Representations(CAE)](https://arxiv.org/pdf/1802.00187.pdf)
-13. [Deep Subspace Clustering Networks(DSC)](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf)
-14. [Deep Sparse Subspace Clustering(DSSC)](https://arxiv.org/pdf/1709.08374.pdf)
-15. [Semi-Supervised Representation Learning based on Probabilistic Labeling(SSRL-PL)]()
-16. [Subspace clustering using a low-rank constrained autoencoder(LRAE)](https://www.sciencedirect.com/science/article/pii/S0020025517309659)
-17. [ClusterNet : Semi-Supervised Clustering using Neural Networks(ClusterNet)](https://arxiv.org/pdf/1806.01547.pdf)
-18. [GEMSEC: Graph Embedding with Self Clustering(GEMSEC)](https://arxiv.org/pdf/1802.03997.pdf)
+3. [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf) Arxiv 2016
+4. [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/) ICPR 2014
+5. [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT)](https://arxiv.org/pdf/1704.06327.pdf) ICCV 2017
+6. [Discriminatively Boosted Clustering(DBC)](https://arxiv.org/pdf/1703.07980.pdf) Arxiv 2017
+7. [Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE)](https://arxiv.org/pdf/1604.03628.pdf) CVPR 2016
+8. [Clustering CNN(CCNN)](https://arxiv.org/pdf/1712.01056.pdf) Arxiv 2017
+9. [Variational Deep Embedding(VADE)](https://arxiv.org/pdf/1611.05148.pdf) IJCAI 2017
+10. [Clustering-driven Deep Embedding with Pairwise Constraints(CPAC)](https://arxiv.org/pdf/1803.08457.pdf) Arxiv 2018
+11. [Deep Continuous Clustering(DCC)](https://arxiv.org/pdf/1803.01449.pdf) Arxiv 2018
+12. [Clustering and Unsupervised Anomaly Detection with l2 Normalized Deep Auto-Encoder Representations(CAE)](https://arxiv.org/pdf/1802.00187.pdf) Arxiv 2018
+13. [Deep Subspace Clustering Networks(DSC)](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) NIPS 2017
+14. [Deep Sparse Subspace Clustering(DSSC)](https://arxiv.org/pdf/1709.08374.pdf) Arxiv 2017
+15. [Semi-Supervised Representation Learning based on Probabilistic Labeling(SSRL-PL)](https://arxiv.org/pdf/1605.03072.pdf) Arxiv 2016
+16. [Subspace clustering using a low-rank constrained autoencoder(LRAE)](https://www.sciencedirect.com/science/article/pii/S0020025517309659) Information Science 2018
+17. [ClusterNet : Semi-Supervised Clustering using Neural Networks(ClusterNet)](https://arxiv.org/pdf/1806.01547.pdf) Arxiv 2018
+18. [GEMSEC: Graph Embedding with Self Clustering(GEMSEC)](https://arxiv.org/pdf/1802.03997.pdf) Arxiv 2018
 19. [Learning Latent Representations in Neural Networks For Clustering Through Pseudo Suervison and Graph-Based Activity Regularization(ACOL)](https://openreview.net/pdf?id=HkMvEOlAb)
-20. [Deep Clustering with Convolutional Autoencoders(DCEC)](https://www.researchgate.net/profile/Xifeng_Guo/publication/320658590_Deep_Clustering_with_Convolutional_Autoencoders/links/5a2ba172aca2728e05dea395/Deep-Clustering-with-Convolutional-Autoencoders.pdf)
-21. [Graph Clustering with Dynamic Embedding(GRACE)](https://arxiv.org/pdf/1712.08249.pdf)
-22. [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf)
+20. [Deep Clustering with Convolutional Autoencoders(DCEC)](https://www.researchgate.net/profile/Xifeng_Guo/publication/320658590_Deep_Clustering_with_Convolutional_Autoencoders/links/5a2ba172aca2728e05dea395/Deep-Clustering-with-Convolutional-Autoencoders.pdf) ICONIP 2018
+21. [Graph Clustering with Dynamic Embedding(GRACE)](https://arxiv.org/pdf/1712.08249.pdf) Arxiv 2017
+22. [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf) Arxiv 2017
 23. Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering
+NIPS 2017
 ## Codes
 1. [DEC-Caffe](https://github.com/piiswrong/dec),[DEC-TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering)
 2. [IDEC-Keras](https://github.com/XifengGuo/IDEC),[IDEC-Pytorch](https://github.com/dawnranger/IDEC-pytorch)
