@@ -20,11 +20,11 @@
 | [Subspace clustering using a low-rank constrained autoencoder(LRAE)](https://www.sciencedirect.com/science/article/pii/S0020025517309659) | Information Science 2018 | |
 | [ClusterNet : Semi-Supervised Clustering using Neural Networks(ClusterNet)](https://arxiv.org/pdf/1806.01547.pdf) | Arxiv 2018 | |
 | [GEMSEC: Graph Embedding with Self Clustering(GEMSEC)](https://arxiv.org/pdf/1802.03997.pdf) | Arxiv 2018 | [TensorFlow](https://github.com/benedekrozemberczki/GEMSEC) |
-| [Learning Latent Representations in Neural Networks For Clustering Through Pseudo Suervison and Graph-Based Activity Regularization(ACOL)](https://openreview.net/pdf?id=HkMvEOlAb) | | |
+| [Learning Latent Representations in Neural Networks For Clustering Through Pseudo Suervison and Graph-Based Activity Regularization(ACOL)](https://openreview.net/pdf?id=HkMvEOlAb) | Arxiv 2018 | |
 | [Deep Clustering with Convolutional Autoencoders(DCEC)](https://www.researchgate.net/profile/Xifeng_Guo/publication/320658590_Deep_Clustering_with_Convolutional_Autoencoders/links/5a2ba172aca2728e05dea395/Deep-Clustering-with-Convolutional-Autoencoders.pdf) | ICONIP 2018 | [Keras](https://github.com/XifengGuo/DCEC) |
 | [Graph Clustering with Dynamic Embedding(GRACE)](https://arxiv.org/pdf/1712.08249.pdf) | Arxiv 2017 | |
 | [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf) | Arxiv 2017 | |
 | Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering | NIPS 2017 |
-| [Auto-encoder Based Data Clustering(ABDC)](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
+| [Auto-encoder Based Data Clustering(ABDC)](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP 2013 |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 
 
