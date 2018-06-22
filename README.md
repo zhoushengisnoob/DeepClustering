@@ -2,7 +2,7 @@
 
 |    Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
-|  [Deep Embedding Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
+|  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
 |      [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf)   |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf)  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
 | [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/) | ICPR 2014 | |
