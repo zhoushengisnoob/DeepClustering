@@ -28,7 +28,7 @@
 | [Auto-encoder Based Data Clustering(ABDC)](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP 2013 |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE)|
+| [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
 
-
-##TIPS
+## TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository.
