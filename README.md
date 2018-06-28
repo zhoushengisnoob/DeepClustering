@@ -13,7 +13,6 @@
 | [Clustering-driven Deep Embedding with Pairwise Constraints(CPAC)](https://arxiv.org/pdf/1803.08457.pdf) | Arxiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
 | [Deep Continuous Clustering(DCC)](https://arxiv.org/pdf/1803.01449.pdf) | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
 | [Deep Subspace Clustering Networks(DSC-Nets)](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) | NIPS 2017 |[TensorFlow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
-| [Deep Sparse Subspace Clustering(DSSC)](https://arxiv.org/pdf/1709.08374.pdf) | Arxiv 2017 | |
 | [Semi-Supervised Representation Learning based on Probabilistic Labeling(SSRL-PL)](https://arxiv.org/pdf/1605.03072.pdf) | Arxiv 2016 | |
 | [Subspace clustering using a low-rank constrained autoencoder(LRAE)](https://www.sciencedirect.com/science/article/pii/S0020025517309659) | Information Science 2018 | |
 | [ClusterNet : Semi-Supervised Clustering using Neural Networks(ClusterNet)](https://arxiv.org/pdf/1806.01547.pdf) | Arxiv 2018 | |
