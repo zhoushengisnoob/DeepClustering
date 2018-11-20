@@ -2,6 +2,10 @@
 
 |    Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
+|  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |  NIPS 2017  |    |
+|  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  Arxiv 2018  |    |
+|  [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  2018  |    |
+|  [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf)  |  Arxiv 2018 |    |
 |  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
 |      [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf)   |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf)  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
