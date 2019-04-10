@@ -23,7 +23,6 @@
 | [Deep Clustering with Convolutional Autoencoders(DCEC)](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) | ICONIP 2018 | [Keras](https://github.com/XifengGuo/DCEC) |
 | [Graph Clustering with Dynamic Embedding(GRACE)](https://arxiv.org/pdf/1712.08249.pdf) | Arxiv 2017 | |
 | [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf) | Arxiv 2017 | |
-| Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering | NIPS 2017 |
 | [Auto-encoder Based Data Clustering(ABDC)](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP 2013 |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE)|
