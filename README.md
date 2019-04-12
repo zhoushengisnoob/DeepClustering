@@ -2,7 +2,7 @@
 
 |    Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
-|  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |  NIPS 2017  |    |
+|  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |  NIPS 2017  |  [Pytorch](https://github.com/jariasf/clustering-nips-2017)  |
 |  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  Arxiv 2018  |    |
 |  [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  2018  |    |
 |  [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf)  |  Arxiv 2018 |  [Theano](https://github.com/elieJalbout/Clustering-with-Deep-learning)  |
