@@ -8,6 +8,7 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding.](https://arxiv.org/abs/1908.05968)  |  N2D  |  Arxiv 2019  |  [TensorFlow](https://github.com/rymc/n2d)  |
 |  [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
 | [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf) |  DCC  | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
 | [Graph Clustering with Dynamic Embedding](https://arxiv.org/pdf/1712.08249.pdf) |  GRACE  | Arxiv 2017 | |
