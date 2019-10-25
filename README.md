@@ -19,6 +19,15 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Video Face Clustering with Unknown Number of Clusters](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tapaswi_Video_Face_Clustering_With_Unknown_Number_of_Clusters_ICCV_2019_paper.pdf)  | BCL | ICCV 2019 | [Pytorch](https://github.com/makarandtapaswi/BallClustering_ICCV2019/blob/master/modules.py)  |
+| [ClusterSLAM: A SLAM Backend for Simultaneous Rigid Body](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ClusterSLAM_A_SLAM_Backend_for_Simultaneous_Rigid_Body_Clustering_and_ICCV_2019_paper.pdf)  |  ClusterSLAM|  ICCV 2019  |  |
+|  [Deep Clustering by Gaussian Mixture Variational Autoencoders with Graph Embedding](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf)   |  DGG  |  ICCV 2019  |  [Coming Soon](https://github.com/dodoyang0929/DGG)  |
+|  [Deep Comprehensive Correlation Mining for Image Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Deep_Comprehensive_Correlation_Mining_for_Image_Clustering_ICCV_2019_paper.pdf)  |  DCCM  |  ICCV 2019  |  [Pytorch](https://github.com/Cory-M/DCCM)  |
+|  [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ji_Invariant_Information_Clustering_for_Unsupervised_Image_Classification_and_Segmentation_ICCV_2019_paper.pdf) |  IIC  |  ICCV 2019  |  [Pytorch](https://github.com/xu-ji/IIC)  |
+|  [Subspace Structure-aware Spectral Clustering for Robust Subspace Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yamaguchi_Subspace_Structure-Aware_Spectral_Clustering_for_Robust_Subspace_Clustering_ICCV_2019_paper.pdf)  |  |  ICCV 2019  |  |
+|  [Is an Affine Constraint Needed for Affine Subspace Clustering?](http://openaccess.thecvf.com/content_ICCV_2019/papers/You_Is_an_Affine_Constraint_Needed_for_Affine_Subspace_Clustering_ICCV_2019_paper.pdf)  |  |  ICCV 2019  |  |
+|  [Learning to Discover Novel Visual Categories via Deep Transfer Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf)  |  DTC  |  ICCV 2019  |  [Pytorch](https://github.com/benjaminirving/DTC-testing/tree/5230618d10575ad28e025792c5470883e3be4f67)  |
+|  [Reciprocal Multi-Layer Subspace Learning for Multi-View Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Reciprocal_Multi-Layer_Subspace_Learning_for_Multi-View_Clustering_ICCV_2019_paper.pdf)  |  RMSL  |  ICCV 2019  |   |
 |  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  GEMSEC  |  ASONAM 2019  | [TensorFlow](https://github.com/benedekrozemberczki/GEMSEC) |
 |  [ClusterGAN: Latent Space Clustering in Generative Adversarial Networks](https://arxiv.org/abs/1809.03627) |  ClusterGAN  |  AAAI 2019  |  [TensorFlow](https://github.com/sudiptodip15/ClusterGAN) |
 |   [Adversarial Graph Embedding for Ensemble Clustering](https://www.ijcai.org/proceedings/2019/0494.pdf)  |  AGAE  |  IJCAI 2019  |  |
@@ -47,8 +56,4 @@
 |  [Deep Adaptive Image Clustering](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf) |    |  ICCV 2017||
 
 ## TIPS
-If you find this repository useful to your research or work, it is really appreciate to star this repository.
-
-## News
-The ICCV 2019 paper on clustering will update soon! 
-I am currently finding the code of new ICCV paper! 
+If you find this repository useful to your research or work, it is really appreciate to star this repository. 
