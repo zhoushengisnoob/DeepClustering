@@ -1,4 +1,4 @@
-#Deep Clustering: methods and implements
+# Deep Clustering: methods and implements
 
 |    Survey Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
