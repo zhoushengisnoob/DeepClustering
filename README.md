@@ -1,4 +1,4 @@
-# Deep Clustering: methods and implements
+#Deep Clustering: methods and implements
 
 |    Survey Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
@@ -48,3 +48,7 @@
 
 ## TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository.
+
+## News
+The ICCV 2019 paper on clustering will update soon! 
+I am currently finding the code of new ICCV paper! 
