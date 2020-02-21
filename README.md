@@ -37,7 +37,6 @@
 |  [A Deep Clustering Algorithm based on Gaussian Mixture Model](https://iopscience.iop.org/article/10.1088/1742-6596/1302/3/032012/pdf)  |    |  Journal of Physics: Conference Series 2019  |  |
 | [ Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520) |  DeepCluster  | ECCV 2018 | [Pytorch](https://github.com/facebookresearch/deepcluster) |
 | [Deep Clustering with Convolutional Autoencoders](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) |  DCEC  | ICONIP 2018 | [Keras](https://github.com/XifengGuo/DCEC) |
-
 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) |  SpectralNet  | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
 | [Subspace clustering using a low-rank constrained autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025517309659) |  LRAE  | Information Science 2018 | |
 |  [Unsupervised Multi-Manifold Clustering by Learning Deep Representation](https://pdfs.semanticscholar.org/b852/81d8729038148fd3d8297ea35d632d2e017c.pdf)  |    |  AAAI 2017 Workshop  |  |
