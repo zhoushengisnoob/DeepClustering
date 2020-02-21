@@ -8,6 +8,7 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | Arxiv 2019 | - |
 |  [N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding.](https://arxiv.org/abs/1908.05968)  |  N2D  |  Arxiv 2019  |  [TensorFlow](https://github.com/rymc/n2d)  |
 |  [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
 | [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf) |  DCC  | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
@@ -26,6 +27,7 @@
 |  [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ji_Invariant_Information_Clustering_for_Unsupervised_Image_Classification_and_Segmentation_ICCV_2019_paper.pdf) |  IIC  |  ICCV 2019  |  [Pytorch](https://github.com/xu-ji/IIC)  |
 |  [Subspace Structure-aware Spectral Clustering for Robust Subspace Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yamaguchi_Subspace_Structure-Aware_Spectral_Clustering_for_Robust_Subspace_Clustering_ICCV_2019_paper.pdf)  |  |  ICCV 2019  |  |
 |  [Is an Affine Constraint Needed for Affine Subspace Clustering?](http://openaccess.thecvf.com/content_ICCV_2019/papers/You_Is_an_Affine_Constraint_Needed_for_Affine_Subspace_Clustering_ICCV_2019_paper.pdf)  |  |  ICCV 2019  |  |
+|  [Deep Spectral Clustering using Dual Autoencoder Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.pdf) | | ICCV 2019 | [Tensorflow](https://github.com/xdxuyang/Deep-Spectral-Clustering-using-Dual-Autoencoder-Network) |
 |  [Learning to Discover Novel Visual Categories via Deep Transfer Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf)  |  DTC  |  ICCV 2019  |  [Pytorch](https://github.com/benjaminirving/DTC-testing/tree/5230618d10575ad28e025792c5470883e3be4f67)  |
 |  [Reciprocal Multi-Layer Subspace Learning for Multi-View Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Reciprocal_Multi-Layer_Subspace_Learning_for_Multi-View_Clustering_ICCV_2019_paper.pdf)  |  RMSL  |  ICCV 2019  |   |
 |  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  GEMSEC  |  ASONAM 2019  | [TensorFlow](https://github.com/benedekrozemberczki/GEMSEC) |
@@ -35,6 +37,7 @@
 |  [A Deep Clustering Algorithm based on Gaussian Mixture Model](https://iopscience.iop.org/article/10.1088/1742-6596/1302/3/032012/pdf)  |    |  Journal of Physics: Conference Series 2019  |  |
 | [ Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520) |  DeepCluster  | ECCV 2018 | [Pytorch](https://github.com/facebookresearch/deepcluster) |
 | [Deep Clustering with Convolutional Autoencoders](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) |  DCEC  | ICONIP 2018 | [Keras](https://github.com/XifengGuo/DCEC) |
+
 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) |  SpectralNet  | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
 | [Subspace clustering using a low-rank constrained autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025517309659) |  LRAE  | Information Science 2018 | |
 |  [Unsupervised Multi-Manifold Clustering by Learning Deep Representation](https://pdfs.semanticscholar.org/b852/81d8729038148fd3d8297ea35d632d2e017c.pdf)  |    |  AAAI 2017 Workshop  |  |
