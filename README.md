@@ -17,6 +17,7 @@
 | [Discriminatively Boosted Image Clustering with Fully Convolutional Auto-Encoders](https://arxiv.org/pdf/1703.07980.pdf) |  DBC  | Arxiv 2017 | |
 | [Deep Clustering Network](https://arxiv.org/pdf/1610.04794v1.pdf)  |  DCN  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
 | [Clustering-driven Deep Embedding with Pairwise Constraints](https://arxiv.org/pdf/1803.08457.pdf) |  CPAC  | Arxiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
+| [Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features](https://arxiv.org/abs/1802.01059) | DTC | Arxiv 2018 | [Keras](https://github.com/FlorentF9/DeepTemporalClustering) |
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
@@ -57,6 +58,7 @@
 | [Auto-encoder Based Data Clustering](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) |  ABDC  | CIARP 2013 |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |    |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
 |  [Deep Adaptive Image Clustering](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf) |    |  ICCV 2017||
+| [Deep Embedded Self-Organizing Map: Joint Representation Learning and Self-Organization](http://florentfo.rest/files/ESANN-2019-DeepEmbeddedSOM-full-paper.pdf) | DESOM | ESANN 2019 | [Keras](https://github.com/FlorentF9/DESOM) |
 
 ## TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository. 
