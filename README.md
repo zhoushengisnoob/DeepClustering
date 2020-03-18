@@ -17,9 +17,11 @@
 | [Discriminatively Boosted Image Clustering with Fully Convolutional Auto-Encoders](https://arxiv.org/pdf/1703.07980.pdf) |  DBC  | Arxiv 2017 | |
 | [Deep Clustering Network](https://arxiv.org/pdf/1610.04794v1.pdf)  |  DCN  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
 | [Clustering-driven Deep Embedding with Pairwise Constraints](https://arxiv.org/pdf/1803.08457.pdf) |  CPAC  | Arxiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
+| [Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features](https://arxiv.org/abs/1802.01059) | DTC | Arxiv 2018 | [Keras](https://github.com/FlorentF9/DeepTemporalClustering) |
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Structural Deep Clustering Network](https://arxiv.org/abs/2002.01633)  |  SDCN  |   WWW 2020 |  [Pytorch](https://github.com/461054993/SDCN)  |
 |  [Learning to Cluster Faces on an Affinity Graph](http://personal.ie.cuhk.edu.hk/~ccloy/files/cvpr_2019_cluster.pdf)  |  LTC  |  CVPR 2019  |  [Pytorch](https://github.com/yl-1993/learn-to-cluster)  |
 |  [Video Face Clustering with Unknown Number of Clusters](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tapaswi_Video_Face_Clustering_With_Unknown_Number_of_Clusters_ICCV_2019_paper.pdf)  | BCL | ICCV 2019 | [Pytorch](https://github.com/makarandtapaswi/BallClustering_ICCV2019/blob/master/modules.py)  |
 | [ClusterSLAM: A SLAM Backend for Simultaneous Rigid Body](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ClusterSLAM_A_SLAM_Backend_for_Simultaneous_Rigid_Body_Clustering_and_ICCV_2019_paper.pdf)  |  ClusterSLAM|  ICCV 2019  |  |
