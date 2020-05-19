@@ -8,7 +8,7 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
-| [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World (https://arxiv.org/abs/2004.05551) |  OpenMix  | Arxiv 2020 | - |
+| [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World] (https://arxiv.org/abs/2004.05551) |  OpenMix  | Arxiv 2020 | - |
 | [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | Arxiv 2019 | - |
 |  [N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding.](https://arxiv.org/abs/1908.05968)  |  N2D  |  Arxiv 2019  |  [TensorFlow](https://github.com/rymc/n2d)  |
 |  [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
