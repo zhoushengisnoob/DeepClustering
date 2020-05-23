@@ -22,6 +22,7 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Balanced Self-Paced Learning for Generative Adversarial Clustering Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf)  |  ClusterGAN |  CVPR2019  |    |
 | [Deep Embedded Clustering with Data Augmentation](http://proceedings.mlr.press/v95/guo18b/guo18b.pdf) | DEC-DA | ACML 2018 | [TensorFlow](https://github.com/XifengGuo/DEC-DA) |
 | [Adaptive Self-paced Deep Clustering with Data Augmentation](https://ieeexplore.ieee.org/document/8693526) | ASPC-DA | TKDE 2019 | [TensorFlow](https://github.com/XifengGuo/ASPC-DA) |
 |  [Structural Deep Clustering Network](https://arxiv.org/abs/2002.01633)  |  SDCN  |   WWW 2020 |  [Pytorch](https://github.com/461054993/SDCN)  |
