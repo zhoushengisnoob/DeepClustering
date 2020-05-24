@@ -8,7 +8,6 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
-| [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World](https://arxiv.org/abs/2004.05551) |  OpenMix  | Arxiv 2020 | - |
 | [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | Arxiv 2019 | - |
 |  [N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding.](https://arxiv.org/abs/1908.05968)  |  N2D  |  Arxiv 2019  |  [TensorFlow](https://github.com/rymc/n2d)  |
 |  [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
@@ -22,6 +21,9 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Deep clustering: On the link between discriminative models and K-means](https://arxiv.org/abs/1810.04246)  |  SoftK-means  |  TPAMI 2020  |  [Python](https://github.com/MOhammedJAbi/SoftKMeans)  |
+|  [Image Clustering via Deep Embedded Dimensionality Reduction and Probability-Based Triplet Loss](https://ieeexplore.ieee.org/document/9062501)  |  DERC  |  TIP2020  |  [TensorFlow](https://github.com/DizzyDwarf75/DERC)  |
+|  [Learning Latent Superstructures in Variational Autoencoders for Deep Multidimensional Clustering](https://arxiv.org/abs/1803.05206)  |  LTVAE  |  ICLR 2019  |  [Pytorch](https://github.com/eelxpeng/ltvae-release) |
 |  [Balanced Self-Paced Learning for Generative Adversarial Clustering Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf)  |  ClusterGAN |  CVPR2019  |    |
 | [Deep Embedded Clustering with Data Augmentation](http://proceedings.mlr.press/v95/guo18b/guo18b.pdf) | DEC-DA | ACML 2018 | [TensorFlow](https://github.com/XifengGuo/DEC-DA) |
 | [Adaptive Self-paced Deep Clustering with Data Augmentation](https://ieeexplore.ieee.org/document/8693526) | ASPC-DA | TKDE 2019 | [TensorFlow](https://github.com/XifengGuo/ASPC-DA) |
@@ -53,6 +55,7 @@
 |  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |    |  NIPS 2017 Workshop  |  [Pytorch](https://github.com/jariasf/clustering-nips-2017)  |
 |      [Improved Deep Embedded Clustering with Local Structure Preservation](https://www.ijcai.org/proceedings/2017/0243.pdf)   |  IDEC  |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization](https://arxiv.org/pdf/1704.06327.pdf) |  DEPICT  | ICCV 2017 |  [Theano](https://github.com/herandy/DEPICT) |
+|  [Deep Adaptive Image Clustering](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf) |    |  ICCV 2017||
 | [Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering](https://arxiv.org/pdf/1611.05148.pdf) |  VaDE  | IJCAI 2017 |  [Keras](https://github.com/slim1017/VaDE) |
 | [Deep Subspace Clustering Networks](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) |  DSC-Nets  | NIPS 2017 |[TensorFlow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
 |  [Unsupervised Deep Embedding for Clustering Analysis](http://proceedings.mlr.press/v48/xieb16.pdf) |  DEC  |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
@@ -62,7 +65,7 @@
 | [Deep Embedding Network for Clustering](https://ieeexplore.ieee.org/document/6976982/) | DEN   | ICPR 2014 | |
 | [Auto-encoder Based Data Clustering](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) |  ABDC  | CIARP 2013 |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |    |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
-|  [Deep Adaptive Image Clustering](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf) |    |  ICCV 2017||
+|  [Discriminative Clustering by Regularized Information Maximization](https://papers.nips.cc/paper/4154-discriminative-clustering-by-regularized-information-maximization)  |  RIM  |  NIPS 2010  |  |
 
 ## TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository. 
