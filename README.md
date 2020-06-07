@@ -21,6 +21,7 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/pdf/1911.05371.pdf)  | SeLa |ICLR2020| [Pytorch](https://github.com/yukimasano/self-label)|
 |  [Deep clustering: On the link between discriminative models and K-means](https://arxiv.org/abs/1810.04246)  |  SoftK-means  |  TPAMI 2020  |  [Python](https://github.com/MOhammedJAbi/SoftKMeans)  |
 |  [Image Clustering via Deep Embedded Dimensionality Reduction and Probability-Based Triplet Loss](https://ieeexplore.ieee.org/document/9062501)  |  DERC  |  TIP2020  |  [TensorFlow](https://github.com/DizzyDwarf75/DERC)  |
 |  [Learning Latent Superstructures in Variational Autoencoders for Deep Multidimensional Clustering](https://arxiv.org/abs/1803.05206)  |  LTVAE  |  ICLR 2019  |  [Pytorch](https://github.com/eelxpeng/ltvae-release) |
