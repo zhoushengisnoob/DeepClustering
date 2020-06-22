@@ -21,6 +21,7 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Unsupervised Clustering using Pseudo-semi-supervised Learning](https://openreview.net/pdf?id=rJlnxkSYPS)  |  Kingdra |  ICLR 2020  |  [Keras](https://drive.google.com/open?id=1rvlTYnSDD9UVAy2FkKilM4fGSE75v7Id) |
 |  [Spectral Clustering with Graph Neural Networks for Graph Pooling](https://arxiv.org/pdf/1907.00481.pdf)  |  -  |  ICML 2020  | [TensorFlow](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)|
 |  [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/pdf/1911.05371.pdf)  | SeLa |ICLR2020| [Pytorch](https://github.com/yukimasano/self-label)|
 |  [Deep clustering: On the link between discriminative models and K-means](https://arxiv.org/abs/1810.04246)  |  SoftK-means  |  TPAMI 2020  |  [Python](https://github.com/MOhammedJAbi/SoftKMeans)  |
