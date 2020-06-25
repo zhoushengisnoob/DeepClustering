@@ -21,6 +21,8 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Optimal Sampling and Clustering in the Stochastic Block Model](https://papers.nips.cc/paper/9498-optimal-sampling-and-clustering-in-the-stochastic-block-model)  |  |  NIPS 2019 | [Python](https://github.com/fbsqkd/StochasticBlockModel)|
+|  [Selective Sampling-based Scalable Sparse Subspace Clustering](https://papers.nips.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering)  |  S5C  |  NIPS 2019  |  [MATLAB](https://github.com/smatsus/S5C)  | 
 |  [Unsupervised Clustering using Pseudo-semi-supervised Learning](https://openreview.net/pdf?id=rJlnxkSYPS)  |  Kingdra |  ICLR 2020  |  [Keras](https://drive.google.com/open?id=1rvlTYnSDD9UVAy2FkKilM4fGSE75v7Id) |
 |  [Spectral Clustering with Graph Neural Networks for Graph Pooling](https://arxiv.org/pdf/1907.00481.pdf)  |  -  |  ICML 2020  | [TensorFlow](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)|
 |  [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/pdf/1911.05371.pdf)  | SeLa |ICLR2020| [Pytorch](https://github.com/yukimasano/self-label)|
