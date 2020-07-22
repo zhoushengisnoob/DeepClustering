@@ -21,6 +21,7 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Improving k-Means Clustering Performance with Disentangled Internal Representations](https://arxiv.org/abs/2006.04535)  | Annealing SNNL |  [IJCNN 2020](https://2020.wcci-virtual.org/presentation/poster/improving-k-means-clustering-performance-disentangled-internal-representations)  |  |
 |  [Optimal Sampling and Clustering in the Stochastic Block Model](https://papers.nips.cc/paper/9498-optimal-sampling-and-clustering-in-the-stochastic-block-model)  |  |  NIPS 2019 | [Python](https://github.com/fbsqkd/StochasticBlockModel)|
 |  [Selective Sampling-based Scalable Sparse Subspace Clustering](https://papers.nips.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering)  |  S5C  |  NIPS 2019  |  [MATLAB](https://github.com/smatsus/S5C)  | 
 |  [Unsupervised Clustering using Pseudo-semi-supervised Learning](https://openreview.net/pdf?id=rJlnxkSYPS)  |  Kingdra |  ICLR 2020  |  [Keras](https://drive.google.com/open?id=1rvlTYnSDD9UVAy2FkKilM4fGSE75v7Id) |
