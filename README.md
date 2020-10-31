@@ -22,6 +22,8 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Learning to Cluster under Domain Shift](https://arxiv.org/abs/2008.04646)  | ACIDS |  ECCV 2020 | [Pytorch](https://github.com/willi-menapace/acids-clustering-domain-shift)|
+|  [Online Deep Clustering for Unsupervised Representation Learning](https://arxiv.org/abs/2006.10645v1)  | ODC |  CVPR 2020 | [Python](https://github.com/open-mmlab/OpenSelfSup)|
 |  [Improving k-Means Clustering Performance with Disentangled Internal Representations](https://arxiv.org/abs/2006.04535)  | Annealing SNNL |  [IJCNN 2020](https://2020.wcci-virtual.org/presentation/poster/improving-k-means-clustering-performance-disentangled-internal-representations)  |  |
 |  [Optimal Sampling and Clustering in the Stochastic Block Model](https://papers.nips.cc/paper/9498-optimal-sampling-and-clustering-in-the-stochastic-block-model)  |  |  NIPS 2019 | [Python](https://github.com/fbsqkd/StochasticBlockModel)|
 |  [Selective Sampling-based Scalable Sparse Subspace Clustering](https://papers.nips.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering)  |  S5C  |  NIPS 2019  |  [MATLAB](https://github.com/smatsus/S5C)  | 
