@@ -73,8 +73,9 @@
 | [Joint Unsupervised Learning of Deep Representations and Image Clustering](https://arxiv.org/pdf/1604.03628.pdf) |  JULE  | CVPR 2016 |   [Torch](https://github.com/jwyang/JULE.torch) |
 |  [Clustering Meets Implicit Generative Models](https://openreview.net/forum?id=rk4QYDkwz) |    |  ICLR 2019 workshop  |  |
 |  [CNN-Based Joint Clustering and Representation Learning with Feature Drift Compensation for Large-Scale Image Data](https://arxiv.org/abs/1705.07091)  |    |  IEEE Transactions on Multimedia 2017 |  |
+|[Learning Discrete Representations via Information Maximizing Self-Augmented Training](https://arxiv.org/pdf/1702.08720.pdf)|IMSAT|ICML 2017|[code](https://github.com/weihua916/imsat)|
 | [Deep Embedding Network for Clustering](https://ieeexplore.ieee.org/document/6976982/) | DEN   | ICPR 2014 | |
-| [Auto-encoder Based Data Clustering](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) |  ABDC  | CIARP 2013 |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
+| [Auto-encoder Based Data Clustering](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) |  ABDC  | CIARP 2013 |  [Pytorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |    |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
 |  [Discriminative Clustering by Regularized Information Maximization](https://papers.nips.cc/paper/4154-discriminative-clustering-by-regularized-information-maximization)  |  RIM  |  NIPS 2010  |  |
 
