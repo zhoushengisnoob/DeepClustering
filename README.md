@@ -21,14 +21,15 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
-|  [Adversarial Learning for Robust Deep Clustering](https://proceedings.neurips.cc/paper/2020/hash/6740526b78c0b230e41ae61d8ca07cf5-Abstract.html)  | ALRDC |  NIPS 2020 | [Keras](https://github.com/xdxuyang/ALRDC)|
+|  [Deep Transformation-Invariant Clustering](https://arxiv.org/abs/2006.11132) | DTI | NeurIPS2020 | [Pytorch](https://github.com/monniert/dti-clustering) |
+|  [Adversarial Learning for Robust Deep Clustering](https://proceedings.neurips.cc/paper/2020/hash/6740526b78c0b230e41ae61d8ca07cf5-Abstract.html)  | ALRDC |  NeurIPS 2020 | [Keras](https://github.com/xdxuyang/ALRDC)|
 |  [Learning to Cluster under Domain Shift](https://arxiv.org/abs/2008.04646)  | ACIDS |  ECCV 2020 | [Pytorch](https://github.com/willi-menapace/acids-clustering-domain-shift)|
 | [Deep Semantic Clustering by Partition Confidence Maximisation](https://raymond-sci.github.io/assets/project/huang2020pica/paper.pdf) | PICA | CVPR 2020 | [Pytorch](https://github.com/Raymond-sci/PICA) |
 |  [Online Deep Clustering for Unsupervised Representation Learning](https://arxiv.org/abs/2006.10645v1)  | ODC |  CVPR 2020 | [Python](https://github.com/open-mmlab/OpenSelfSup)|
 |  [Improving k-Means Clustering Performance with Disentangled Internal Representations](https://arxiv.org/abs/2006.04535)  | Annealing SNNL |  IJCNN 2020  |  |
 |  [N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding.](https://arxiv.org/abs/1908.05968)  |  N2D  |  ICPR 2020  |  [TensorFlow](https://github.com/rymc/n2d)  |
-|  [Optimal Sampling and Clustering in the Stochastic Block Model](https://papers.nips.cc/paper/9498-optimal-sampling-and-clustering-in-the-stochastic-block-model)  |  |  NIPS 2019 | [Python](https://github.com/fbsqkd/StochasticBlockModel)|
-|  [Selective Sampling-based Scalable Sparse Subspace Clustering](https://papers.nips.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering)  |  S5C  |  NIPS 2019  |  [MATLAB](https://github.com/smatsus/S5C)  | 
+|  [Optimal Sampling and Clustering in the Stochastic Block Model](https://papers.NeurIPS.cc/paper/9498-optimal-sampling-and-clustering-in-the-stochastic-block-model)  |  |  NeurIPS 2019 | [Python](https://github.com/fbsqkd/StochasticBlockModel)|
+|  [Selective Sampling-based Scalable Sparse Subspace Clustering](https://papers.NeurIPS.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering)  |  S5C  |  NeurIPS 2019  |  [MATLAB](https://github.com/smatsus/S5C)  | 
 |  [Unsupervised Clustering using Pseudo-semi-supervised Learning](https://openreview.net/pdf?id=rJlnxkSYPS)  |  Kingdra |  ICLR 2020  |  [Keras](https://drive.google.com/open?id=1rvlTYnSDD9UVAy2FkKilM4fGSE75v7Id) |
 |  [Spectral Clustering with Graph Neural Networks for Graph Pooling](https://arxiv.org/pdf/1907.00481.pdf)  |  -  |  ICML 2020  | [TensorFlow](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)|
 |  [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/pdf/1911.05371.pdf)  | SeLa |ICLR2020| [Pytorch](https://github.com/yukimasano/self-label)|
@@ -60,15 +61,15 @@
 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) |  SpectralNet  | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
 | [Subspace clustering using a low-rank constrained autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025517309659) |  LRAE  | Information Science 2018 | |
 |  [Unsupervised Multi-Manifold Clustering by Learning Deep Representation](https://pdfs.semanticscholar.org/b852/81d8729038148fd3d8297ea35d632d2e017c.pdf)  |    |  AAAI 2017 Workshop  |  |
-|  [Deep Discriminative Latent Space for Clustering](https://arxiv.org/abs/1805.10795)  |  |  NIPS 2017  |  |
+|  [Deep Discriminative Latent Space for Clustering](https://arxiv.org/abs/1805.10795)  |  |  NeurIPS 2017  |  |
 |  [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](https://arxiv.org/pdf/1610.04794.pdf)  |  DCN  |  PMLR 2017  |  [Theano](https://github.com/boyangumn/DCN-New)  |
 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders](https://arxiv.org/pdf/1611.02648.pdf)|  GMVAE  | ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE)|
-|  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |    |  NIPS 2017 Workshop  |  [Pytorch](https://github.com/jariasf/clustering-nips-2017)  |
+|  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |    |  NeurIPS 2017 Workshop  |  [Pytorch](https://github.com/jariasf/clustering-NeurIPS-2017)  |
 |      [Improved Deep Embedded Clustering with Local Structure Preservation](https://www.ijcai.org/proceedings/2017/0243.pdf)   |  IDEC  |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization](https://arxiv.org/pdf/1704.06327.pdf) |  DEPICT  | ICCV 2017 |  [Theano](https://github.com/herandy/DEPICT) |
 |  [Deep Adaptive Image Clustering](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf) |    |  ICCV 2017||
 | [Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering](https://arxiv.org/pdf/1611.05148.pdf) |  VaDE  | IJCAI 2017 |  [Keras](https://github.com/slim1017/VaDE) |
-| [Deep Subspace Clustering Networks](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) |  DSC-Nets  | NIPS 2017 |[TensorFlow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
+| [Deep Subspace Clustering Networks](http://papers.NeurIPS.cc/paper/6608-deep-subspace-clustering-networks.pdf) |  DSC-Nets  | NeurIPS 2017 |[TensorFlow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
 |  [Unsupervised Deep Embedding for Clustering Analysis](http://proceedings.mlr.press/v48/xieb16.pdf) |  DEC  |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
 | [Joint Unsupervised Learning of Deep Representations and Image Clustering](https://arxiv.org/pdf/1604.03628.pdf) |  JULE  | CVPR 2016 |   [Torch](https://github.com/jwyang/JULE.torch) |
 |  [Clustering Meets Implicit Generative Models](https://openreview.net/forum?id=rk4QYDkwz) |    |  ICLR 2019 workshop  |  |
@@ -77,7 +78,7 @@
 | [Deep Embedding Network for Clustering](https://ieeexplore.ieee.org/document/6976982/) | DEN   | ICPR 2014 | |
 | [Auto-encoder Based Data Clustering](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) |  ABDC  | CIARP 2013 |  [Pytorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |    |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
-|  [Discriminative Clustering by Regularized Information Maximization](https://papers.nips.cc/paper/4154-discriminative-clustering-by-regularized-information-maximization)  |  RIM  |  NIPS 2010  |  |
+|  [Discriminative Clustering by Regularized Information Maximization](https://papers.NeurIPS.cc/paper/4154-discriminative-clustering-by-regularized-information-maximization)  |  RIM  |  NeurIPS 2010  |  |
 
 ## TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository. 
