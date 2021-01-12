@@ -24,6 +24,7 @@
 |  :---------  | :------:  | :------: | :------: |
 |[Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf)|-|AAAI2021|[Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering)|
 |  [Deep Transformation-Invariant Clustering](https://arxiv.org/abs/2006.11132) | DTI | NeurIPS2020 | [Pytorch](https://github.com/monniert/dti-clustering) |
+| [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)|SwAV|NeurIPS2020|[PyTorch](https://github.com/facebookresearch/swav)|
 |  [Adversarial Learning for Robust Deep Clustering](https://proceedings.neurips.cc/paper/2020/hash/6740526b78c0b230e41ae61d8ca07cf5-Abstract.html)  | ALRDC |  NeurIPS 2020 | [Keras](https://github.com/xdxuyang/ALRDC)|
 |  [Learning to Cluster under Domain Shift](https://arxiv.org/abs/2008.04646)  | ACIDS |  ECCV 2020 | [Pytorch](https://github.com/willi-menapace/acids-clustering-domain-shift)|
 | [Deep Semantic Clustering by Partition Confidence Maximisation](https://raymond-sci.github.io/assets/project/huang2020pica/paper.pdf) | PICA | CVPR 2020 | [Pytorch](https://github.com/Raymond-sci/PICA) |
