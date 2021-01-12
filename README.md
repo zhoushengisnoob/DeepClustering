@@ -8,6 +8,7 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|[Deep Robust Clustering by Contrastive Learning](https://arxiv.org/pdf/2008.03030.pdf)|-|Arxiv 2020|-|
 | [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | Arxiv 2019 | - |
 |  [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
 | [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf) |  DCC  | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
@@ -21,6 +22,7 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|[Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf)|-|AAAI2021|[Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering)|
 |  [Deep Transformation-Invariant Clustering](https://arxiv.org/abs/2006.11132) | DTI | NeurIPS2020 | [Pytorch](https://github.com/monniert/dti-clustering) |
 |  [Adversarial Learning for Robust Deep Clustering](https://proceedings.neurips.cc/paper/2020/hash/6740526b78c0b230e41ae61d8ca07cf5-Abstract.html)  | ALRDC |  NeurIPS 2020 | [Keras](https://github.com/xdxuyang/ALRDC)|
 |  [Learning to Cluster under Domain Shift](https://arxiv.org/abs/2008.04646)  | ACIDS |  ECCV 2020 | [Pytorch](https://github.com/willi-menapace/acids-clustering-domain-shift)|
