@@ -9,6 +9,7 @@
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
 |[Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/pdf/2012.11150.pdf)|RUC|Arxiv 2020|[Pytorch](https://github.com/deu30303/RUC)|
+|[An Efficient Framework for Clustered Federated Learning](https://arxiv.org/abs/2006.04088)|IFCA|Arxiv 2020|[Pytorch](https://github.com/jichan3751/ifca)|
 |[Deep Robust Clustering by Contrastive Learning](https://arxiv.org/pdf/2008.03030.pdf)|-|Arxiv 2020|-|
 | [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | Arxiv 2019 | - |
 |  [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
@@ -23,6 +24,7 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|[Deep Subspace Clustering with Data Augmentation](https://proceedings.neurips.cc/paper/2020/hash/753a043674f0193523abc1bbce678686-Abstract.html)|DSCwithDA|NIPS2020|[Pytorch](https://github.com/mahdiabavisani/DSCwithDA)|
 |[Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf)|-|AAAI2021|[Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering)|
 |[Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation](https://openreview.net/pdf?id=e12NDM7wkEY)|IDFD|ICLR2021|-|
 |[MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering ](https://openreview.net/pdf?id=gV3wdEOGy_V)|MiCE|ICLR2021|
