@@ -8,6 +8,7 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|[Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/pdf/2012.11150.pdf)|RUC|Arxiv 2020|[Pytorch](https://github.com/deu30303/RUC)|
 |[Deep Robust Clustering by Contrastive Learning](https://arxiv.org/pdf/2008.03030.pdf)|-|Arxiv 2020|-|
 | [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | Arxiv 2019 | - |
 |  [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
@@ -23,6 +24,9 @@
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
 |[Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf)|-|AAAI2021|[Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering)|
+|[Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation](https://openreview.net/pdf?id=e12NDM7wkEY)|IDFD|ICLR2021|-|
+|[MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering ](https://openreview.net/pdf?id=gV3wdEOGy_V)|MiCE|ICLR2021|
+|[SCAN: Learning to Classify Images without Labels](https://arxiv.org/abs/2005.12320)|SCAN|ECCV2020|[Pytrorch](https://github.com/wvangansbeke/Unsupervised-Classification)|
 |  [Deep Transformation-Invariant Clustering](https://arxiv.org/abs/2006.11132) | DTI | NeurIPS2020 | [Pytorch](https://github.com/monniert/dti-clustering) |
 | [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)|SwAV|NeurIPS2020|[PyTorch](https://github.com/facebookresearch/swav)|
 |  [Adversarial Learning for Robust Deep Clustering](https://proceedings.neurips.cc/paper/2020/hash/6740526b78c0b230e41ae61d8ca07cf5-Abstract.html)  | ALRDC |  NeurIPS 2020 | [Keras](https://github.com/xdxuyang/ALRDC)|
