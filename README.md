@@ -24,6 +24,9 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [GATCluster: Self-Supervised Gaussian-Attention Network for Image Clustering](https://arxiv.org/pdf/2002.11863.pdf) | GATCluster | ECCV 2020 | [Pytorch](https://github.com/niuchuangnn/GATCluster) |
+| [Deep Image Clustering with Category-Style Representation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590052.pdf) | DCCS | ECCV 2020 | [Pytorch](https://github.com/sKamiJ/DCCS) |
+| [MPCC: Matching Priors and Conditionals for Clustering](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680647.pdf) | MPCC | ECCV 2020 | [Waiting](https://github.com/jumpynitro/MPCC) |
 |[Deep Subspace Clustering with Data Augmentation](https://proceedings.neurips.cc/paper/2020/hash/753a043674f0193523abc1bbce678686-Abstract.html)|DSCwithDA|NIPS2020|[Pytorch](https://github.com/mahdiabavisani/DSCwithDA)|
 |[Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf)|-|AAAI2021|[Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering)|
 |[Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation](https://openreview.net/pdf?id=e12NDM7wkEY)|IDFD|ICLR2021|-|
