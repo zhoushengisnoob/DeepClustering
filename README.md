@@ -8,6 +8,8 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination](http://people.eecs.berkeley.edu/~xdwang/papers/CLD.pdf) | CLD | Arxiv 2020 | [Waiting](https://github.com/frank-xwang/CLD-UnsupervisedLearning) |
+| [Un-Mix: Rethinking Image Mixture for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2003.05438.pdf) | Un-Mix | Arxiv 2020 | [Pytorch](https://github.com/szq0214/Un-Mix/tree/master/IM) |
 |[Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/pdf/2012.11150.pdf)|RUC|Arxiv 2020|[Pytorch](https://github.com/deu30303/RUC)|
 |[An Efficient Framework for Clustered Federated Learning](https://arxiv.org/abs/2006.04088)|IFCA|Arxiv 2020|[Pytorch](https://github.com/jichan3751/ifca)|
 |[Deep Robust Clustering by Contrastive Learning](https://arxiv.org/pdf/2008.03030.pdf)|-|Arxiv 2020|-|
@@ -24,6 +26,8 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Variational Clustering: Leveraging Variational Autoencoders for Image Clustering](https://arxiv.org/pdf/2005.04613) | - | IJCNN 2020 | - |
+| [Prototypical Contrastive Learning of Unsupervised Representations](http://export.arxiv.org/pdf/2005.04966) | PCL | ICLR 2021 | [Pytorch](https://github.com/salesforce/PCL) |
 | [GATCluster: Self-Supervised Gaussian-Attention Network for Image Clustering](https://arxiv.org/pdf/2002.11863.pdf) | GATCluster | ECCV 2020 | [Pytorch](https://github.com/niuchuangnn/GATCluster) |
 | [Deep Image Clustering with Category-Style Representation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590052.pdf) | DCCS | ECCV 2020 | [Pytorch](https://github.com/sKamiJ/DCCS) |
 | [MPCC: Matching Priors and Conditionals for Clustering](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680647.pdf) | MPCC | ECCV 2020 | [Waiting](https://github.com/jumpynitro/MPCC) |
