@@ -12,10 +12,9 @@
 | [DHOG: Deep Hierarchical Object Grouping](https://arxiv.org/pdf/2003.08821.pdf) | DHOG | Arxiv 2020 | - |
 | [Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination](http://people.eecs.berkeley.edu/~xdwang/papers/CLD.pdf) | CLD | Arxiv 2020 | [Waiting](https://github.com/frank-xwang/CLD-UnsupervisedLearning) |
 | [Un-Mix: Rethinking Image Mixture for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2003.05438.pdf) | Un-Mix | Arxiv 2020 | [Pytorch](https://github.com/szq0214/Un-Mix/tree/master/IM) |
-|[An Efficient Framework for Clustered Federated Learning](https://arxiv.org/abs/2006.04088)|IFCA|Arxiv 2020|[Pytorch](https://github.com/jichan3751/ifca)|
-|[Deep Robust Clustering by Contrastive Learning](https://arxiv.org/pdf/2008.03030.pdf)|-|Arxiv 2020|-|
+| [An Efficient Framework for Clustered Federated Learning](https://arxiv.org/abs/2006.04088)|IFCA|Arxiv 2020|[Pytorch](https://github.com/jichan3751/ifca)|
 | [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | Arxiv 2019 | - |
-|  [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
+| [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
 | [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf) |  DCC  | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
 | [Graph Clustering with Dynamic Embedding](https://arxiv.org/pdf/1712.08249.pdf) |  GRACE  | Arxiv 2017 | |
 | [Deep Unsupervised Clustering Using Mixture of Autoencoders](https://arxiv.org/pdf/1712.07788.pdf) |  MIXAE  | Arxiv 2017 | |
@@ -23,7 +22,7 @@
 | [Deep Clustering Network](https://arxiv.org/pdf/1610.04794v1.pdf)  |  DCN  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
 | [Clustering-driven Deep Embedding with Pairwise Constraints](https://arxiv.org/pdf/1803.08457.pdf) |  CPAC  | Arxiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
 | [Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features](https://arxiv.org/abs/1802.01059) | DTC | Arxiv 2018 | [Keras](https://github.com/FlorentF9/DeepTemporalClustering) |
-|  [Deep Robust Clustering by Contrastive Learning](https://arxiv.org/abs/2008.03030)  |  DRC |  Arxiv 2020  |   |
+| [Deep Robust Clustering by Contrastive Learning](https://arxiv.org/abs/2008.03030)  |  DRC |  Arxiv 2020  |   |
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
@@ -33,10 +32,10 @@
 | [Prototypical Contrastive Learning of Unsupervised Representations](http://export.arxiv.org/pdf/2005.04966) | PCL | ICLR 2021 | [Pytorch](https://github.com/salesforce/PCL) |
 | [GATCluster: Self-Supervised Gaussian-Attention Network for Image Clustering](https://arxiv.org/pdf/2002.11863.pdf) | GATCluster | ECCV 2020 | [Pytorch](https://github.com/niuchuangnn/GATCluster) |
 | [Deep Image Clustering with Category-Style Representation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590052.pdf) | DCCS | ECCV 2020 | [Pytorch](https://github.com/sKamiJ/DCCS) |
-| [MPCC: Matching Priors and Conditionals for Clustering](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680647.pdf) | MPCC | ECCV 2020 | [Waiting](https://github.com/jumpynitro/MPCC) |
+| [MPCC: Matching Priors and Conditionals for Clustering](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680647.pdf) | MPCC | ECCV 2020 | [Pytorch](https://github.com/jumpynitro/MPCC) |
 |[Deep Subspace Clustering with Data Augmentation](https://proceedings.neurips.cc/paper/2020/hash/753a043674f0193523abc1bbce678686-Abstract.html)|DSCwithDA|NIPS2020|[Pytorch](https://github.com/mahdiabavisani/DSCwithDA)|
-|[Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf)|-|AAAI2021|[Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering)|
-|[Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation](https://openreview.net/pdf?id=e12NDM7wkEY)|IDFD|ICLR2021|-|
+|[Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf)| CC |AAAI2021|[Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering)|
+|[Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation](https://openreview.net/pdf?id=e12NDM7wkEY)|IDFD|ICLR2021| [Pytorch](https://github.com/TTN-YKK/Clustering_friendly_representation_learning) |
 |[MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering ](https://openreview.net/pdf?id=gV3wdEOGy_V)|MiCE|ICLR2021|[Pytorch](https://github.com/TsungWeiTsai/MiCE)|
 |[SCAN: Learning to Classify Images without Labels](https://arxiv.org/abs/2005.12320)|SCAN|ECCV2020|[Pytorch](https://github.com/wvangansbeke/Unsupervised-Classification)|
 |  [Deep Transformation-Invariant Clustering](https://arxiv.org/abs/2006.11132) | DTI | NeurIPS2020 | [Pytorch](https://github.com/monniert/dti-clustering) |
@@ -79,7 +78,7 @@
 | [Deep Clustering with Convolutional Autoencoders](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) |  DCEC  | ICONIP 2018 | [Keras](https://github.com/XifengGuo/DCEC) |
 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) |  SpectralNet  | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
 | [Subspace clustering using a low-rank constrained autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025517309659) |  LRAE  | Information Science 2018 | |
-|  [Unsupervised Multi-Manifold Clustering by Learning Deep Representation](https://pdfs.semanticscholar.org/b852/81d8729038148fd3d8297ea35d632d2e017c.pdf)  |    |  AAAI 2017 Workshop  |  |
+|  [Unsupervised Multi-Manifold Clustering by Learning Deep Representation](https://pdfs.semanticscholar.org/b852/81d8729038148fd3d8297ea35d632d2e017c.pdf)  | DMC |  AAAI 2017 Workshop  |  |
 |  [Deep Discriminative Latent Space for Clustering](https://arxiv.org/abs/1805.10795)  |  |  NeurIPS 2017  |  |
 |  [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](https://arxiv.org/pdf/1610.04794.pdf)  |  DCN  |  PMLR 2017  |  [Theano](https://github.com/boyangumn/DCN-New)  |
 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders](https://arxiv.org/pdf/1611.02648.pdf)|  GMVAE  | ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE)|
@@ -93,10 +92,10 @@
 | [Joint Unsupervised Learning of Deep Representations and Image Clustering](https://arxiv.org/pdf/1604.03628.pdf) |  JULE  | CVPR 2016 |   [Torch](https://github.com/jwyang/JULE.torch) |
 |  [Clustering Meets Implicit Generative Models](https://openreview.net/forum?id=rk4QYDkwz) |    |  ICLR 2019 workshop  |  |
 |  [CNN-Based Joint Clustering and Representation Learning with Feature Drift Compensation for Large-Scale Image Data](https://arxiv.org/abs/1705.07091)  |    |  IEEE Transactions on Multimedia 2017 |  |
-|[Learning Discrete Representations via Information Maximizing Self-Augmented Training](https://arxiv.org/pdf/1702.08720.pdf)|IMSAT|ICML 2017|[code](https://github.com/weihua916/imsat)|
+|[Learning Discrete Representations via Information Maximizing Self-Augmented Training](https://arxiv.org/pdf/1702.08720.pdf)|IMSAT|ICML 2017|[Python](https://github.com/weihua916/imsat)|
 | [Deep Embedding Network for Clustering](https://ieeexplore.ieee.org/document/6976982/) | DEN   | ICPR 2014 | |
 | [Auto-encoder Based Data Clustering](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) |  ABDC  | CIARP 2013 |  [Pytorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
-| [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |    |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
+| [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |    |  AAAI 2014 | [Python](https://github.com/quinngroup/deep-representations-clustering) |
 |  [Discriminative Clustering by Regularized Information Maximization](https://papers.NeurIPS.cc/paper/4154-discriminative-clustering-by-regularized-information-maximization)  |  RIM  |  NeurIPS 2010  |  |
 
 ## TIPS
