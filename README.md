@@ -10,11 +10,10 @@
 |  :---------  | :------:  | :------: | :------: |
 | [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | Arxiv 2021 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
 | [DHOG: Deep Hierarchical Object Grouping](https://arxiv.org/pdf/2003.08821.pdf) | DHOG | Arxiv 2020 | - |
-| [Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination](http://people.eecs.berkeley.edu/~xdwang/papers/CLD.pdf) | CLD | Arxiv 2020 | [Waiting](https://github.com/frank-xwang/CLD-UnsupervisedLearning) |
-| [Un-Mix: Rethinking Image Mixture for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2003.05438.pdf) | Un-Mix | Arxiv 2020 | [Pytorch](https://github.com/szq0214/Un-Mix/tree/master/IM) |
+| [Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination](http://people.eecs.berkeley.edu/~xdwang/papers/CLD.pdf) | CLD | Arxiv 2020 | [Pytorch](https://github.com/frank-xwang/CLD-UnsupervisedLearning) |
+| [Un-Mix: Rethinking Image Mixture for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2003.05438.pdf) | Un-Mix | Arxiv 2020 | [Pytorch](https://github.com/szq0214/Un-Mix) |
 | [An Efficient Framework for Clustered Federated Learning](https://arxiv.org/abs/2006.04088)|IFCA|Arxiv 2020|[Pytorch](https://github.com/jichan3751/ifca)|
 | [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | Arxiv 2019 | - |
-| [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  |  |  Arxiv 2019  |  |
 | [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf) |  DCC  | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
 | [Graph Clustering with Dynamic Embedding](https://arxiv.org/pdf/1712.08249.pdf) |  GRACE  | Arxiv 2017 | |
 | [Deep Unsupervised Clustering Using Mixture of Autoencoders](https://arxiv.org/pdf/1712.07788.pdf) |  MIXAE  | Arxiv 2017 | |
@@ -46,6 +45,7 @@
 |  [Online Deep Clustering for Unsupervised Representation Learning](https://arxiv.org/abs/2006.10645v1)  | ODC |  CVPR 2020 | [Python](https://github.com/open-mmlab/OpenSelfSup)|
 |  [Improving k-Means Clustering Performance with Disentangled Internal Representations](https://arxiv.org/abs/2006.04535)  | Annealing SNNL |  IJCNN 2020  | [PyTorch](https://github.com/afagarap/pt-clustering-ae/) |
 |  [N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding.](https://arxiv.org/abs/1908.05968)  |  N2D  |  ICPR 2020  |  [TensorFlow](https://github.com/rymc/n2d)  |
+| [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532)  | DAEGC |  IJCAI 2019  |  |
 |  [Optimal Sampling and Clustering in the Stochastic Block Model](https://papers.NeurIPS.cc/paper/9498-optimal-sampling-and-clustering-in-the-stochastic-block-model)  |  |  NeurIPS 2019 | [Python](https://github.com/fbsqkd/StochasticBlockModel)|
 |  [Selective Sampling-based Scalable Sparse Subspace Clustering](https://papers.NeurIPS.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering)  |  S5C  |  NeurIPS 2019  |  [MATLAB](https://github.com/smatsus/S5C)  | 
 |  [Unsupervised Clustering using Pseudo-semi-supervised Learning](https://openreview.net/pdf?id=rJlnxkSYPS)  |  Kingdra |  ICLR 2020  |  [Keras](https://github.com/divamgupta/deep-clustering-kingdra) |
@@ -61,7 +61,7 @@
 |  [Learning to Cluster Faces on an Affinity Graph](http://personal.ie.cuhk.edu.hk/~ccloy/files/cvpr_2019_cluster.pdf)  |  LTC  |  CVPR 2019  |  [Pytorch](https://github.com/yl-1993/learn-to-cluster)  |
 |  [Video Face Clustering with Unknown Number of Clusters](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tapaswi_Video_Face_Clustering_With_Unknown_Number_of_Clusters_ICCV_2019_paper.pdf)  | BCL | ICCV 2019 | [Pytorch](https://github.com/makarandtapaswi/BallClustering_ICCV2019/blob/master/modules.py)  |
 | [ClusterSLAM: A SLAM Backend for Simultaneous Rigid Body](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ClusterSLAM_A_SLAM_Backend_for_Simultaneous_Rigid_Body_Clustering_and_ICCV_2019_paper.pdf)  |  ClusterSLAM|  ICCV 2019  |  |
-|  [Deep Clustering by Gaussian Mixture Variational Autoencoders with Graph Embedding](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf)   |  DGG  |  ICCV 2019  |  [Coming Soon](https://github.com/dodoyang0929/DGG)  |
+|  [Deep Clustering by Gaussian Mixture Variational Autoencoders with Graph Embedding](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf)   |  DGG  |  ICCV 2019  |  [Pytorch](https://github.com/ngoc-nguyen-0/DGG)  |
 |  [Deep Comprehensive Correlation Mining for Image Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Deep_Comprehensive_Correlation_Mining_for_Image_Clustering_ICCV_2019_paper.pdf)  |  DCCM  |  ICCV 2019  |  [Pytorch](https://github.com/Cory-M/DCCM)  |
 |  [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ji_Invariant_Information_Clustering_for_Unsupervised_Image_Classification_and_Segmentation_ICCV_2019_paper.pdf) |  IIC  |  ICCV 2019  |  [Pytorch](https://github.com/xu-ji/IIC)  |
 |  [Subspace Structure-aware Spectral Clustering for Robust Subspace Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yamaguchi_Subspace_Structure-Aware_Spectral_Clustering_for_Robust_Subspace_Clustering_ICCV_2019_paper.pdf)  |  |  ICCV 2019  |  |
@@ -83,7 +83,7 @@
 |  [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](https://arxiv.org/pdf/1610.04794.pdf)  |  DCN  |  PMLR 2017  |  [Theano](https://github.com/boyangumn/DCN-New)  |
 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders](https://arxiv.org/pdf/1611.02648.pdf)|  GMVAE  | ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE)|
 |  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |    |  NeurIPS 2017 Workshop  |  [Pytorch](https://github.com/jariasf/clustering-NeurIPS-2017)  |
-|      [Improved Deep Embedded Clustering with Local Structure Preservation](https://www.ijcai.org/proceedings/2017/0243.pdf)   |  IDEC  |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
+|      [Improved Deep Embedded Clustering with Local Structure Preservation](https://www.ijcai.org/proceedings/2017/0243.pdf)   |  IDEC  |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC) [Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization](https://arxiv.org/pdf/1704.06327.pdf) |  DEPICT  | ICCV 2017 |  [Theano](https://github.com/herandy/DEPICT) |
 |  [Deep Adaptive Image Clustering](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf) |  DAC  |  ICCV 2017| [Keras](https://github.com/vector-1127/DAC) |
 | [Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering](https://arxiv.org/pdf/1611.05148.pdf) |  VaDE  | IJCAI 2017 |  [Keras](https://github.com/slim1017/VaDE) |
