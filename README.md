@@ -25,6 +25,8 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Deep clustering with a Dynamic Autoencoder: From reconstruction towards centroids construction](https://arxiv.org/pdf/1901.07752v5.pdf) | DynAE | NN 2020 | [TensorFlow](https://github.com/nairouz/DynAE) |
+| [Adversarial Deep Embedded Clustering: on a better trade-off between Feature Randomness and Feature Drift](https://arxiv.org/pdf/1909.11832v1.pdf) | ADEC | TKDE 2020 | - |
 |[Mitigating Embedding and Class Assignment Mismatch in Unsupervised Image Classification](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690749.pdf)|TSUC|ECCV 2020|[Pytorch](https://github.com/dscig/TwoStageUC)|
 |[Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/pdf/2012.11150.pdf)|RUC|CVPR 2021|[Pytorch](https://github.com/deu30303/RUC)|
 | [Variational Clustering: Leveraging Variational Autoencoders for Image Clustering](https://arxiv.org/pdf/2005.04613) | - | IJCNN 2020 | - |
