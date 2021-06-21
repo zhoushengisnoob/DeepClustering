@@ -25,6 +25,11 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|[Nearest Neighbor Matching for Deep Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.html)|NNM|CVPR 2021|[Pytorch](https://github.com/ZhiyuanDang/NNM)|
+|[Jigsaw Clustering for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Jigsaw_Clustering_for_Unsupervised_Visual_Representation_Learning_CVPR_2021_paper.html)|JigsawClustering|CVPR 2021|[Pytorch](https://github.com/dvlab-research/JigsawClustering)|
+|[COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.html)|COMPLETER|CVPR 2021|[Pytorch](https://github.com/XLearning-SCU/2021-CVPR-Completer)|
+|[Reconsidering Representation Alignment for Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Trosten_Reconsidering_Representation_Alignment_for_Multi-View_Clustering_CVPR_2021_paper.html)|SiMVC & CoMVC|CVPR 2021|[Pytorch](https://github.com/DanielTrosten/mvc)|
+|[Double low-rank representation with projection distance penalty for clustering](https://github.com/fuzhiqiang1230/DLRRPD/blob/main/8382_Double_low_rank_representation_with_projection_distance_penalty_for_clustering.pdf)|DLRRPD|CVPR 2021|[Matlab](https://github.com/fuzhiqiang1230/DLRRPD)|
 |[Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/pdf/2012.11150.pdf)|RUC|CVPR 2021|[Pytorch](https://github.com/deu30303/RUC)|
 | [Prototypical Contrastive Learning of Unsupervised Representations](http://export.arxiv.org/pdf/2005.04966) | PCL | ICLR 2021 | [Pytorch](https://github.com/salesforce/PCL) |
 |[Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf)| CC |AAAI2021|[Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering)|
