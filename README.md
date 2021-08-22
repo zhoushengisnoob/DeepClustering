@@ -8,6 +8,7 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Multi-Facet Clustering Variational Autoencoders](https://arxiv.org/pdf/2106.05241.pdf)  | MFCVAE |  Arxiv 2021 |  [Pytorch](https://github.com/FabianFalck/mfcvae) |
 |  [Deep Clustering with Self-supervision using Pairwise Data Similarities](https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652)  | DCSS |  TechRxiv 2021 |  [Pytorch](https://github.com/Armanfard-Lab/DCSS/blob/main/Codes/train.py) |
 | [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | Arxiv 2021 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
 | [DHOG: Deep Hierarchical Object Grouping](https://arxiv.org/pdf/2003.08821.pdf) | DHOG | Arxiv 2020 | - |
