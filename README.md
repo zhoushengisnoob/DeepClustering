@@ -8,7 +8,7 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
-|  [Multi-Facet Clustering Variational Autoencoders](https://arxiv.org/pdf/2106.05241.pdf)  | MFCVAE |  Arxiv 2021 |  [Pytorch](https://github.com/FabianFalck/mfcvae) |
+|  [Deep Clustering and Representation Learning with Geometric Structure Preservation](https://arxiv.org/abs/2009.09590) | DCRL | Arxiv 2021 | - |
 |  [Deep Clustering with Self-supervision using Pairwise Data Similarities](https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652)  | DCSS |  TechRxiv 2021 |  [Pytorch](https://github.com/Armanfard-Lab/DCSS/blob/main/Codes/train.py) |
 | [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | Arxiv 2021 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
 | [DHOG: Deep Hierarchical Object Grouping](https://arxiv.org/pdf/2003.08821.pdf) | DHOG | Arxiv 2020 | - |
@@ -27,6 +27,8 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Multi-Facet Clustering Variational Autoencoders](https://arxiv.org/pdf/2106.05241.pdf)  | MFCVAE |  NeurIPS 2021 |  [Pytorch](https://github.com/FabianFalck/mfcvae) |
+| [Clustering by Maximizing Mutual Information Across Views](https://arxiv.org/abs/2107.11635) | CRLC | ICCV 2021 | - |
 |[Nearest Neighbor Matching for Deep Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.html)|NNM|CVPR 2021|[Pytorch](https://github.com/ZhiyuanDang/NNM)|
 |[Jigsaw Clustering for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Jigsaw_Clustering_for_Unsupervised_Visual_Representation_Learning_CVPR_2021_paper.html)|JigsawClustering|CVPR 2021|[Pytorch](https://github.com/dvlab-research/JigsawClustering)|
 |[COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.html)|COMPLETER|CVPR 2021|[Pytorch](https://github.com/XLearning-SCU/2021-CVPR-Completer)|
