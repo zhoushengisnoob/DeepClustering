@@ -27,8 +27,10 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [You Never Cluster Alone](https://arxiv.org/abs/2106.01908) | TCC | NeurIPS 2021 | - |
 | [Multi-Facet Clustering Variational Autoencoders](https://arxiv.org/pdf/2106.05241.pdf)  | MFCVAE |  NeurIPS 2021 |  [Pytorch](https://github.com/FabianFalck/mfcvae) |
 | [Clustering by Maximizing Mutual Information Across Views](https://arxiv.org/abs/2107.11635) | CRLC | ICCV 2021 | - |
+| [End-to-end robust joint unsupervised image alignment and clustering](https://openaccess.thecvf.com/content/ICCV2021/papers/Zeng_End-to-End_Robust_Joint_Unsupervised_Image_Alignment_and_Clustering_ICCV_2021_paper.pdf) | Jim-Net | ICCV 2021| - |
 |[Nearest Neighbor Matching for Deep Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.html)|NNM|CVPR 2021|[Pytorch](https://github.com/ZhiyuanDang/NNM)|
 |[Jigsaw Clustering for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Jigsaw_Clustering_for_Unsupervised_Visual_Representation_Learning_CVPR_2021_paper.html)|JigsawClustering|CVPR 2021|[Pytorch](https://github.com/dvlab-research/JigsawClustering)|
 |[COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.html)|COMPLETER|CVPR 2021|[Pytorch](https://github.com/XLearning-SCU/2021-CVPR-Completer)|
