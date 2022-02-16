@@ -1,5 +1,7 @@
 # Deep Clustering: methods and implements
 
+### We are preparing a survey on deep clustering with more detailed induction and analysis, it will be released soon!
+
 |    Survey Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
 |  [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  IEEE ACCESS 2018  |  |
