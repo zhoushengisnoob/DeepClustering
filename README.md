@@ -29,6 +29,7 @@
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Ada-nets: Face Clustering via Adaptive Neighbour Discovery in the Structure Space](https://arxiv.org/pdf/2202.03800) | Ada-NETS | ICLR 2022 | [Pytorch](https://github.com/damo-cv/Ada-NETS) |
 | [Deep Graph Clustering via Dual Correlation Reduction](https://arxiv.org/pdf/2112.14772.pdf) | DCRN | AAAI 2022 | [Pytorch](https://github.com/yueliu1999/DCRN) |
 | [Top-Down Deep Clustering with Multi-generator GANs](https://arxiv.org/pdf/2112.03398.pdf) | HC-MGAN | AAAI 2022 | [Pytorch](https://github.com/dmdmello/HC-MGAN) |
 | [You Never Cluster Alone](https://arxiv.org/abs/2106.01908) | TCC | NeurIPS 2021 | - |
@@ -96,7 +97,7 @@
 | [Deep Clustering with a Dynamic Autoencoder: From Reconstruction Towards Centroids Construction](https://arxiv.org/pdf/1901.07752v5.pdf) | DynAE | Neural Networks 2020 | [TensorFlow](https://github.com/nairouz/DynAE) |
 | [Spectral Clustering via Ensemble Deep Autoencoder Learning (SC-EDAE)](https://www.sciencedirect.com/science/article/pii/S0031320320303253) | SC-EDAE | PR 2020 | - |
 | [Optimal Sampling and Clustering in the Stochastic Block Model](https://papers.NeurIPS.cc/paper/9498-optimal-sampling-and-clustering-in-the-stochastic-block-model) | - | NeurIPS 2019 | [Python](https://github.com/fbsqkd/StochasticBlockModel) |
-| [Selective Sampling-based Scalable Sparse Subspace Clustering](https://papers.NeurIPS.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering) | S5C | NeurIPS 2019 | [MATLAB](https://github.com/smatsus/S5C) | 
+| [Selective Sampling-based Scalable Sparse Subspace Clustering](https://papers.NeurIPS.cc/paper/9408-selective-sampling-based-scalable-sparse-subspace-clustering) | S5C | NeurIPS 2019 | [MATLAB](https://github.com/smatsus/S5C) |
 | [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf) | GEMSEC | ASONAM 2019 | [TensorFlow](https://github.com/benedekrozemberczki/GEMSEC) |
 | [Video Face Clustering with Unknown Number of Clusters](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tapaswi_Video_Face_Clustering_With_Unknown_Number_of_Clusters_ICCV_2019_paper.pdf) | BCL | ICCV 2019 | [Pytorch](https://github.com/makarandtapaswi/BallClustering_ICCV2019/blob/master/modules.py) |
 | [ClusterSLAM: A SLAM Backend for Simultaneous Rigid Body](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ClusterSLAM_A_SLAM_Backend_for_Simultaneous_Rigid_Body_Clustering_and_ICCV_2019_paper.pdf) | ClusterSLAM | ICCV 2019 | - |
