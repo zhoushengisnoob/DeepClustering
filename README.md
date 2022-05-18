@@ -32,7 +32,6 @@
 | [Discriminative Similarity for Data Clustering](https://openreview.net/pdf?id=kj0_45Y4r9i) | CDS | ICLR 2022 | - |
 | [A Deep Variational Approach to Clustering Survival Data](https://openreview.net/pdf?id=RQ428ZptQfU) | VaDeSC | ICLR 2022 | [TensorFlow](https://github.com/i6092467/vadesc) |
 | [Contrastive Fine-grained Class Clustering via Generative Adversarial Networks](https://openreview.net/pdf?id=XWODe7ZLn8f) | C3-GAN | ICLR 2022 | [Pytorch](https://github.com/naver-ai/c3-gan) |
-| [Ada-nets: Face Clustering via Adaptive Neighbour Discovery in the Structure Space](https://arxiv.org/pdf/2202.03800) | Ada-NETS | ICLR 2022 | [Pytorch](https://github.com/damo-cv/Ada-NETS) |
 | [Deep Graph Clustering via Dual Correlation Reduction](https://arxiv.org/pdf/2112.14772.pdf) | DCRN | AAAI 2022 | [Pytorch](https://github.com/yueliu1999/DCRN) |
 | [Top-Down Deep Clustering with Multi-generator GANs](https://arxiv.org/pdf/2112.03398.pdf) | HC-MGAN | AAAI 2022 | [Pytorch](https://github.com/dmdmello/HC-MGAN) |
 | [You Never Cluster Alone](https://arxiv.org/abs/2106.01908) | TCC | NeurIPS 2021 | - |
