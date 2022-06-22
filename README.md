@@ -104,6 +104,8 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Variational Clustering: Leveraging Variational Autoencoders for Image Clustering](https://arxiv.org/pdf/2005.04613) | - | IJCNN 2020 | - |
 | [Improving k-Means Clustering Performance with Disentangled Internal Representations](https://arxiv.org/abs/2006.04535) | Annealing SNNL |  IJCNN 2020 | [Pytorch](https://github.com/afagarap/pt-clustering-ae/) |
 | [Unsupervised clustering through gaussian mixture variational autoencoder with non-reparameterized variational inference and std annealing](https://netman.aiops.org/wp-content/uploads/2020/08/PID6423661.pdf) | NVISA | IJCNN 2020 | - |
+| [Learning to Cluster Faces via Confidence and Connectivity Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_to_Cluster_Faces_via_Confidence_and_Connectivity_Estimation_CVPR_2020_paper.pdf)| LTC v2 | CVPR 2020 | [Pytorch](https://github.com/yl-1993/learn-to-cluster)|
+| [Density-Aware Feature Embedding for Face Clustering](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Density-Aware_Feature_Embedding_for_Face_Clustering_CVPR_2020_paper.pdf)|DA-Net |CVPR 2020|-|
 | [Deep Semantic Clustering by Partition Confidence Maximisation](https://raymond-sci.github.io/assets/project/huang2020pica/paper.pdf) | PICA | CVPR 2020 | [Pytorch](https://github.com/Raymond-sci/PICA) |
 | [Online Deep Clustering for Unsupervised Representation Learning](https://arxiv.org/abs/2006.10645v1) | ODC | CVPR 2020 | [Pytorch](https://github.com/open-mmlab/OpenSelfSup) |
 | [Multi-Scale Fusion Subspace Clustering Using Similarity Constraint](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dang_Multi-Scale_Fusion_Subspace_Clustering_Using_Similarity_Constraint_CVPR_2020_paper.pdf) | SC-MSFSC | CVPR 2020 | - |
@@ -144,6 +146,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Neural Collaborative Subspace Clustering](http://proceedings.mlr.press/v97/zhang19g/zhang19g.pdf) | - | ICML 2019 | - |
 | [Self-Supervised Convolutional Subspace Clustering Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Self-Supervised_Convolutional_Subspace_Clustering_Network_CVPR_2019_paper.pdf) | S^2ConvSCN | CVPR 2019 | - |
 | [Balanced Self-Paced Learning for Generative Adversarial Clustering Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf) | ClusterGAN | CVPR 2019 | - |
+| [Linkage-based Face Clustering via Graph Convolution Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Linkage_Based_Face_Clustering_via_Graph_Convolution_Network_CVPR_2019_paper.pdf)|L-GCN|CVPR 2019| [Pytorch](https://github.com/Zhongdao/gcn_clustering)|
 | [Learning to Cluster Faces on an Affinity Graph](http://personal.ie.cuhk.edu.hk/~ccloy/files/cvpr_2019_cluster.pdf) | LTC | CVPR 2019 | [Pytorch](https://github.com/yl-1993/learn-to-cluster) |
 | [Learning Latent Superstructures in Variational Autoencoders for Deep Multidimensional Clustering](https://arxiv.org/abs/1803.05206) | LTVAE | ICLR 2019 | [Pytorch](https://github.com/eelxpeng/ltvae-release) |
 | [Clustering Meets Implicit Generative Models](https://openreview.net/forum?id=rk4QYDkwz) | - | ICLR 2019 workshop | - |
