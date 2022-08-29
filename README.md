@@ -45,6 +45,8 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Deep Safe Incomplete Multi-view Clustering: Theorem and Algorithm](https://proceedings.mlr.press/v162/tang22c/tang22c.pdf) | DSIMVC | ICML 2022 | [Pytorch](https://github.com/Gasteinh/DSIMVC) |
+| [Locally Normalized Soft Contrastive Clustering for Compact Clusters](https://web.archive.org/web/20220717202429id_/https://www.ijcai.org/proceedings/2022/0457.pdf) | LNSCC | IJCAI 2022 | - |
 | [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/pdf/2205.02618.pdf) | CMHHC | IJCAI 2022 | - |
 | [EMGC$^2$F: Effcient Multi-view Graph Clustering with Comprehensive Fusion](https://www.ijcai.org/proceedings/2022/0495.pdf) | EMGC$^2$F | IJCAI 2022 | - |
 | [Efficient Orthogonal Multi-view Subspace Clustering](https://dl.acm.org/doi/pdf/10.1145/3534678.3539282) | OMSC | KDD 2022 | [MATLAB](https://github.com/ManshengChen/Code-for-OMSC-master) |
@@ -58,6 +60,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Discriminative Similarity for Data Clustering](https://openreview.net/pdf?id=kj0_45Y4r9i) | CDS | ICLR 2022 | - |
 | [A Deep Variational Approach to Clustering Survival Data](https://openreview.net/pdf?id=RQ428ZptQfU) | VaDeSC | ICLR 2022 | [TensorFlow](https://github.com/i6092467/vadesc) |
 | [Contrastive Fine-grained Class Clustering via Generative Adversarial Networks](https://openreview.net/pdf?id=XWODe7ZLn8f) | C3-GAN | ICLR 2022 | [Pytorch](https://github.com/naver-ai/c3-gan) |
+| [Deep Clustering of Text Representations for Supervision-Free Probing of Syntax](https://www.aaai.org/AAAI22Papers/AAAI-7788.GuptaA.pdf) | SyntDEC | AAAI 2022 | - |
 | [Deep Graph Clustering via Dual Correlation Reduction](https://arxiv.org/pdf/2112.14772.pdf) | DCRN | AAAI 2022 | [Pytorch](https://github.com/yueliu1999/DCRN) |
 | [Top-Down Deep Clustering with Multi-generator GANs](https://arxiv.org/pdf/2112.03398.pdf) | HC-MGAN | AAAI 2022 | [Pytorch](https://github.com/dmdmello/HC-MGAN) |
 | [Neural generative model for clustering by separating particularity and commonality](https://www.sciencedirect.com/science/article/pii/S0020025521012585) | DGC | Information Sciences 2022 | - |
