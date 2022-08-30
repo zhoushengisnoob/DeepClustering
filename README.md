@@ -21,6 +21,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | Arxiv 2021 | - |
 | [Exploring Non-Contrastive Representation Learning for Deep Clustering](https://arxiv.org/pdf/2111.11821.pdf) | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) |
 | [Cluster Analysis with Deep Embeddings and Contrastive Learning](https://arxiv.org/pdf/2109.12714.pdf) | - | Arxiv 2021 | - |
 | [Deep Clustering and Representation Learning with Geometric Structure Preservation](https://arxiv.org/abs/2009.09590) | DCRL | Arxiv 2021 | [Pytorch](https://github.com/LirongWu/GCML) |
@@ -175,6 +176,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [A Deep Clustering Algorithm based on Gaussian Mixture Model](https://iopscience.iop.org/article/10.1088/1742-6596/1302/3/032012/pdf) | - | JPCS 2019 | - |
 | [Text document clustering using spectral clustering algorithm with particle swarm optimization](https://www.sciencedirect.com/science/article/pii/S0957417419303598) | SCPSO | ESWA 2019 | [Python](https://github.com/kampaitees/Text-document-clustering-using-Spectral-Clustering-algorithm-with-Particle-Swarm-Optimization) |
 | [Deep Clustering with Convolutional Autoencoders](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) | DCEC | ICONIP 2018 | [Keras](https://github.com/XifengGuo/DCEC) |
+| [RDEC: Integrating Regularization into Deep Embedded Clustering for Imbalanced Datasets](http://proceedings.mlr.press/v95/tao18a/tao18a.pdf) | RDEC | ACML 2018 | - |
 | [Deep Embedded Clustering with Data Augmentation](http://proceedings.mlr.press/v95/guo18b/guo18b.pdf) | DEC-DA | ACML 2018 | [TensorFlow](https://github.com/XifengGuo/DEC-DA) |
 | [Deep adversarial subspace clustering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Deep_Adversarial_Subspace_CVPR_2018_paper.pdf) | DASC | CVPR 2018 | - |
 | [Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520) | DeepCluster | ECCV 2018 | [Pytorch](https://github.com/facebookresearch/deepcluster) |
