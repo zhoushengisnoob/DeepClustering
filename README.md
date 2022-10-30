@@ -13,39 +13,46 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Survey Paper    |  Conference  |
 |  :---------  | :------:  |
-| :triangular_flag_on_post: [**A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions**](https://arxiv.org/abs/2206.07579) | Arxiv 2022 |
+| :triangular_flag_on_post: [**A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions**](https://arxiv.org/abs/2206.07579) | arXiv 2022 |
+| [Deep Clustering: A Comprehensive Survey](https://arxiv.org/pdf/2210.04142.pdf) | arXiv 2022 |
 | [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) | IEEE ACCESS 2018  |
-| [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf) | Arxiv 2018 |
+| [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf) | arXiv 2018 |
 | [Unsupervised clustering for deep learning: A tutorial survey](http://acta.uni-obuda.hu/Karoly_Fuller_Galambos_87.pdf) | APH 2018 |
 
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
-| [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | Arxiv 2021 | - |
-| [Exploring Non-Contrastive Representation Learning for Deep Clustering](https://arxiv.org/pdf/2111.11821.pdf) | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) |
-| [Cluster Analysis with Deep Embeddings and Contrastive Learning](https://arxiv.org/pdf/2109.12714.pdf) | - | Arxiv 2021 | - |
-| [Deep Clustering and Representation Learning with Geometric Structure Preservation](https://arxiv.org/abs/2009.09590) | DCRL | Arxiv 2021 | [Pytorch](https://github.com/LirongWu/GCML) |
+| [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | arXiv 2021 | - |
+| [Exploring Non-Contrastive Representation Learning for Deep Clustering](https://arxiv.org/pdf/2111.11821.pdf) | NCC | arXiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) |
+| [Cluster Analysis with Deep Embeddings and Contrastive Learning](https://arxiv.org/pdf/2109.12714.pdf) | - | arXiv 2021 | - |
+| [Deep Clustering and Representation Learning with Geometric Structure Preservation](https://arxiv.org/abs/2009.09590) | DCRL | arXiv 2021 | [Pytorch](https://github.com/LirongWu/GCML) |
 | [Deep Clustering with Self-supervision using Pairwise Data Similarities](https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652) | DCSS | TechRxiv 2021 | [Pytorch](https://github.com/Armanfard-Lab/DCSS/blob/main/Codes/train.py) |
-| [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | Arxiv 2021 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
-| [Deep clustering by semantic contrastive learning](https://arxiv.org/pdf/2103.02662.pdf) | SCL | Arxiv 2021 | - |
-| [Doubly contrastive deep clustering](https://arxiv.org/pdf/2103.05484.pdf) | DCDC | Arxiv 2021 | [Pytorch](https://github.com/ZhiyuanDang/DCDC) |
-| [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | Arxiv 2021 | - |
-| [DHOG: Deep Hierarchical Object Grouping](https://arxiv.org/pdf/2003.08821.pdf) | DHOG | Arxiv 2020 | - |
-| [Deep Robust Clustering by Contrastive Learning](https://arxiv.org/abs/2008.03030) | DRC | Arxiv 2020 | - |
-| [Un-Mix: Rethinking Image Mixture for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2003.05438.pdf) | Un-Mix | Arxiv 2020 | [Pytorch](https://github.com/szq0214/Un-Mix) |
-| [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | Arxiv 2019 | - |
-| [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf) |  DCC  | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
-| [Clustering-driven Deep Embedding with Pairwise Constraints](https://arxiv.org/pdf/1803.08457.pdf) |  CPAC  | Arxiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
-| [Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features](https://arxiv.org/abs/1802.01059) | DTC | Arxiv 2018 | [Keras](https://github.com/FlorentF9/DeepTemporalClustering) |
-| [Graph Clustering with Dynamic Embedding](https://arxiv.org/pdf/1712.08249.pdf) | GRACE | Arxiv 2017 | - |
-| [Deep Unsupervised Clustering using Mixture of Autoencoders](https://arxiv.org/pdf/1712.07788.pdf) | MIXAE | Arxiv 2017 | - |
-| [Discriminatively Boosted Image Clustering with Fully Convolutional Auto-Encoders](https://arxiv.org/pdf/1703.07980.pdf) | DBC | Arxiv 2017 | - |
-| [Deep Clustering Network](https://arxiv.org/pdf/1610.04794v1.pdf) |  DCN  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
+| [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | arXiv 2021 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
+| [Deep clustering by semantic contrastive learning](https://arxiv.org/pdf/2103.02662.pdf) | SCL | arXiv 2021 | - |
+| [Doubly contrastive deep clustering](https://arxiv.org/pdf/2103.05484.pdf) | DCDC | arXiv 2021 | [Pytorch](https://github.com/ZhiyuanDang/DCDC) |
+| [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | arXiv 2021 | - |
+| [DHOG: Deep Hierarchical Object Grouping](https://arxiv.org/pdf/2003.08821.pdf) | DHOG | arXiv 2020 | - |
+| [Deep Robust Clustering by Contrastive Learning](https://arxiv.org/abs/2008.03030) | DRC | arXiv 2020 | - |
+| [Un-Mix: Rethinking Image Mixture for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2003.05438.pdf) | Un-Mix | arXiv 2020 | [Pytorch](https://github.com/szq0214/Un-Mix) |
+| [Differentiable Deep Clustering with Cluster Size Constraints](https://arxiv.org/pdf/1910.09036.pdf) |  -  | arXiv 2019 | - |
+| [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf) |  DCC  | arXiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
+| [Clustering-driven Deep Embedding with Pairwise Constraints](https://arxiv.org/pdf/1803.08457.pdf) |  CPAC  | arXiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
+| [Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features](https://arxiv.org/abs/1802.01059) | DTC | arXiv 2018 | [Keras](https://github.com/FlorentF9/DeepTemporalClustering) |
+| [Graph Clustering with Dynamic Embedding](https://arxiv.org/pdf/1712.08249.pdf) | GRACE | arXiv 2017 | - |
+| [Deep Unsupervised Clustering using Mixture of Autoencoders](https://arxiv.org/pdf/1712.07788.pdf) | MIXAE | arXiv 2017 | - |
+| [Discriminatively Boosted Image Clustering with Fully Convolutional Auto-Encoders](https://arxiv.org/pdf/1703.07980.pdf) | DBC | arXiv 2017 | - |
+| [Deep Clustering Network](https://arxiv.org/pdf/1610.04794v1.pdf) |  DCN  | arXiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
 
 
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Generalised Mutual Information for Discriminative Clustering](https://arxiv.org/pdf/2210.06300.pdf) | GEMINI | NeurIPS 2022 | - |
+| [Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering](https://arxiv.org/pdf/2210.10462.pdf) | SHGP | NeurIPS 2022 | [Pytorch](https://github.com/kepsail/SHGP) |
+| [GOCA: Guided Online Cluster Assignment for Self-supervised Video Representation Learning](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_1) | GOCA | ECCV 2022 | [Pytorch](https://github.com/Seleucia/goca) |
+| [Fine-Grained Fashion Representation Learning by Online Deep Clustering](https://assets.amazon.science/35/21/586873644828bb72c11308479667/fine-grained-fashion-representation-learning-by-online-deep-clustering.pdf) | MODC | ECCV 2022 | - |
+| [Embedding Contrastive Unsupervised Features to Cluster In- and Out-of-distribution Noise in Corrupted Image Datasets](https://arxiv.org/pdf/2207.01573.pdf) | SNCF | ECCV 2022 | [Pytorch](https://github.com/PaulAlbert31/SNCF) |  
+| [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/pdf/2207.11895.pdf) | - | ECCV 2022 | [Pytorch](https://github.com/echoanran/On-Mitigating-Hard-Clusters) |
 | [Deep Safe Incomplete Multi-view Clustering: Theorem and Algorithm](https://proceedings.mlr.press/v162/tang22c/tang22c.pdf) | DSIMVC | ICML 2022 | [Pytorch](https://github.com/Gasteinh/DSIMVC) |
 | [Locally Normalized Soft Contrastive Clustering for Compact Clusters](https://web.archive.org/web/20220717202429id_/https://www.ijcai.org/proceedings/2022/0457.pdf) | LNSCC | IJCAI 2022 | - |
 | [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/pdf/2205.02618.pdf) | CMHHC | IJCAI 2022 | - |
