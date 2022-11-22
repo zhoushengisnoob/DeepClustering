@@ -22,6 +22,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [C3: Cross-instance guided Contrastive Clustering](https://arxiv.org/pdf/2211.07136.pdf) | C3 | Arxiv 2022 | [Pytorch](https://github.com/Armanfard-Lab/C3) |
 | [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | arXiv 2021 | - |
 | [Exploring Non-Contrastive Representation Learning for Deep Clustering](https://arxiv.org/pdf/2111.11821.pdf) | NCC | arXiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) |
 | [Cluster Analysis with Deep Embeddings and Contrastive Learning](https://arxiv.org/pdf/2109.12714.pdf) | - | arXiv 2021 | - |
