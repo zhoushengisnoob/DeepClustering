@@ -24,14 +24,10 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 |  :---------  | :------:  | :------: | :------: |
 | [C3: Cross-instance guided Contrastive Clustering](https://arxiv.org/pdf/2211.07136.pdf) | C3 | Arxiv 2022 | [Pytorch](https://github.com/Armanfard-Lab/C3) |
 | [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | arXiv 2021 | - |
-| [Exploring Non-Contrastive Representation Learning for Deep Clustering](https://arxiv.org/pdf/2111.11821.pdf) | NCC | arXiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) |
 | [Cluster Analysis with Deep Embeddings and Contrastive Learning](https://arxiv.org/pdf/2109.12714.pdf) | - | arXiv 2021 | - |
-| [Deep Clustering and Representation Learning with Geometric Structure Preservation](https://arxiv.org/abs/2009.09590) | DCRL | arXiv 2021 | [Pytorch](https://github.com/LirongWu/GCML) |
 | [Deep Clustering with Self-supervision using Pairwise Data Similarities](https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652) | DCSS | TechRxiv 2021 | [Pytorch](https://github.com/Armanfard-Lab/DCSS/blob/main/Codes/train.py) |
-| [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | arXiv 2021 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
 | [Deep clustering by semantic contrastive learning](https://arxiv.org/pdf/2103.02662.pdf) | SCL | arXiv 2021 | - |
 | [Doubly contrastive deep clustering](https://arxiv.org/pdf/2103.05484.pdf) | DCDC | arXiv 2021 | [Pytorch](https://github.com/ZhiyuanDang/DCDC) |
-| [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | arXiv 2021 | - |
 | [DHOG: Deep Hierarchical Object Grouping](https://arxiv.org/pdf/2003.08821.pdf) | DHOG | arXiv 2020 | - |
 | [Deep Robust Clustering by Contrastive Learning](https://arxiv.org/abs/2008.03030) | DRC | arXiv 2020 | - |
 | [Un-Mix: Rethinking Image Mixture for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2003.05438.pdf) | Un-Mix | arXiv 2020 | [Pytorch](https://github.com/szq0214/Un-Mix) |
@@ -48,8 +44,10 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | TIP 2022 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
 | [Generalised Mutual Information for Discriminative Clustering](https://arxiv.org/pdf/2210.06300.pdf) | GEMINI | NeurIPS 2022 | - |
 | [Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering](https://arxiv.org/pdf/2210.10462.pdf) | SHGP | NeurIPS 2022 | [Pytorch](https://github.com/kepsail/SHGP) |
+| [Learning Representation for Clustering via Prototype Scattering and Positive Sampling](https://arxiv.org/pdf/2111.11821.pdf) | ProPos | TPAMI 2022 | [Pytorch](https://github.com/Hzzone/ProPos) |
 | [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf) | DCP | TPAMI 2022 | [Pytorch](https://github.com/XLearning-SCU/2022-TPAMI-DCP) |
 | [GOCA: Guided Online Cluster Assignment for Self-supervised Video Representation Learning](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_1) | GOCA | ECCV 2022 | [Pytorch](https://github.com/Seleucia/goca) |
 | [Fine-Grained Fashion Representation Learning by Online Deep Clustering](https://assets.amazon.science/35/21/586873644828bb72c11308479667/fine-grained-fashion-representation-learning-by-online-deep-clustering.pdf) | MODC | ECCV 2022 | - |
