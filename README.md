@@ -10,12 +10,12 @@
 **[:bell: News! :bell: ]
 We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on this repository, with a new perspective of existing deep clustering methods! We are looking forward to any comments or discussions on this topic :)** 
 
-### Data type specific deep clustering
+### Data type specific deep clustering: We also provide some interesting data type specific deep clustering:
 * [Deep Graph Clustering](./graphclustering/README.md)
 
 
 
-
+### Paper List
 |    Survey Paper    |  Conference  |
 |  :---------  | :------:  |
 | :triangular_flag_on_post: [**A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions**](https://arxiv.org/abs/2206.07579) | arXiv 2022 |
