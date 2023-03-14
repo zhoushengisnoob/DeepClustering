@@ -1,13 +1,13 @@
 # Deep Graph Clustering
-| Survey Paper                                                 |  Conference |
-| :----------------------------------------------------------- | :--------: |
+|    Survey Paper    |  Conference  |
+|  :---------  | :------:  |
 | [A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application](https://arxiv.org/abs/2211.12875) | arXiv 2022 |
 | [A Comprehensive Survey on Community Detection with Deep Learning](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) | TNNLS 2022 |
-| [Deep Learning for Community Detection: Progress, Challenges and Opportunities](https://arxiv.org/abs/2211.12875) | IJCAI 2020 |
+| [Deep Learning for Community Detection: Progress, Challenges and Opportunities](https://arxiv.org/pdf/2005.08225.pdf) | IJCAI 2020 |
 
 
-|Pre-print Paper                                                        | Method | Conference |                             Code                             |
-| :----------------------------------------------------------- | :----: | :--------: | :----------------------------------------------------------: |
+|    Pre-print Paper    |  Method  |  Conference  |  Code |
+|  :---------  | :------:  | :------: | :------: |
 | [NCAGC: A Neighborhood Contrast Framework for Attributed Graph Clustering](https://arxiv.org/abs/2206.07897) |  NCAGC   | arXiv 2022  | [Pytorch](https://github.com/wangtong627/CAGC) |
 | [Simple Contrastive Graph Clustering](https://arxiv.org/abs/2205.07865) |  SCGC   | arXiv 2022  |-|
 | [SCGC : Self-Supervised Contrastive Graph Clustering](https://arxiv.org/pdf/2204.12656.pdf) |  SCGC   | arXiv 2022  | [Pytorch](https://github.com/gayanku/SCGC) |
@@ -15,8 +15,8 @@
 | [Graph Clustering with Graph Neural Networks](https://arxiv.org/pdf/2006.16904.pdf) |  DMoN   | arXiv 2020  |[Tensorflow](https://github.com/google-research/google-research/tree/master/graph_embedding/dmon)|
 | [Graph Clustering with Dynamic Embedding](https://arxiv.org/pdf/1712.08249.pdf) |  GRACE   | arXiv 2017  |[Tensorflow](https://github.com/yangji9181/GRACE?utm_source=catalyzex.com)|
 
-| Paper                                                        | Method | Conference |                             Code                             |
-| :----------------------------------------------------------- | :----: | :--------: | :----------------------------------------------------------: |
+| Paper   | Method | Conference |  Code   |
+|  :---------  | :------:  | :------: | :------: |
 | [Hard Sample Aware Network for Contrastive Deep Graph Clustering](https://arxiv.org/pdf/2212.08665.pdf) |  HSAN   | AAAI 2023  | [Pytorch](https://github.com/yueliu1999/HSAN) |
 | [Cluster-guided Contrastive Graph Clustering Network](https://arxiv.org/pdf/2301.01098.pdf) |  CCGC   | AAAI 2023  | [Pytorch](https://github.com/xihongyang1999/CCGC) |
 | [Deep Graph Clustering via Dual Correlation Reduction](https://aaai-2022.virtualchair.net/poster_aaai5928) |  DCRN   | AAAI 2022  | [Pytorch](https://github.com/yueliu1999/DCRN) |
