@@ -198,7 +198,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Deep Embedded Clustering with Data Augmentation](http://proceedings.mlr.press/v95/guo18b/guo18b.pdf) | DEC-DA | ACML 2018 | [TensorFlow](https://github.com/XifengGuo/DEC-DA) |
 | [Deep adversarial subspace clustering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Deep_Adversarial_Subspace_CVPR_2018_paper.pdf) | DASC | CVPR 2018 | - |
 | [Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520) | DeepCluster | ECCV 2018 | [Pytorch](https://github.com/facebookresearch/deepcluster) |
-| [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) | SpectralNet | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
+| [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) | SpectralNet | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) [PyTorch](https://github.com/shaham-lab/SpectralNet) |
 | [Mixture of GANs for Clustering](https://idea-stat.snu.ac.kr/seminar/20200516/Mixture_of_GANs_for_Clustering_final.pdf) | - | IJCAI 2018 | - |
 | [Subspace Clustering using a Low-rank Constrained Autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025517309659) | LRAE | Information Science 2018 | - |
 | [Deep Discriminative Latent Space for Clustering](https://arxiv.org/abs/1805.10795) | - |  NeurIPS 2017  | - |
