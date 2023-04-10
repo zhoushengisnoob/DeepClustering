@@ -49,6 +49,9 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment](https://arxiv.org/pdf/2303.15689.pdf) | IMVC | CVPR 2023 | - |
+| [On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering](https://arxiv.org/pdf/2303.09877.pdf)| DeepMVC | CVPR 2023 | [Pytorch](https://github.com/DanielTrosten/DeepMVC) |
+| [DivClust: Controlling Diversity in Deep Clustering](https://arxiv.org/pdf/2304.01042.pdf) | DivClust | CVPR 2023 | [Coming](https://github.com/ManiadisG/DivClust) |
 | [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | TIP 2022 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
 | [Generalised Mutual Information for Discriminative Clustering](https://arxiv.org/pdf/2210.06300.pdf) | GEMINI | NeurIPS 2022 | - |
 | [Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering](https://arxiv.org/pdf/2210.10462.pdf) | SHGP | NeurIPS 2022 | [Pytorch](https://github.com/kepsail/SHGP) |
