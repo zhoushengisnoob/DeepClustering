@@ -49,9 +49,25 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Deep Multiview Clustering by Contrasting Cluster Assignments](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Deep_Multiview_Clustering_by_Contrasting_Cluster_Assignments_ICCV_2023_paper.html) | CVCL | ICCV 2023 | [Pytorch](https://github.com/chenjie20/CVCL) |
+| [Stable Cluster Discrimination for Deep Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Qian_Stable_Cluster_Discrimination_for_Deep_Clustering_ICCV_2023_paper.html) | SeCu | ICCV 2023 | - |
+| [Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.html) | CTCC | ICCV 2023 | - |
+| [Deep Multi-view Subspace Clustering with Anchor Graph](https://www.ijcai.org/proceedings/2023/398) | DMCAG | IJCAI 2023 | - |
+| [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/435) | ProImp | IJCAI 2023 | - |
+| [CONGREGATE: Contrastive Graph Clustering in Curvature Spaces](https://www.ijcai.org/proceedings/2023/255) | CONGREGATE | IJCAI 2023 | [Pytorch](https://github.com/CurvCluster/Congregate) |
+| [Multi-level Graph Contrastive Prototypical Clustering](https://www.ijcai.org/proceedings/2023/513) | MLG-CPC | IJCAI 2023 | - |
+| [Dink-Net: Neural Clustering on Large Graphs](https://proceedings.mlr.press/v202/liu23v.html) | Dink-Net | ICML 2023 | [Pytorch](https://github.com/yueliu1999/Dink-Net) |
+| [Cluster-Guided Contrastive Graph Clustering Network](https://ojs.aaai.org/index.php/AAAI/article/view/26285) | CCGC | AAAI 2023 | [Pytorch](https://github.com/xihongyang1999/CCGC) |
+| [Hard Sample Aware Network for Contrastive Deep Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26071) | HSAN | AAAI 2023 | [Pytorch](https://github.com/yueliu1999/HSAN) |
+| [Dual Mutual Information Constraints for Discriminative Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26032) | DMICC | AAAI 2023 | [Pytorch](https://github.com/Li-Hyn/DMICC) |
+| [Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25960) | SGDMC | AAAI 2023 | - |
+| [Scalable Attributed-Graph Subspace Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25918) | SAGSC | AAAI 2023 | [TensorFlow](https://github.com/chakib401/sagsc) |
+| [Semantic-Enhanced Image Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25841) | SIC | AAAI 2023 | - |
+| [GLCC: A General Framework for Graph-Level Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25559) | GLCC | AAAI 2023 | - |
+| [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html) | HCLS_CGL | CVPR 2023 | - |
 | [Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment](https://arxiv.org/pdf/2303.15689.pdf) | IMVC | CVPR 2023 | - |
 | [On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering](https://arxiv.org/pdf/2303.09877.pdf)| DeepMVC | CVPR 2023 | [Pytorch](https://github.com/DanielTrosten/DeepMVC) |
-| [DivClust: Controlling Diversity in Deep Clustering](https://arxiv.org/pdf/2304.01042.pdf) | DivClust | CVPR 2023 | [Coming](https://github.com/ManiadisG/DivClust) |
+| [DivClust: Controlling Diversity in Deep Clustering](https://arxiv.org/pdf/2304.01042.pdf) | DivClust | CVPR 2023 | [Pytorch](https://github.com/ManiadisG/DivClust) |
 | [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | TIP 2022 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
 | [Generalised Mutual Information for Discriminative Clustering](https://arxiv.org/pdf/2210.06300.pdf) | GEMINI | NeurIPS 2022 | - |
 | [Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering](https://arxiv.org/pdf/2210.10462.pdf) | SHGP | NeurIPS 2022 | [Pytorch](https://github.com/kepsail/SHGP) |
