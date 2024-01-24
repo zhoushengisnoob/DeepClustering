@@ -49,6 +49,8 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Contrastive Hierarchical Clustering](https://arxiv.org/abs/2303.03389) | CHC | ECML PKDD 2023 | [Pytorch](https://github.com/MichalZnalezniak/Contrastive-Hierarchical-Clustering) |
+| [Deep Multiview Clustering by Contrasting Cluster Assignments](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Deep_Multiview_Clustering_by_Contrasting_Cluster_Assignments_ICCV_2023_paper.html) | CVCL | ICCV 2023 | [Pytorch](https://github.com/chenjie20/CVCL) |
 | [A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery](https://ieeexplore.ieee.org/document/10349963) | USNID | IEEE TKDE 2023 | [Pytorch](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) |
 | [Deep Multiview Clustering by Contrasting Cluster Assignments](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Deep_Multiview_Clustering_by_Contrasting_Cluster_Assignments_ICCV_2023_paper.html) | CVCL | ICCV 2023 | [Pytorch](https://github.com/chenjie20/CVCL) |
 | [Stable Cluster Discrimination for Deep Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Qian_Stable_Cluster_Discrimination_for_Deep_Clustering_ICCV_2023_paper.html) | SeCu | ICCV 2023 | - |
