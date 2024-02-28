@@ -49,6 +49,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery](https://ieeexplore.ieee.org/document/10349963) | USNID | IEEE TKDE 2023 | [Pytorch](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) |
 | [Deep Multiview Clustering by Contrasting Cluster Assignments](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Deep_Multiview_Clustering_by_Contrasting_Cluster_Assignments_ICCV_2023_paper.html) | CVCL | ICCV 2023 | [Pytorch](https://github.com/chenjie20/CVCL) |
 | [Stable Cluster Discrimination for Deep Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Qian_Stable_Cluster_Discrimination_for_Deep_Clustering_ICCV_2023_paper.html) | SeCu | ICCV 2023 | - |
 | [Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.html) | CTCC | ICCV 2023 | - |
@@ -128,6 +129,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation](https://openreview.net/pdf?id=e12NDM7wkEY) | IDFD | ICLR 2021 | [Pytorch](https://github.com/TTN-YKK/Clustering_friendly_representation_learning) |
 | [MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering](https://openreview.net/pdf?id=gV3wdEOGy_V) | MiCE | ICLR 2021 | [Pytorch](https://github.com/TsungWeiTsai/MiCE) |
 | [Dip-based Deep Embedded Clustering with k-Estimation](https://dl.acm.org/doi/pdf/10.1145/3447548.3467316) | DipDECK | KDD 2021 | [Pytorch](https://github.com/collinleiber/ClustPy) |
+| [Discovering New Intents with Deep Aligned Clustering](https://arxiv.org/pdf/2012.08987.pdf) | DeepAligned | AAAI 2021 | [Pytorch](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) |
 | [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf) | CC | AAAI 2021 | [Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering) |
 | [Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-833.YaoY.pdf) | RNNGCN | AAAI 2021 | [Pytorch](https://github.com/InterpretableClustering/InterpretableClustering) |
 | [LRSC: Learning Representations for Subspace Clustering](https://www.aaai.org/AAAI21Papers/AAAI-2600.LiC.pdf) | LRSC | AAAI 2021 | - |
@@ -167,6 +169,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Self-labelling via Simultaneous Clustering and Representation Learning](https://arxiv.org/pdf/1911.05371.pdf)  | SeLa |ICLR 2020| [Pytorch](https://github.com/yukimasano/self-label)|
 | [Structural Deep Clustering Network](https://arxiv.org/abs/2002.01633) | SDCN | WWW 2020 | [Pytorch](https://github.com/461054993/SDCN) |
 | [Deep Embedded Non-Redundant Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/5961) | ENRC | AAAI 2020 | [PyTorch](https://gitlab.cs.univie.ac.at/lukas/enrcpublic)  |
+| [Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement](https://arxiv.org/abs/1911.08891) | CDAC+ | AAAI 2020 | [Pytorch](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) |
 | [Unified Graph and Low-Rank Tensor Learning for Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/6109) | UGLTL | AAAI 2020 | - |
 | [Multi-View Clustering in Latent Embedding Space](https://ojs.aaai.org/index.php/AAAI/article/view/5756) | MCLES | AAAI 2020 | [MATLAB](https://github.com/ManshengChen/MCLES) |
 | [Hierarchically Clustered Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6034) | HCRL | AAAI 2020 | - |
