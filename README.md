@@ -49,6 +49,20 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization](https://openreview.net/pdf?id=fiugPLSXjK) | EDISON | ICML 2024 | - |
+| [Diffusion-based Missing-view Generation With the Application on Incomplete Multi-view Clustering](https://openreview.net/pdf?id=OHFxcU9jwW) | DMVG | ICML 2024 | [Pytorch](https://github.com/ckghostwj/DMVG/tree/main) |
+| [Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework](https://openreview.net/pdf?id=D9EfAkQCzh) | AR-DMVC | ICML 2024 | [To be released](https://github.com/libertyhhn/AR-DMVC) |
+| [Interpretable Deep Clustering for Tabular Data](https://openreview.net/pdf?id=QPy7zLfvof) | IDC | ICML 2024 | [To be released](https://github.com/jsvir/idc) |
+| [Multi-View Clustering by Inter-cluster Connectivity Guided Reward](https://openreview.net/pdf?id=uEx2bSAJu8) | - | ICML 2024 | - |
+| [Image Clustering with External Guidance](https://openreview.net/pdf?id=JSYN891WnB) | TAC | ICML 2024 | [Pytotrch](https://github.com/XLearning-SCU/2024-ICML-TAC) |
+| [LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering](https://openreview.net/pdf?id=L6SRXG92s6) | LSEnet | ICML 2024 | [Pytorch](https://github.com/ZhenhHuang/LSEnet) |
+| [Towards Resource-friendly, Extensible and Stable Incomplete Multi-view Clustering](https://openreview.net/pdf?id=O45u81aby2) | ToRES | ICML 2024 | - |
+| [Image Clustering via the Principle of Rate Reduction in the Age of Pretrained Models](https://openreview.net/pdf?id=ptCIlV24YZ) | CCP | ICLR 2024 | [Pytorch](https://github.com/LeslieTrue/CPP) |
+| [P2OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering](https://openreview.net/pdf?id=hD3sGVqPsr) | P2OT | ICLR 2024 | [Pytorch](https://github.com/rhfeiyang/PPOT) |
+| [Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders](https://openreview.net/pdf?id=k5THrhXDV3) | CMVAE | ICLR 2024 | [To be released](https://github.com/epalu/CMVAE) |
+| [Local Graph Clustering with Noisy Labels](https://openreview.net/pdf?id=89A5c6enfc) | - | ICLR 2024 | - |
+| [Image Clustering Conditioned on Text Criteria](https://openreview.net/pdf?id=G2cG3mQqop) |  IC\|TC  | ICLR 2024 | [Pytorch](https://github.com/sehyunkwon/ICTC) |
+| [Deep Temporal Graph Clustering](https://openreview.net/pdf?id=ViNe1fjGME) | TGC | ICLR 2024 | [Pytorch](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering) |
 | [Differentiable Information Bottleneck for Deterministic Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_Differentiable_Information_Bottleneck_for_Deterministic_Multi-view_Clustering_CVPR_2024_paper.pdf) | DIB |CVPR 2024| - |
 | [Investigating and Mitigating the Side Effects of Noisy Views for Self-Supervised Clustering Algorithms in Practical Multi-View Scenarios](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Investigating_and_Mitigating_the_Side_Effects_of_Noisy_Views_for_CVPR_2024_paper.pdf)| MVCAN|CVPR 2024| [Pytorch](https://github.com/SubmissionsIn/MVCAN)|
 | [Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Learn_from_View_Correlation_An_Anchor_Enhancement_Strategy_for_Multi-view_CVPR_2024_paper.pdf) | AEVC | CVPR 2024| |
