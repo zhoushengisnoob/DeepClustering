@@ -49,6 +49,37 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Efficient Constrained K-center Clustering with Background Knowledge](https://ojs.aaai.org/index.php/AAAI/article/view/30058) | ML-CL-k-Center | AAAI 2024 | [Pytorch](https://github.com/ChaoqiJia/ML-CL-k-Center) |
+| [SEC: More Accurate Clustering Algorithm via Structural Entropy](https://ojs.aaai.org/index.php/AAAI/article/view/29152) | - | AAAI 2024 | - |
+| [Enhancing Ensemble Clustering with Adaptive High-Order Topological Weights](https://ojs.aaai.org/index.php/AAAI/article/view/29552) | AWEC | AAAI 2024 | [Pytorch](https://github.com/ltyong/awec) |
+| [Upper Bounding Barlow Twins: A Novel Filter for Multi-Relational Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29383) | BTGF | AAAI 2024 | [Pytorch](https://github.com/XweiQ/BTGF) |
+| [Decoupled Contrastive Multi-View Clustering with High-Order Random Walks](https://ojs.aaai.org/index.php/AAAI/article/view/29330) | DIVIDE | AAAI 2024 | [Pytorch](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE) |
+| [Low-Distortion Clustering with Ordinal and Limited Cardinal Information](https://ojs.aaai.org/index.php/AAAI/article/view/28811) | - | AAAI 2024 | - |
+| [Double-Bounded Optimal Transport for Advanced Clustering and Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29419) | DB-OT | AAAI 2024 | - |
+| [Partial Multi-View Clustering via Self-Supervised Network](https://ojs.aaai.org/index.php/AAAI/article/view/29086) | PVC-SSN | AAAI 2024 | - |
+| [DVSAI: Diverse View-Shared Anchors Based Incomplete Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29595) | DVSAI | AAAI 2024 | - |
+| [Embedded Feature Selection on Graph-Based Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29645) | EFSGMC | AAAI 2024 | - |
+| [Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding](https://ojs.aaai.org/index.php/AAAI/article/view/29000) | ICMVC | AAAI 2024 | [Pytorch](https://github.com/liunian-Jay/ICMVC) |
+| [Deep Variational Incomplete Multi-View Clustering: Exploring Shared Clustering Structures](https://ojs.aaai.org/index.php/AAAI/article/view/29548) | - | AAAI 2024 | - |
+| [Towards a Theoretical Understanding of Why Local Search Works for Clustering with Fair-Center Representation](https://ojs.aaai.org/index.php/AAAI/article/view/29638) | - | AAAI 2024 | - |
+| [Live and Learn: Continual Action Clustering with Incremental Views](https://ojs.aaai.org/index.php/AAAI/article/view/29561) | CAC | AAAI 2024 | - |
+| [Learning Cluster-Wise Anchors for Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29609) | CAMVC | AAAI 2024 | - |
+| [Multi-Level Cross-Modal Alignment for Image Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29387) | - | AAAI 2024 | - |
+| [Cross-Domain Contrastive Learning for Time Series Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/28740) | CDCC | AAAI 2024 | [Pytorch](https://github.com/JiacLuo/CDCC) |
+| [RPSC: Robust Pseudo-Labeling for Semantic Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29309) | RPSC | AAAI 2024 | - |
+| [Low-Rank Kernel Tensor Learning for Incomplete Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29526) | LRKT-IMVC | AAAI 2024 | - |
+| [SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29478) | SURER | AAAI 2024 | - |
+| [A Non-parametric Graph Clustering Framework for Multi-View Data](https://ojs.aaai.org/index.php/AAAI/article/view/29594) | NpGC | AAAI 2024 | - |
+| [An Optimal Transport View for Subspace Clustering and Spectral Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29563) | SFGWH | AAAI 2024 | - |
+| [Every Node Is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29664) | DyFSS | AAAI 2024 | [Pytorch](https://github.com/q086/DyFSS) |
+| [DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization](https://ojs.aaai.org/index.php/AAAI/article/view/28983) | DGCLUSTER | AAAI 2024 | [Pytorch](https://github.com/pyrobits/DGCluster) |
+| [Discriminatively Fuzzy Multi-View K-means Clustering with Local Structure Preserving](https://ojs.aaai.org/index.php/AAAI/article/view/29585) | DFMKLS | AAAI 2024 | - |
+| [Adaptive Feature Imputation with Latent Graph for Deep Incomplete Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29380) | AGDIMC | AAAI 2024 | - |
+| [Sample-Level Cross-View Similarity Learning for Incomplete Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29310) | SCSL | AAAI 2024 | [Pytorch](https://github.com/Tracesource/SCSL) |
+| [Inducing Clusters Deep Kernel Gaussian Process for Longitudinal Data](https://ojs.aaai.org/index.php/AAAI/article/view/29279) | ICDKGP | AAAI 2024 | [Pytorch](https://github.com/junjieliang672/ICDKGP) |
+| [Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29514) | AHGFC | AAAI 2024 | - |
+| [Hard Regularization to Prevent Deep Online Clustering Collapse without Data Augmentation](https://ojs.aaai.org/index.php/AAAI/article/view/29340) | - | AAAI 2024 | [Pytorch](https://github.com/Lou1sM/online_hard_clustering) |
+| [Attribute-Missing Graph Clustering Network](https://ojs.aaai.org/index.php/AAAI/article/view/29464) | AMGC | AAAI 2024 | [Pytorch](https://github.com/WxTu/AMGC) |
 | [EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization](https://openreview.net/pdf?id=fiugPLSXjK) | EDISON | ICML 2024 | - |
 | [Diffusion-based Missing-view Generation With the Application on Incomplete Multi-view Clustering](https://openreview.net/pdf?id=OHFxcU9jwW) | DMVG | ICML 2024 | [Pytorch](https://github.com/ckghostwj/DMVG/tree/main) |
 | [Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework](https://openreview.net/pdf?id=D9EfAkQCzh) | AR-DMVC | ICML 2024 | [To be released](https://github.com/libertyhhn/AR-DMVC) |
