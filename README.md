@@ -40,7 +40,6 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf) |  DCC  | arXiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
 | [Clustering-driven Deep Embedding with Pairwise Constraints](https://arxiv.org/pdf/1803.08457.pdf) |  CPAC  | arXiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
 | [Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features](https://arxiv.org/abs/1802.01059) | DTC | arXiv 2018 | [Keras](https://github.com/FlorentF9/DeepTemporalClustering) |
-| [Graph Clustering with Dynamic Embedding](https://arxiv.org/pdf/1712.08249.pdf) | GRACE | arXiv 2017 | - |
 | [Deep Unsupervised Clustering using Mixture of Autoencoders](https://arxiv.org/pdf/1712.07788.pdf) | MIXAE | arXiv 2017 | - |
 | [Discriminatively Boosted Image Clustering with Fully Convolutional Auto-Encoders](https://arxiv.org/pdf/1703.07980.pdf) | DBC | arXiv 2017 | - |
 | [Deep Clustering Network](https://arxiv.org/pdf/1610.04794v1.pdf) |  DCN  | arXiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
@@ -71,29 +70,22 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29478) | SURER | AAAI 2024 | - |
 | [A Non-parametric Graph Clustering Framework for Multi-View Data](https://ojs.aaai.org/index.php/AAAI/article/view/29594) | NpGC | AAAI 2024 | - |
 | [An Optimal Transport View for Subspace Clustering and Spectral Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29563) | SFGWH | AAAI 2024 | - |
-| [Every Node Is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29664) | DyFSS | AAAI 2024 | [Pytorch](https://github.com/q086/DyFSS) |
-| [DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization](https://ojs.aaai.org/index.php/AAAI/article/view/28983) | DGCLUSTER | AAAI 2024 | [Pytorch](https://github.com/pyrobits/DGCluster) |
 | [Discriminatively Fuzzy Multi-View K-means Clustering with Local Structure Preserving](https://ojs.aaai.org/index.php/AAAI/article/view/29585) | DFMKLS | AAAI 2024 | - |
 | [Adaptive Feature Imputation with Latent Graph for Deep Incomplete Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29380) | AGDIMC | AAAI 2024 | - |
 | [Sample-Level Cross-View Similarity Learning for Incomplete Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29310) | SCSL | AAAI 2024 | [Pytorch](https://github.com/Tracesource/SCSL) |
 | [Inducing Clusters Deep Kernel Gaussian Process for Longitudinal Data](https://ojs.aaai.org/index.php/AAAI/article/view/29279) | ICDKGP | AAAI 2024 | [Pytorch](https://github.com/junjieliang672/ICDKGP) |
-| [Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29514) | AHGFC | AAAI 2024 | - |
 | [Hard Regularization to Prevent Deep Online Clustering Collapse without Data Augmentation](https://ojs.aaai.org/index.php/AAAI/article/view/29340) | - | AAAI 2024 | [Pytorch](https://github.com/Lou1sM/online_hard_clustering) |
-| [Attribute-Missing Graph Clustering Network](https://ojs.aaai.org/index.php/AAAI/article/view/29464) | AMGC | AAAI 2024 | [Pytorch](https://github.com/WxTu/AMGC) |
 | [EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization](https://openreview.net/pdf?id=fiugPLSXjK) | EDISON | ICML 2024 | - |
 | [Diffusion-based Missing-view Generation With the Application on Incomplete Multi-view Clustering](https://openreview.net/pdf?id=OHFxcU9jwW) | DMVG | ICML 2024 | [Pytorch](https://github.com/ckghostwj/DMVG/tree/main) |
 | [Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework](https://openreview.net/pdf?id=D9EfAkQCzh) | AR-DMVC | ICML 2024 | [To be released](https://github.com/libertyhhn/AR-DMVC) |
 | [Interpretable Deep Clustering for Tabular Data](https://openreview.net/pdf?id=QPy7zLfvof) | IDC | ICML 2024 | [To be released](https://github.com/jsvir/idc) |
 | [Multi-View Clustering by Inter-cluster Connectivity Guided Reward](https://openreview.net/pdf?id=uEx2bSAJu8) | - | ICML 2024 | - |
 | [Image Clustering with External Guidance](https://openreview.net/pdf?id=JSYN891WnB) | TAC | ICML 2024 | [Pytotrch](https://github.com/XLearning-SCU/2024-ICML-TAC) |
-| [LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering](https://openreview.net/pdf?id=L6SRXG92s6) | LSEnet | ICML 2024 | [Pytorch](https://github.com/ZhenhHuang/LSEnet) |
 | [Towards Resource-friendly, Extensible and Stable Incomplete Multi-view Clustering](https://openreview.net/pdf?id=O45u81aby2) | ToRES | ICML 2024 | - |
 | [Image Clustering via the Principle of Rate Reduction in the Age of Pretrained Models](https://openreview.net/pdf?id=ptCIlV24YZ) | CCP | ICLR 2024 | [Pytorch](https://github.com/LeslieTrue/CPP) |
 | [P2OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering](https://openreview.net/pdf?id=hD3sGVqPsr) | P2OT | ICLR 2024 | [Pytorch](https://github.com/rhfeiyang/PPOT) |
 | [Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders](https://openreview.net/pdf?id=k5THrhXDV3) | CMVAE | ICLR 2024 | [To be released](https://github.com/epalu/CMVAE) |
-| [Local Graph Clustering with Noisy Labels](https://openreview.net/pdf?id=89A5c6enfc) | - | ICLR 2024 | - |
 | [Image Clustering Conditioned on Text Criteria](https://openreview.net/pdf?id=G2cG3mQqop) |  IC\|TC  | ICLR 2024 | [Pytorch](https://github.com/sehyunkwon/ICTC) |
-| [Deep Temporal Graph Clustering](https://openreview.net/pdf?id=ViNe1fjGME) | TGC | ICLR 2024 | [Pytorch](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering) |
 | [Differentiable Information Bottleneck for Deterministic Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_Differentiable_Information_Bottleneck_for_Deterministic_Multi-view_Clustering_CVPR_2024_paper.pdf) | DIB |CVPR 2024| - |
 | [Investigating and Mitigating the Side Effects of Noisy Views for Self-Supervised Clustering Algorithms in Practical Multi-View Scenarios](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Investigating_and_Mitigating_the_Side_Effects_of_Noisy_Views_for_CVPR_2024_paper.pdf)| MVCAN|CVPR 2024| [Pytorch](https://github.com/SubmissionsIn/MVCAN)|
 | [Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Learn_from_View_Correlation_An_Anchor_Enhancement_Strategy_for_Multi-view_CVPR_2024_paper.pdf) | AEVC | CVPR 2024| |
@@ -103,23 +95,15 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.html) | CTCC | ICCV 2023 | - |
 | [Deep Multi-view Subspace Clustering with Anchor Graph](https://www.ijcai.org/proceedings/2023/398) | DMCAG | IJCAI 2023 | - |
 | [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/435) | ProImp | IJCAI 2023 | - |
-| [CONGREGATE: Contrastive Graph Clustering in Curvature Spaces](https://www.ijcai.org/proceedings/2023/255) | CONGREGATE | IJCAI 2023 | [Pytorch](https://github.com/CurvCluster/Congregate) |
-| [Multi-level Graph Contrastive Prototypical Clustering](https://www.ijcai.org/proceedings/2023/513) | MLG-CPC | IJCAI 2023 | - |
-| [Dink-Net: Neural Clustering on Large Graphs](https://proceedings.mlr.press/v202/liu23v.html) | Dink-Net | ICML 2023 | [Pytorch](https://github.com/yueliu1999/Dink-Net) |
-| [Cluster-Guided Contrastive Graph Clustering Network](https://ojs.aaai.org/index.php/AAAI/article/view/26285) | CCGC | AAAI 2023 | [Pytorch](https://github.com/xihongyang1999/CCGC) |
-| [Hard Sample Aware Network for Contrastive Deep Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26071) | HSAN | AAAI 2023 | [Pytorch](https://github.com/yueliu1999/HSAN) |
 | [Dual Mutual Information Constraints for Discriminative Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26032) | DMICC | AAAI 2023 | [Pytorch](https://github.com/Li-Hyn/DMICC) |
 | [Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25960) | SGDMC | AAAI 2023 | - |
-| [Scalable Attributed-Graph Subspace Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25918) | SAGSC | AAAI 2023 | [TensorFlow](https://github.com/chakib401/sagsc) |
 | [Semantic-Enhanced Image Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25841) | SIC | AAAI 2023 | - |
-| [GLCC: A General Framework for Graph-Level Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25559) | GLCC | AAAI 2023 | - |
 | [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html) | HCLS_CGL | CVPR 2023 | - |
 | [Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment](https://arxiv.org/pdf/2303.15689.pdf) | IMVC | CVPR 2023 | - |
 | [On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering](https://arxiv.org/pdf/2303.09877.pdf)| DeepMVC | CVPR 2023 | [Pytorch](https://github.com/DanielTrosten/DeepMVC) |
 | [DivClust: Controlling Diversity in Deep Clustering](https://arxiv.org/pdf/2304.01042.pdf) | DivClust | CVPR 2023 | [Pytorch](https://github.com/ManiadisG/DivClust) |
 | [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | TIP 2022 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
 | [Generalised Mutual Information for Discriminative Clustering](https://arxiv.org/pdf/2210.06300.pdf) | GEMINI | NeurIPS 2022 | - |
-| [Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering](https://arxiv.org/pdf/2210.10462.pdf) | SHGP | NeurIPS 2022 | [Pytorch](https://github.com/kepsail/SHGP) |
 | [Learning Representation for Clustering via Prototype Scattering and Positive Sampling](https://arxiv.org/pdf/2111.11821.pdf) | ProPos | TPAMI 2022 | [Pytorch](https://github.com/Hzzone/ProPos) |
 | [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf) | DCP | TPAMI 2022 | [Pytorch](https://github.com/XLearning-SCU/2022-TPAMI-DCP) |
 | [GOCA: Guided Online Cluster Assignment for Self-supervised Video Representation Learning](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_1) | GOCA | ECCV 2022 | [Pytorch](https://github.com/Seleucia/goca) |
@@ -129,7 +113,6 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Deep Safe Incomplete Multi-view Clustering: Theorem and Algorithm](https://proceedings.mlr.press/v162/tang22c/tang22c.pdf) | DSIMVC | ICML 2022 | [Pytorch](https://github.com/Gasteinh/DSIMVC) |
 | [Locally Normalized Soft Contrastive Clustering for Compact Clusters](https://web.archive.org/web/20220717202429id_/https://www.ijcai.org/proceedings/2022/0457.pdf) | LNSCC | IJCAI 2022 | - |
 | [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/pdf/2205.02618.pdf) | CMHHC | IJCAI 2022 | - |
-| [EMGC$^2$F: Effcient Multi-view Graph Clustering with Comprehensive Fusion](https://www.ijcai.org/proceedings/2022/0495.pdf) | EMGC$^2$F | IJCAI 2022 | - |
 | [Efficient Orthogonal Multi-view Subspace Clustering](https://dl.acm.org/doi/pdf/10.1145/3534678.3539282) | OMSC | KDD 2022 | [MATLAB](https://github.com/ManshengChen/Code-for-OMSC-master) |
 | [Clustering with Fair-Center Representation: Parameterized Approximation Algorithms and Heuristics](https://dl.acm.org/doi/pdf/10.1145/3534678.3539487) | - | KDD 2022 | - |
 | [DeepDPM: Deep Clustering With an Unknown Number of Clusters](https://openaccess.thecvf.com/content/CVPR2022/papers/Ronen_DeepDPM_Deep_Clustering_With_an_Unknown_Number_of_Clusters_CVPR_2022_paper.pdf) | DeepDPM | CVPR 2022 | [Pytorch](https://github.com/BGU-CS-VIL/DeepDPM) |
@@ -142,15 +125,12 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [A Deep Variational Approach to Clustering Survival Data](https://openreview.net/pdf?id=RQ428ZptQfU) | VaDeSC | ICLR 2022 | [TensorFlow](https://github.com/i6092467/vadesc) |
 | [Contrastive Fine-grained Class Clustering via Generative Adversarial Networks](https://openreview.net/pdf?id=XWODe7ZLn8f) | C3-GAN | ICLR 2022 | [Pytorch](https://github.com/naver-ai/c3-gan) |
 | [Deep Clustering of Text Representations for Supervision-Free Probing of Syntax](https://www.aaai.org/AAAI22Papers/AAAI-7788.GuptaA.pdf) | SyntDEC | AAAI 2022 | - |
-| [Deep Graph Clustering via Dual Correlation Reduction](https://arxiv.org/pdf/2112.14772.pdf) | DCRN | AAAI 2022 | [Pytorch](https://github.com/yueliu1999/DCRN) |
 | [Top-Down Deep Clustering with Multi-generator GANs](https://arxiv.org/pdf/2112.03398.pdf) | HC-MGAN | AAAI 2022 | [Pytorch](https://github.com/dmdmello/HC-MGAN) |
 | [Neural generative model for clustering by separating particularity and commonality](https://www.sciencedirect.com/science/article/pii/S0020025521012585) | DGC | Information Sciences 2022 | - |
 | [Information Maximization Clustering via Multi-View Self-Labelling](https://www.sciencedirect.com/science/article/pii/S095070512200510X) | IMC-SwAV | Knowledge-Based Systems 2022 | [Pytorch](https://github.com/foiv0s/imc-swav-pub) |
 | [Sign prediction in sparse social networks using clustering and collaborative filtering](https://link.springer.com/content/pdf/10.1007/s11227-021-03902-5.pdf) | - | TJSC 2022 | - |
 | [You Never Cluster Alone](https://arxiv.org/abs/2106.01908) | TCC | NeurIPS 2021 | - |
 | [Multi-Facet Clustering Variational Autoencoders](https://arxiv.org/pdf/2106.05241.pdf) | MFCVAE | NeurIPS 2021 | [Pytorch](https://github.com/FabianFalck/mfcvae) |
-| [Multi-view Contrastive Graph Clustering](https://openreview.net/pdf?id=NlB8_hXkbby) | MCGC | NeurIPS 2021 | [Python](https://github.com/Panern/MCGC) |
-| [Graph Contrastive Clustering](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhong_Graph_Contrastive_Clustering_ICCV_2021_paper.pdf) | GCC | ICCV 2021 | [Pytorch](https://github.com/mynameischaos/GCC) |
 | [One-pass Multi-view Clustering for Large-scale Data](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_One-Pass_Multi-View_Clustering_for_Large-Scale_Data_ICCV_2021_paper.pdf) | OPMC | ICCV 2021 | [Matlab](https://github.com/liujiyuan13/OPMC-code_release) |
 | [Multi-VAE: Learning Disentangled View-common and View-peculiar Visual Representations for Multi-view Clustering](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Multi-VAE_Learning_Disentangled_View-Common_and_View-Peculiar_Visual_Representations_for_Multi-View_ICCV_2021_paper.pdf) | Multi-VAE | ICCV 2021 | [Pytorch](https://github.com/SubmissionsIn/Multi-VAE) |
 | [Learn to Cluster Faces via Pairwise Classification](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Learn_To_Cluster_Faces_via_Pairwise_Classification_ICCV_2021_paper.pdf) | - | ICCV 2021 | - |
@@ -176,7 +156,6 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering](https://openreview.net/pdf?id=gV3wdEOGy_V) | MiCE | ICLR 2021 | [Pytorch](https://github.com/TsungWeiTsai/MiCE) |
 | [Discovering New Intents with Deep Aligned Clustering](https://arxiv.org/pdf/2012.08987.pdf) | DeepAligned | AAAI 2021 | [Pytorch](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) |
 | [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf) | CC | AAAI 2021 | [Pytorch](https://github.com/Yunfan-Li/Contrastive-Clustering) |
-| [Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-833.YaoY.pdf) | RNNGCN | AAAI 2021 | [Pytorch](https://github.com/InterpretableClustering/InterpretableClustering) |
 | [LRSC: Learning Representations for Subspace Clustering](https://www.aaai.org/AAAI21Papers/AAAI-2600.LiC.pdf) | LRSC | AAAI 2021 | - |
 | [Deep Fusion Clustering Network](https://arxiv.org/pdf/2012.09600.pdf) | DFCN | AAAI 2021 | [Pytorch](https://github.com/WxTu/DFCN) |
 | [Variational Deep Embedding Clustering by Augmented Mutual Information Maximization](https://ieeexplore.ieee.org/abstract/document/9412996) | VCAMI | ICPR 2021 | - |
@@ -201,7 +180,6 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Learning to Cluster under Domain Shift](https://arxiv.org/abs/2008.04646) | ACIDS | ECCV 2020 | [Pytorch](https://github.com/willi-menapace/acids-clustering-domain-shift) |
 | [Multi-View Attribute Graph Convolution Networks for Clustering](https://www.ijcai.org/proceedings/2020/0411.pdf) | MAGCN | IJCAI 2020 | - |
 | [CDIMC-net: Cognitive Deep Incomplete Multi-view Clustering Network](https://www.ijcai.org/Proceedings/2020/0447.pdf) | CDIMC-net | IJCAI 2020 | - |
-| [Spectral Clustering with Graph Neural Networks for Graph Pooling](https://arxiv.org/pdf/1907.00481.pdf)  |  -  |  ICML 2020  | [TensorFlow](https://github.com/FilippoMB/b∫bSpectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)|
 | [Variational Clustering: Leveraging Variational Autoencoders for Image Clustering](https://arxiv.org/pdf/2005.04613) | - | IJCNN 2020 | - |
 | [Improving k-Means Clustering Performance with Disentangled Internal Representations](https://arxiv.org/abs/2006.04535) | Annealing SNNL |  IJCNN 2020 | [Pytorch](https://github.com/afagarap/pt-clustering-ae/) |
 | [Unsupervised clustering through gaussian mixture variational autoencoder with non-reparameterized variational inference and std annealing](https://netman.aiops.org/wp-content/uploads/2020/08/PID6423661.pdf) | NVISA | IJCNN 2020 | - |
@@ -281,7 +259,6 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 | [Semi-supervised clustering in attributed heterogeneous information networks](https://dl.acm.org/doi/pdf/10.1145/3038912.3052576) | SCHAIN | WWW 2017 | [MATLAB](https://github.com/lixiang3776/SCHAIN) |
 | [Cascade Subspace Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14442/14433) | CSC | AAAI 2017 | - |
 | [Unsupervised Multi-Manifold Clustering by Learning Deep Representation](https://pdfs.semanticscholar.org/b852/81d8729038148fd3d8297ea35d632d2e017c.pdf) | DMC | AAAI 2017 Workshop | - |
-| [Combining structured node content and topology information for networked graph clustering](https://dl.acm.org/doi/pdf/10.1145/2996197) | - | TKDD 2017 | - |
 | [CNN-Based Joint Clustering and Representation Learning with Feature Drift Compensation for Large-Scale Image Data](https://arxiv.org/abs/1705.07091) | - | TMM 2017 | - |
 | [Robust continuous clustering](https://www.pnas.org/doi/full/10.1073/pnas.1700770114) | RCC | PNAS 2017 | - |
 | [Unsupervised Deep Embedding for Clustering Analysis](http://proceedings.mlr.press/v48/xieb16.pdf) | DEC | ICML 2016 | [Caffe](https://github.com/piiswrong/dec) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
