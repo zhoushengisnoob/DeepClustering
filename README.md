@@ -7,8 +7,9 @@
 </h1> -->
 
 ### 
-**[:bell: News! :bell: ]
-We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on this repository, with a new perspective of existing deep clustering methods! We are looking forward to any comments or discussions on this topic :)** 
+**[2024.08] Our [survey paper](https://arxiv.org/abs/2206.07579) has been accepted by ACM Computing Surveys! We are also preparing a new benchmark codebase, providing implementations of classic methods and easy-to-use APIs for developing your own deep clustering methods!** 
+
+**[2022.06]We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on this repository, with a new perspective of existing deep clustering methods! We are looking forward to any comments or discussions on this topic :)** 
 
 ### Data type specific deep clustering: We also provide some interesting data type specific deep clustering:
 * [Deep Graph Clustering](./graphclustering/README.md)
@@ -18,7 +19,7 @@ We have released a new [survey paper](https://arxiv.org/abs/2206.07579) based on
 ### Paper List
 |    Survey Paper    |  Conference  |
 |  :---------  | :------:  |
-| :triangular_flag_on_post: [**A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions**](https://arxiv.org/abs/2206.07579) | arXiv 2022 |
+| :triangular_flag_on_post: [**A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions**](https://arxiv.org/abs/2206.07579) | ACM Computing Surveys |
 | [Deep Clustering: A Comprehensive Survey](https://arxiv.org/pdf/2210.04142.pdf) | arXiv 2022 |
 | [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) | IEEE ACCESS 2018  |
 | [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf) | arXiv 2018 |
