@@ -19,6 +19,7 @@
 ### Paper List
 |    Survey Paper    |  Conference  |
 |  :---------  | :------:  |
+| [A survey on deep clustering: from the prior perspective](https://link.springer.com/content/pdf/10.1007/s44336-024-00001-w.pdf) |  Vicinagearth 2024 |
 | :triangular_flag_on_post: [**A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions**](https://arxiv.org/abs/2206.07579) | ACM Computing Surveys |
 | [Deep Clustering: A Comprehensive Survey](https://arxiv.org/pdf/2210.04142.pdf) | arXiv 2022 |
 | [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) | IEEE ACCESS 2018  |
@@ -95,7 +96,7 @@
 | [Stable Cluster Discrimination for Deep Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Qian_Stable_Cluster_Discrimination_for_Deep_Clustering_ICCV_2023_paper.html) | SeCu | ICCV 2023 | - |
 | [Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.html) | CTCC | ICCV 2023 | - |
 | [Deep Multi-view Subspace Clustering with Anchor Graph](https://www.ijcai.org/proceedings/2023/398) | DMCAG | IJCAI 2023 | - |
-| [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/435) | ProImp | IJCAI 2023 | - |
+| [Incomplete Multi-view Clustering via Prototype-based Imputation](https://www.ijcai.org/proceedings/2023/435) | ProImp | IJCAI 2023 | [Pytorch](https://github.com/XLearning-SCU/2023-IJCAI-ProImp) |
 | [Dual Mutual Information Constraints for Discriminative Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26032) | DMICC | AAAI 2023 | [Pytorch](https://github.com/Li-Hyn/DMICC) |
 | [Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25960) | SGDMC | AAAI 2023 | - |
 | [Semantic-Enhanced Image Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25841) | SIC | AAAI 2023 | - |
