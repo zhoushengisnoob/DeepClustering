@@ -43,7 +43,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Deep Online Probability Aggregation Clustering](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6944_ECCV_2024_paper.php) | DPAC | ECCV 2024 | [Pytorch](https://github.com/aomandechenai/Deep-Probability-Aggregation-Clustering) |
 | [Double-Bounded Optimal Transport for Advanced Clustering and Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29419) | DB-OT | AAAI 2024 | - |
 | [Enhancing Ensemble Clustering with Adaptive High-Order Topological Weights](https://ojs.aaai.org/index.php/AAAI/article/view/29552) | AWEC | AAAI 2024 | [Pytorch](https://github.com/ltyong/awec) |
-| [Interactive Deep Clustering via Value Mining](https://openreview.net/forum?id=Y7HPB7pL1f) | IDC | NeurIPS 2024 | - |
+| [Interactive Deep Clustering via Value Mining](https://openreview.net/forum?id=Y7HPB7pL1f) | IDC | NeurIPS 2024 | [Official](https://github.com/XLearning-SCU/2024-NeurIPS-IDC) |
 | [Interpretable Deep Clustering for Tabular Data](https://openreview.net/pdf?id=QPy7zLfvof) | IDC | ICML 2024 | [To be released](https://github.com/jsvir/idc) |
 | [Low-Distortion Clustering with Ordinal and Limited Cardinal Information](https://ojs.aaai.org/index.php/AAAI/article/view/28811) | - | AAAI 2024 | - |
 | [SEC: More Accurate Clustering Algorithm via Structural Entropy](https://ojs.aaai.org/index.php/AAAI/article/view/29152) | - | AAAI 2024 | - |
@@ -172,15 +172,15 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Unified and Efficient Multi-view Clustering from Probabilistic Perspective](https://openreview.net/forum?id=KAGR7Mqu4h) | UEMCP | ICLR 2026 | - |
 | [Wasserstein-Aligned Hyperbolic Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/39851) | WAH | AAAI 2026 | - |
 | [Adaptive weighting-guided dual-level contrastive learning for multi-view clustering](https://doi.org/10.1016/j.knosys.2025.115231) | - | Knowledge-Based Systems 2025 | - |
-| [Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios](https://openreview.net/forum?id=iFOXz5H2gB) | AIRMVC | ICML 2025 | - |
-| [COPER: Correlation-based Permutations for Multi-View Clustering](https://openreview.net/forum?id=5ZEbpBYGwH) | COPER | ICLR 2025 | - |
+| [Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios](https://openreview.net/forum?id=iFOXz5H2gB) | AIRMVC | ICML 2025 | [Official](https://github.com/xihongyang1999/AIRMVC) |
+| [COPER: Correlation-based Permutations for Multi-View Clustering](https://openreview.net/forum?id=5ZEbpBYGwH) | COPER | ICLR 2025 | [Official](https://github.com/jsvir/COPER) |
 | [Deep Fair Multi-View Clustering with Attention KAN](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Deep_Fair_Multi-View_Clustering_with_Attention_KAN_CVPR_2025_paper.html) | DFMVC-AKAN | CVPR 2025 | - |
 | [EASEMVC:Efficient Dual Selection Mechanism for Deep Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_EASEMVCEfficient_Dual_Selection_Mechanism_for_Deep_Multi-View_Clustering_CVPR_2025_paper.html) | EASEMVC | CVPR 2025 | - |
 | [Efficient Multi-view Clustering via Reinforcement Contrastive Learning](https://www.ijcai.org/proceedings/2025/708) | EMVCRCL | IJCAI 2025 | - |
 | [Medusa: A Multi-Scale High-order Contrastive Dual-Diffusion Approach for Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Medusa_A_Multi-Scale_High-order_Contrastive_Dual-Diffusion_Approach_for_Multi-View_Clustering_CVPR_2025_paper.html) | Medusa | CVPR 2025 | - |
 | [Multi-view Clustering via Multi-granularity Ensemble](https://www.ijcai.org/proceedings/2025/756) | MGE | IJCAI 2025 | - |
 | [Robust Consensus Anchor Learning for Efficient Multi-view Subspace Clustering](https://openreview.net/forum?id=9uBY2PBfcf) | - | ICML 2025 | - |
-| [ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html) | ROLL | CVPR 2025 | - |
+| [ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html) | ROLL | CVPR 2025 | [Official](https://github.com/sunyuan-cs/2025-CVPR-ROLL) |
 | [Active Deep Multi-view Clustering](https://www.ijcai.org/proceedings/2024/614) | ADMC | IJCAI 2024 | [Pytorch](https://github.com/wodedazhuozi/ADMC) |
 | [Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework](https://openreview.net/pdf?id=D9EfAkQCzh) | AR-DMVC | ICML 2024 | [To be released](https://github.com/libertyhhn/AR-DMVC) |
 | [Cross-View Diversity Embedded Consensus Learning for Multi-View Clustering](https://www.ijcai.org/proceedings/2024/529) | CCL-MVC | IJCAI 2024 | - |
@@ -190,11 +190,11 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Evaluate then Cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f46b6689a645184b5ff84b4feb3e7bb4-Abstract-Conference.html) | SCE-MVC | NeurIPS 2024 | - |
 | [From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bb68f698772f14b6d8eaef4529fb9176-Abstract-Conference.html) | STONE | NeurIPS 2024 | - |
 | [Learn from View Correlation: An Anchor Enhancement Strategy for Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Learn_from_View_Correlation_An_Anchor_Enhancement_Strategy_for_Multi-view_CVPR_2024_paper.pdf) | AEVC | CVPR 2024| |
-| [Learning Cluster-Wise Anchors for Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29609) | CAMVC | AAAI 2024 | - |
+| [Learning Cluster-Wise Anchors for Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29609) | CAMVC | AAAI 2024 | [Official](https://github.com/czhangnju/CAMVC) |
 | [Multi-View Clustering by Inter-cluster Connectivity Guided Reward](https://openreview.net/pdf?id=uEx2bSAJu8) | - | ICML 2024 | - |
 | [Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbe81b08f7dc4dd8b43bc62dedfd9662-Abstract-Conference.html) | CANDY | NeurIPS 2024 | [Pytorch](https://github.com/XLearning-SCU/2024-NeurIPS-CANDY) |
 | [Self-supervised Weighted Information Bottleneck for Multi-view Clustering](https://www.ijcai.org/proceedings/2024/513) | SWIB | IJCAI 2024 | - |
-| [Simple Contrastive Multi-View Clustering with Data-Level Fusion](https://www.ijcai.org/proceedings/2024/519) | - | IJCAI 2024 | - |
+| [Simple Contrastive Multi-View Clustering with Data-Level Fusion](https://www.ijcai.org/proceedings/2024/519) | - | IJCAI 2024 | [Code](https://github.com/SubmissionsIn/SCM) |
 | [Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering](https://openaccess.thecvf.com/content/ICCV2023/html/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.html) | CTCC | ICCV 2023 | - |
 | [Deep Multiview Clustering by Contrasting Cluster Assignments](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Deep_Multiview_Clustering_by_Contrasting_Cluster_Assignments_ICCV_2023_paper.html) | CVCL | ICCV 2023 | [Pytorch](https://github.com/chenjie20/CVCL) |
 | [On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering](https://arxiv.org/pdf/2303.09877.pdf)| DeepMVC | CVPR 2023 | [Pytorch](https://github.com/DanielTrosten/DeepMVC) |
@@ -212,17 +212,17 @@ This repository intentionally has a relatively broad scope. In addition to canon
 ### Incomplete, Unpaired, and Federated Multi-view Clustering
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
-| [AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html) | AdaptCMVC | CVPR 2025 | - |
+| [AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html) | AdaptCMVC | CVPR 2025 | [Official](https://github.com/Wjing-bjtu/AdaptCMVC) |
 | [Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning](https://www.ijcai.org/proceedings/2025/641) | CAL | IJCAI 2025 | [Pytorch](https://github.com/whbdmu/CAL) |
 | [Dual Robust Unbiased Multi-View Clustering for Incomplete and Unpaired Information](https://www.ijcai.org/proceedings/2025/789) | DRUMVC | IJCAI 2025 | - |
 | [Deep Streaming View Clustering](https://openreview.net/forum?id=GkVirCa8wA) | - | ICML 2025 | - |
 | [Efficient Federated Incomplete Multi-View Clustering](https://openreview.net/forum?id=sylDbssCU9) | EFIMVC | ICML 2025 | - |
 | [Fast Incomplete Multi-view Clustering by Flexible Anchor Learning](https://openreview.net/forum?id=WSGpXQRUtH) | - | ICML 2025 | - |
-| [Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Dai_Imputation-free_and_Alignment-free_Incomplete_Multi-view_Clustering_Driven_by_Consensus_Semantic_CVPR_2025_paper.html) | FreeCSL | CVPR 2025 | - |
+| [Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Dai_Imputation-free_and_Alignment-free_Incomplete_Multi-view_Clustering_Driven_by_Consensus_Semantic_CVPR_2025_paper.html) | FreeCSL | CVPR 2025 | [Official](https://github.com/zoyadai/2025_CVPR_FreeCSL) |
 | [Imputation-free Incomplete Multi-view Clustering via Knowledge Distillation](https://www.ijcai.org/proceedings/2025/731) | I2MVC | IJCAI 2025 | - |
-| [PROTOCOL: Partial Optimal Transport-enhanced Contrastive Learning for Imbalanced Multi-view Clustering](https://openreview.net/forum?id=Pm8LUCx6Mb) | PROTOCOL | ICML 2025 | - |
+| [PROTOCOL: Partial Optimal Transport-enhanced Contrastive Learning for Imbalanced Multi-view Clustering](https://openreview.net/forum?id=Pm8LUCx6Mb) | PROTOCOL | ICML 2025 | [Official](https://github.com/Scarlett125/PROTOCOL) |
 | [Alleviate Anchor-Shift: Explore Blind Spots with Cross-View Reconstruction for Incomplete Multi-View Clustering](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9f42f06a54ce3b709ad78d34c73e4363-Abstract-Conference.html) | - | NeurIPS 2024 | - |
-| [Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views](https://proceedings.neurips.cc/paper_files/paper/2024/hash/412fb8623bf8b6d56fb6285ea295447e-Abstract-Conference.html) | - | NeurIPS 2024 | - |
+| [Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views](https://proceedings.neurips.cc/paper_files/paper/2024/hash/412fb8623bf8b6d56fb6285ea295447e-Abstract-Conference.html) | - | NeurIPS 2024 | [Code](https://github.com/5Martina5/FMCSC) |
 | [Deep Variational Incomplete Multi-View Clustering: Exploring Shared Clustering Structures](https://ojs.aaai.org/index.php/AAAI/article/view/29548) | - | AAAI 2024 | - |
 | [Diffusion-based Missing-view Generation With the Application on Incomplete Multi-view Clustering](https://openreview.net/pdf?id=OHFxcU9jwW) | DMVG | ICML 2024 | [Pytorch](https://github.com/ckghostwj/DMVG/tree/main) |
 | [DVSAI: Diverse View-Shared Anchors Based Incomplete Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29595) | DVSAI | AAAI 2024 | - |
@@ -274,7 +274,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 | [Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss](https://ojs.aaai.org/index.php/AAAI/article/view/40091) | - | AAAI 2026 | - |
 | [Attribute-Missing Multi-view Graph Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Attribute-Missing_Multi-view_Graph_Clustering_CVPR_2025_paper.html) | AMMGC | CVPR 2025 | - |
 | [Enhanced then Progressive Fusion with View Graph for Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Enhanced_then_Progressive_Fusion_with_View_Graph_for_Multi-View_Clustering_CVPR_2025_paper.html) | - | CVPR 2025 | - |
-| [Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance](https://openreview.net/forum?id=7qvYLnJDRd&noteId=0T9sudN1Lo) | FIMCFG | ICML 2025 | - |
+| [Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance](https://openreview.net/forum?id=7qvYLnJDRd&noteId=0T9sudN1Lo) | FIMCFG | ICML 2025 | [Official](https://github.com/PaddiHunter/FIMCFG) |
 | [Graph Embedded Contrastive Learning for Multi-View Clustering](https://www.ijcai.org/proceedings/2025/594) | - | IJCAI 2025 | - |
 | [Multi-level contrastive learning with graph convolutional network for multi-view clustering](https://doi.org/10.1016/j.eswa.2025.130573) | - | Expert Systems with Applications 2025 | - |
 | [Multi-View Graph Clustering via Node-Guided Contrastive Encoding](https://openreview.net/forum?id=Ae5qnQxAxQ) | NGCE | ICML 2025 | [Pytorch](https://github.com/Rirayh/NGCE) |
@@ -285,7 +285,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 | [Dynamic Weighted Graph Fusion for Deep Multi-View Clustering](https://www.ijcai.org/proceedings/2024/535) | DFMVC | IJCAI 2024 | - |
 | [Embedded Feature Selection on Graph-Based Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29645) | EFSGMC | AAAI 2024 | - |
 | [Integrating Vision-Language Semantic Graphs in Multi-View Clustering](https://www.ijcai.org/proceedings/2024/472) | IVSGMV | IJCAI 2024 | - |
-| [SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29478) | SURER | AAAI 2024 | - |
+| [SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29478) | SURER | AAAI 2024 | [Code](https://github.com/Wjing-bjtu/SURER) |
 | [Deep Multi-view Subspace Clustering with Anchor Graph](https://www.ijcai.org/proceedings/2023/398) | DMCAG | IJCAI 2023 | - |
 | [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html) | HCLS_CGL | CVPR 2023 | - |
 | [Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25960) | SGDMC | AAAI 2023 | - |
