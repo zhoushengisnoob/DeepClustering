@@ -1,6 +1,15 @@
 # Deep Graph Clustering
+
+This page collects deep graph clustering papers, with an emphasis on node clustering, community detection, attributed graph clustering, and multi-view graph clustering. The list is intended as a reading map rather than a benchmark leaderboard.
+
+Notes:
+
+- When a conference or journal version exists, it is preferred over the corresponding arXiv version.
+- Public code links are included when they are easy to identify, but they may be unofficial or unmaintained.
+
 |    Survey Paper    |  Conference  |
 |  :---------  | :------:  |
+| [A Survey of Deep Graph Clustering: Taxonomy, Challenge, Application, and Open Resource](https://doi.org/10.1109/TKDE.2026.3669747) | TKDE 2026 |
 | [An Overview of Advanced Deep Graph Node Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049408) | TCSS 2023 |
 | [A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application](https://arxiv.org/abs/2211.12875) | arXiv 2022 |
 | [A Comprehensive Survey on Community Detection with Deep Learning](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) | TNNLS 2022 |
@@ -15,6 +24,12 @@
 
 | Paper   | Method | Conference |  Code   |
 |  :---------  | :------:  | :------: | :------: |
+| [HALO: Hardness-aware bilevel-inspired contrastive graph clustering](https://doi.org/10.1016/j.ijar.2026.109657) | HALO | International Journal of Approximate Reasoning 2026 | - |
+| [Adaptive Magnetic-Graph Clustering](https://doi.org/10.1109/TKDE.2025.3594622) | AMGC | TKDE 2025 | - |
+| [Dual-view entropy-regularized nonnegative matrix factorization for attributed graph clustering](https://doi.org/10.1016/j.ins.2025.122566) | DvER-NMF | Information Sciences 2025 | - |
+| [Contrastive deep graph clustering via higher-order heuristic augmentation and propagation](https://doi.org/10.1016/j.engappai.2025.111536) | - | Engineering Applications of Artificial Intelligence 2025 | - |
+| [Homophily Induced Contrastive Attributed Graph Clustering](https://doi.org/10.1109/TCSVT.2025.3563646) | HICAGC | IEEE TCSVT 2025 | - |
+| [Graph Prompt Clustering](https://doi.org/10.1109/TPAMI.2025.3553129) | GPC | IEEE TPAMI 2025 | - |
 | [Deep Temporal Graph Clustering](https://openreview.net/pdf?id=ViNe1fjGME) | TGC | ICLR 2024 | [Pytorch](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering) |
 | [Local Graph Clustering with Noisy Labels](https://openreview.net/pdf?id=89A5c6enfc) | - | ICLR 2024 | - |
 | [LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering](https://openreview.net/pdf?id=L6SRXG92s6) | LSEnet | ICML 2024 | [Pytorch](https://github.com/ZhenhHuang/LSEnet) |
@@ -22,8 +37,6 @@
 | [Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29514) | AHGFC | AAAI 2024 | - |
 | [DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization](https://ojs.aaai.org/index.php/AAAI/article/view/28983) | DGCLUSTER | AAAI 2024 | [Pytorch](https://github.com/pyrobits/DGCluster) |
 | [Every Node Is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29664) | DyFSS | AAAI 2024 | [Pytorch](https://github.com/q086/DyFSS) |
-| [DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization](https://arxiv.org/pdf/2312.12697v1.pdf) | DGCLUSTER | AAAI 2024 | [Pytorch](https://github.com/pyrobits/DGCluster) |
-| [Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering](https://arxiv.org/pdf/2401.02682.pdf) | AHGFC | AAAI 2024 | - |
 | [Contrastive Deep Nonnegative Matrix Factorization for Community Detection](https://arxiv.org/pdf/2311.02357.pdf) | CDNMF | ICASSP 2024 | [Pytorch](https://github.com/6lyc/CDNMF) |
 | [Deep asymmetric nonnegative matrix factorization for graph clustering](https://pdf.sciencedirectassets.com/272206/1-s2.0-S0031320323X00120/1-s2.0-S0031320323008762/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCOpVgoV4v3DG05p3q0uezsz3CCDlL7eE0HKSTEZKMwfQIhAOijp8OYvHB5atP%2F8Hu29S2SHjJCI21VWjcSa47BRLclKrMFCGAQBRoMMDU5MDAzNTQ2ODY1IgxO2Nfy2TN7dzwkelIqkAWLnBzVEKQ%2FdbcwpSzxdf8ql2GZHi%2BN6%2FBhNixRI0IN97Y1Q1KPC362VllSSzsSRpelnu8K8A0f3sXQIIloq1pUyelv8iuflJosoyERJmk%2FWXXz2FgvHoW%2BeHbLu91Hii%2FHnocDJhAQmY5UaBnUTehX2mXvfY2BtEiasMZQCb%2BXt9DTCSPGo6FvSmywJUMcql%2Bv3UTijSP1CDtc9Y3U0ZZ%2BlllcUd4bhzt%2FSx%2FBkE7FpzoUzCtNje%2FbmNtLG6TUgH65tDf9pu62QME7xLQEPLqDkjo5p%2FgTg0SZIC6Nir7juySWUkH5iMDSV12m3UFh05HP3qcX%2FvockYq%2FipLWCx9js8Hyg1YMFCSarwZcwb3Z0m0zaA3oeYfyPXC%2BV08lkZJl2%2Fb7cDc0%2FVGYF1stX%2B5WqQ1p%2F2Rh4tWTdSLLOT9OPR%2F367%2FvDM8pbILD9c0wywpem3qTQvd0wmCOGg4XhgSrZs%2FlR9WnMaYQGgXSOwqGnyXkwinHwGMjsEzbI2y19IBjn8BpM8FEtszaT5rAQCTDGRJX4jJALiEvDwmDUtp0ZZxu8j%2FFxeY2xQzF%2FbOdrdZx%2Fvr%2FLEP3Nr3710uoQJLE42qDXdZCYLPFjQ3S9tpexmJeZqoHdn0kVqX2ctF228SjhUxZ8218vZKnt%2FBd3orD%2FclEZWLEww9pl8kTZzrlGC9h8EdcopshTg9IBdTwWtc2GTvcOxCwOg5Jj4GZEo6nhZ0GbwrqikseABUZN4SHkUGs%2FhEfNgo5dj5DGZJdf%2BeS3xnJsjwnRJrDcfr5cGBrIv3pTuFdL8m%2BSV%2BS0yJnBtZJsBjzNQO2pp0Fe%2FT0TOmOjNY%2FAqF%2BB5%2FPLHDUeQBnu1RXbBIz3NJz50xpBfv91zDGsr%2BtBjqwAYtTHvzygBs8IXdGOBrv%2BM9WWyrs2FEnsrqpX2a4wXKbHZgP%2FZUhopr4nFudmnsC%2BcD13OXqc%2BY5MkMILc5fy558JmILBFMipckr1dWDiGFS9CbgpU9cfL1jGpL2NFIRFswdtDdm%2F3W7VAkZn3FgZuT4H6%2BMnrxEMUG9lq29r5KerrcsQnGa6h08jtBVxPXV136Ry1fwuG9mvkrV5yai5bFoBFjt6ndK%2B%2BoVFHhkQImZ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240123T154032Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTJQIO24Z%2F20240123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ad09f4d98eebc0c170925fa09c25f6d12fd83407afd3f8d43cf0780b1e84845c&hash=44fb4f54938907b1a54c767b7ec167218c72d4fadd9c7e9c98b582155369bdff&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0031320323008762&tid=spdf-4dbd7463-8afb-4f52-9115-e5dc5e723f59&sid=b340725c804d7647560a3652ec8b0591ff2cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0a085d550750545c01&rr=84a122bd5df521e5&cc=hk) | DAsNMF | PR 2024 | [Readme](https://github.com/Hajiveiseh/DAsNMF) |
 | [A novel nonnegative matrix factorization-based model for attributed graph clustering by incorporating complementary information](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417423X00359/1-s2.0-S0957417423033018/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCOpVgoV4v3DG05p3q0uezsz3CCDlL7eE0HKSTEZKMwfQIhAOijp8OYvHB5atP%2F8Hu29S2SHjJCI21VWjcSa47BRLclKrMFCGAQBRoMMDU5MDAzNTQ2ODY1IgxO2Nfy2TN7dzwkelIqkAWLnBzVEKQ%2FdbcwpSzxdf8ql2GZHi%2BN6%2FBhNixRI0IN97Y1Q1KPC362VllSSzsSRpelnu8K8A0f3sXQIIloq1pUyelv8iuflJosoyERJmk%2FWXXz2FgvHoW%2BeHbLu91Hii%2FHnocDJhAQmY5UaBnUTehX2mXvfY2BtEiasMZQCb%2BXt9DTCSPGo6FvSmywJUMcql%2Bv3UTijSP1CDtc9Y3U0ZZ%2BlllcUd4bhzt%2FSx%2FBkE7FpzoUzCtNje%2FbmNtLG6TUgH65tDf9pu62QME7xLQEPLqDkjo5p%2FgTg0SZIC6Nir7juySWUkH5iMDSV12m3UFh05HP3qcX%2FvockYq%2FipLWCx9js8Hyg1YMFCSarwZcwb3Z0m0zaA3oeYfyPXC%2BV08lkZJl2%2Fb7cDc0%2FVGYF1stX%2B5WqQ1p%2F2Rh4tWTdSLLOT9OPR%2F367%2FvDM8pbILD9c0wywpem3qTQvd0wmCOGg4XhgSrZs%2FlR9WnMaYQGgXSOwqGnyXkwinHwGMjsEzbI2y19IBjn8BpM8FEtszaT5rAQCTDGRJX4jJALiEvDwmDUtp0ZZxu8j%2FFxeY2xQzF%2FbOdrdZx%2Fvr%2FLEP3Nr3710uoQJLE42qDXdZCYLPFjQ3S9tpexmJeZqoHdn0kVqX2ctF228SjhUxZ8218vZKnt%2FBd3orD%2FclEZWLEww9pl8kTZzrlGC9h8EdcopshTg9IBdTwWtc2GTvcOxCwOg5Jj4GZEo6nhZ0GbwrqikseABUZN4SHkUGs%2FhEfNgo5dj5DGZJdf%2BeS3xnJsjwnRJrDcfr5cGBrIv3pTuFdL8m%2BSV%2BS0yJnBtZJsBjzNQO2pp0Fe%2FT0TOmOjNY%2FAqF%2BB5%2FPLHDUeQBnu1RXbBIz3NJz50xpBfv91zDGsr%2BtBjqwAYtTHvzygBs8IXdGOBrv%2BM9WWyrs2FEnsrqpX2a4wXKbHZgP%2FZUhopr4nFudmnsC%2BcD13OXqc%2BY5MkMILc5fy558JmILBFMipckr1dWDiGFS9CbgpU9cfL1jGpL2NFIRFswdtDdm%2F3W7VAkZn3FgZuT4H6%2BMnrxEMUG9lq29r5KerrcsQnGa6h08jtBVxPXV136Ry1fwuG9mvkrV5yai5bFoBFjt6ndK%2B%2BoVFHhkQImZ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240123T154030Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTJQIO24Z%2F20240123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=363f55f62a46f6f5e204ae251b4304aea7b1f5c9ccf9d70852c0889e2edbf0d7&hash=ef1db037c1103cbc4cfa6835ff2facfacd784a33c1ee7f38f832da3a95356920&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417423033018&tid=spdf-4d732853-d4e0-4dbb-8571-4577616b95da&sid=b340725c804d7647560a3652ec8b0591ff2cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0a085d550750545c02&rr=84a122ae9d3821e5&cc=hk) | - | PR 2024 | - |
@@ -37,7 +50,6 @@
 | [Graph Clustering with Graph Neural Networks](https://www.jmlr.org/papers/volume24/20-998/20-998.pdf) | DMoN | JMLR 2023 | [Tensorflow](https://github.com/google-research/google-research/tree/master/graph_embedding/dmon) |
 | [Simple Contrastive Graph Clustering](https://ieeexplore.ieee.org/abstract/document/10163985) | SCGC | TNNLS 2023 | - |
 | [Graph clustering network with structure embedding enhanced](https://www.sciencedirect.com/science/article/pii/S0031320323005319) | GC-SEE | PR 2023 | [Pytorch](https://github.com/Marigoldwu/GC-SEE) |
-| [Hard Sample Aware Network for Contrastive Deep Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26071) | HSAN | AAAI 2023 | [Pytorch](https://github.com/yueliu1999/HSAN) |
 | [Reinforcement Graph Clustering with Unknown Cluster Number](https://dl.acm.org/doi/pdf/10.1145/3581783.3612155?casa_token=AZoPhzpnh6IAAAAA:ITLzKA74G2ZD-k00yHgUk_wSq9gcoqJke1wd_rDBRmk8uWR4GhONG-0nvhQqDY6Fv7DJa-LdtW32HmU) | RGC | MM 2023 | [Pytorch](https://github.com/yueliu1999/RGC) |
 | [DCOM-GNN: A Deep Clustering Optimization Method for Graph Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0950705123007116) | DCOM-GNN | Knowl Based Syst 2023 | - |
 | [EGRC-Net: Embedding-Induced Graph Refinement Clustering Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10326461) | EGRC-Net | TIP 2023 | [Pytorch](https://github.com/ZhihaoPENG-CityU/TIP23---EGRC-Net) |
@@ -50,9 +62,6 @@
 | [Self-Contrastive Graph Diffusion Network](https://arxiv.org/pdf/2307.14613.pdf) | SCGDN | MM 2023 | [Pytorch](https://github.com/kunzhan/SCDGN) |
 | [CONVERT: Contrastive Graph Clustering with Reliable Augmentation](https://arxiv.org/pdf/2308.08963.pdf) | CONVERT | MM 2023 | [Pytorch](https://github.com/xihongyang1999/CONVERT) |
 | [CARL-G: Clustering-Accelerated Representation Learning on Graphs](https://arxiv.org/pdf/2306.06936.pdf) | CARL-G | SIGKDD 2023 | [pytorch](https://github.com/willshiao/carl-g) |
-| [Dink-Net: Neural Clustering on Large Graphs](https://arxiv.org/pdf/2305.18405.pdf) | Dink-Net | ICML 2023 | [Pytorch](https://github.com/yueliu1999/Dink-Net) |
-| [CONGREGATE: Contrastive Graph Clustering in Curvature Spaces](https://arxiv.org/pdf/2305.03555.pdf) | CONGREGATE | IJCAI 2023 | [Pytorch](https://github.com/CurvCluster/Congregate) |
-| [Multi-level Graph Contrastive Prototypical Clustering](https://www.ijcai.org/proceedings/2023/0513.pdf) | MLG-CPC | IJCAI 2023 |  |
 | [Robust Graph Clustering via Meta Weighting for Noisy Graphs](https://arxiv.org/pdf/2311.00322.pdf) | MetaGC | CIKM 2023 | [Pytorch](https://github.com/HyeonsooJo/MetaGC) |
 | [Redundancy-Free Self-Supervised Relational Learning for Graph Clustering](https://arxiv.org/pdf/2309.04694.pdf) | R2FGC | TNNLS 2023 | [Pytorch](https://github.com/yisiyu95/R2FGC) |
 | [A Re-evaluation of Deep Learning Methods for Attributed Graph Clustering](https://dl.acm.org/doi/abs/10.1145/3583780.3614768) | Re-evaluation | CIKM 2023 | [Pytorch](https://github.com/2100271064/A-Re-evaluation-of-Deep-Learning-Methods-for-Attributed-Graph-Clustering) |
@@ -70,9 +79,6 @@
 | [Graph Joint Representation Clustering via Penalized Graph Contrastive Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10237119) | PGCL-GC | TNNLS 2023 | - |
 | [Adaptive Graph Convolution Methods for Attributed Graph Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130603) | IAGC | TKDE 2023 | [Pytorch](https://github.com/Karenxt/AGCandIAGC-code) |
 | [Scalable and Effective Conductance-Based Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25568) | PCon | AAAI 2023 | - |
-| [Scalable Attributed-Graph Subspace Clustering](https://chakib401.github.io/files/SAGSC.pdf) |  SAGSC   | AAAI 2023  | [Tensorflow](https://github.com/chakib401/sagsc) |
-| [Hard Sample Aware Network for Contrastive Deep Graph Clustering](https://arxiv.org/pdf/2212.08665.pdf) |  HSAN   | AAAI 2023  | [Pytorch](https://github.com/yueliu1999/HSAN) |
-| [Cluster-guided Contrastive Graph Clustering Network](https://arxiv.org/pdf/2301.01098.pdf) |  CCGC   | AAAI 2023  | [Pytorch](https://github.com/xihongyang1999/CCGC) |
 | [Deep Graph Clustering with Multi-Level Subspace Fusion](https://www.sciencedirect.com/science/article/pii/S003132032200557X?via%3Dihub) |  DGCSF   | PR 2023  |-|
 | [GRACE: A General Graph Convolution Framework for Attributed Graph Clustering](https://dl.acm.org/doi/abs/10.1145/3544977) |  GRACE   | TKDD 2023 |[Pytorch](https://github.com/BarakeelFanseu/GRACE)|
 | [Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering](https://arxiv.org/pdf/2210.10462.pdf) | SHGP | NeurIPS 2022 | [Pytorch](https://github.com/kepsail/SHGP) |
@@ -82,7 +88,6 @@
 | [Graph Contrastive Clustering](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhong_Graph_Contrastive_Clustering_ICCV_2021_paper.pdf) | GCC | ICCV 2021 | [Pytorch](https://github.com/mynameischaos/GCC) |
 | [Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-833.YaoY.pdf) | RNNGCN | AAAI 2021 | [Pytorch](https://github.com/InterpretableClustering/InterpretableClustering) |
 | [Spectral Clustering with Graph Neural Networks for Graph Pooling](https://arxiv.org/pdf/1907.00481.pdf)  |  -  |  ICML 2020  | [TensorFlow](https://github.com/FilippoMB/b∫bSpectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)|
-| [Deep Graph Clustering via Dual Correlation Reduction](https://aaai-2022.virtualchair.net/poster_aaai5928) |  DCRN   | AAAI 2022  | [Pytorch](https://github.com/yueliu1999/DCRN) |
 | [Efficient graph convolution for joint node representation learning and clustering](https://dl.acm.org/doi/10.1145/3488560.3498533) |  GCC   |    WSDM 2022  | [Tensorflow](https://github.com/chakib401/graph_convolutional_clustering) |
 | [CGC: Contrastive Graph Clustering for Community Detection and Tracking](https://dl.acm.org/doi/pdf/10.1145/3485447.3512160) |  CGC   |   WWW 2022  |- |
 | [Attributed Graph Clustering with Dual Redundancy Reduction](https://www.ijcai.org/proceedings/2022/0418.pdf) |  AGC-DRR   | IJCAI 2022  | [Pytorch](https://github.com/gongleii/AGC-DRR) |
