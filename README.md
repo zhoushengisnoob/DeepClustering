@@ -166,6 +166,10 @@ This repository intentionally has a relatively broad scope. In addition to canon
 ### Complete Multi-view Clustering
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Learning Anchor in Dual Orthogonal Space for Fast Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2026/html/Qin_Learning_Anchor_in_Dual_Orthogonal_Space_for_Fast_Multi-view_Clustering_CVPR_2026_paper.html) | DOSFMVC | CVPR 2026 | - |
+| [Multi-Hierarchical Contrastive Spectral Fusion for Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2026/html/Cai_Multi-Hierarchical_Contrastive_Spectral_Fusion_for_Multi-View_Clustering_CVPR_2026_paper.html) | MCSF | CVPR 2026 | - |
+| [Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization](https://proceedings.neurips.cc/paper_files/paper/2025/hash/4e889e581d4a6f2be932c6f65e7792a8-Abstract-Conference.html) | HOPER | NeurIPS 2025 | - |
+| [SparseMVC: Probing Cross-view Sparsity Variations for Multi-view Clustering](https://proceedings.neurips.cc/paper_files/paper/2025/hash/e366fff693ee7cdbca8ed2764bc18a71-Abstract-Conference.html) | SparseMVC | NeurIPS 2025 | [Official](https://github.com/cleste-pome/SparseMVC) |
 | [Explainable K-means Neural Networks for Multi-view Clustering](https://openreview.net/forum?id=ljM1HTSH9c) | EKNN | ICLR 2026 | - |
 | [Multi-View Clustering with Granularity-Aware Pseudo Supervision](https://ojs.aaai.org/index.php/AAAI/article/view/39973) | GAPS | AAAI 2026 | - |
 | [Uncover Underlying Correspondence for Robust Multi-view Clustering](https://openreview.net/forum?id=a4S1nQay3b) | CorreGen | ICLR 2026 | [Pytorch](https://github.com/XLearning-SCU/2026-ICLR-CorreGen) |
@@ -212,6 +216,15 @@ This repository intentionally has a relatively broad scope. In addition to canon
 ### Incomplete, Unpaired, and Federated Multi-view Clustering
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Anti-Degradation Lifelong Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Anti-Degradation_Lifelong_Multi-View_Clustering_CVPR_2026_paper.pdf) | ALMC | CVPR 2026 | [Official](https://github.com/lee-xingfeng/ALMC) |
+| [Imbalanced View Contribution Evaluation and Refinement for Deep Incomplete Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Imbalanced_View_Contribution_Evaluation_and_Refinement_for_Deep_Incomplete_Multi-View_CVPR_2026_paper.pdf) | ICER | CVPR 2026 | [Official](https://github.com/Evelyn-zhou24/ICER) |
+| [Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_Generalized_Deep_Multi-view_Clustering_via_Causal_Learning_with_Partially_Aligned_ICCV_2025_paper.html) | CauMVC | ICCV 2025 | - |
+| [A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_A_Unified_Framework_to_BRIDGE_Complete_and_Incomplete_Deep_Multi-View_ICCV_2025_paper.html) | BRIDGE | ICCV 2025 | - |
+| [Deep Incomplete Multi-view Clustering with Distribution Dual-Consistency Recovery Guidance](https://openaccess.thecvf.com/content/ICCV2025/html/Jin_Deep_Incomplete_Multi-view_Clustering_with_Distribution_Dual-Consistency_Recovery_Guidance_ICCV_2025_paper.html) | BURG | ICCV 2025 | - |
+| [Learning from Disjoint Views: A Contrastive Prototype Matching Network for Fully Incomplete Multi-View Clustering](https://proceedings.neurips.cc/paper_files/paper/2025/hash/1a7a22152cd21f0ca3c0f8139bb32905-Abstract-Conference.html) | CPMN | NeurIPS 2025 | - |
+| [Incomplete Multi-view Clustering via Hierarchical Semantic Alignment and Cooperative Completion](https://proceedings.neurips.cc/paper_files/paper/2025/hash/4b2a917e30e1bb1aff055b4d8c6c081c-Abstract-Conference.html) | HSACC | NeurIPS 2025 | [Official](https://github.com/XiaojianDing/2025-NeurIPS-HSACC) |
+| [AF-UMC: An Alignment-Free Fusion Framework for Unaligned Multi-View Clustering](https://proceedings.neurips.cc/paper_files/paper/2025/hash/965484d5b2b2624ba17295612a3ba7e8-Abstract-Conference.html) | AF-UMC | NeurIPS 2025 | - |
+| [Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization](https://proceedings.neurips.cc/paper_files/paper/2025/hash/684c59d614fe6ae74a3be8c3ef07e061-Abstract-Conference.html) | GUITAR | NeurIPS 2025 | - |
 | [AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html) | AdaptCMVC | CVPR 2025 | [Official](https://github.com/Wjing-bjtu/AdaptCMVC) |
 | [Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning](https://www.ijcai.org/proceedings/2025/641) | CAL | IJCAI 2025 | [Pytorch](https://github.com/whbdmu/CAL) |
 | [Dual Robust Unbiased Multi-View Clustering for Incomplete and Unpaired Information](https://www.ijcai.org/proceedings/2025/789) | DRUMVC | IJCAI 2025 | - |
@@ -302,6 +315,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 ### Image and Visual Recognition
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [On the Provable Importance of Gradients for Autonomous Language-Assisted Image Clustering](https://openaccess.thecvf.com/content/ICCV2025/html/Peng_On_the_Provable_Importance_of_Gradients_for_Autonomous_Language-Assisted_Image_ICCV_2025_paper.html) | GradNorm | ICCV 2025 | - |
 | [An Adaptor for Triggering Semi-Supervised Learning to Out-of-Box Serve Deep Image Clustering](https://doi.org/10.1109/TIP.2025.3611144) | ASD | IEEE TIP 2025 | - |
 | [Grid Jigsaw Representation with CLIP: a new perspective on image clustering](https://doi.org/10.1007/s00530-025-01703-x) | pGJR | Multimedia Systems 2025 | - |
 | [Image Clustering Conditioned on Text Criteria](https://openreview.net/pdf?id=G2cG3mQqop) |  IC\|TC  | ICLR 2024 | [Pytorch](https://github.com/sehyunkwon/ICTC) |
@@ -365,6 +379,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 ### Time Series and Video
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Temporal Rate Reduction Clustering for Human Motion Segmentation](https://openaccess.thecvf.com/content/ICCV2025/html/Meng_Temporal_Rate_Reduction_Clustering_for_Human_Motion_Segmentation_ICCV_2025_paper.html) | TR2C | ICCV 2025 | [Pytorch](https://github.com/mengxianghan123/TR2C) |
 | [Cross-Domain Contrastive Learning for Time Series Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/28740) | CDCC | AAAI 2024 | [Pytorch](https://github.com/JiacLuo/CDCC) |
 | [Inducing Clusters Deep Kernel Gaussian Process for Longitudinal Data](https://ojs.aaai.org/index.php/AAAI/article/view/29279) | ICDKGP | AAAI 2024 | [Pytorch](https://github.com/junjieliang672/ICDKGP) |
 | [Live and Learn: Continual Action Clustering with Incremental Views](https://ojs.aaai.org/index.php/AAAI/article/view/29561) | CAC | AAAI 2024 | - |
@@ -380,6 +395,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 ### Bioinformatics and Single-cell Data
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Multi-View Hierarchical Alignment Learning for Spatial Transcriptomics](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Multi-View_Hierarchical_Alignment_Learning_for_Spatial_Transcriptomics_CVPR_2026_paper.html) | MHAL | CVPR 2026 | - |
 | [A Deep Variational Approach to Clustering Survival Data](https://openreview.net/pdf?id=RQ428ZptQfU) | VaDeSC | ICLR 2022 | [TensorFlow](https://github.com/i6092467/vadesc) |
 | [Iterative transfer learning with neural network for clustering and cell type classification in single-cell RNA-seq analysis](https://www.nature.com/articles/s42256-020-00233-7) | ItClust | Nature machine intelligence 2020 | [Keras](https://github.com/jianhuupenn/ItClust) |
 | [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0) | scDeepCluster | Nature Machine Intelligence 2019 | [Keras](https://github.com/ttgump/scDeepCluster) |
