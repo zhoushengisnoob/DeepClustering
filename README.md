@@ -166,6 +166,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 ### Complete Multi-view Clustering
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling](https://openreview.net/forum?id=OTKdKRLXf7) | HAMC | ICML 2026 | - |
 | [Learning Anchor in Dual Orthogonal Space for Fast Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2026/html/Qin_Learning_Anchor_in_Dual_Orthogonal_Space_for_Fast_Multi-view_Clustering_CVPR_2026_paper.html) | DOSFMVC | CVPR 2026 | - |
 | [Multi-Hierarchical Contrastive Spectral Fusion for Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2026/html/Cai_Multi-Hierarchical_Contrastive_Spectral_Fusion_for_Multi-View_Clustering_CVPR_2026_paper.html) | MCSF | CVPR 2026 | - |
 | [Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization](https://proceedings.neurips.cc/paper_files/paper/2025/hash/4e889e581d4a6f2be932c6f65e7792a8-Abstract-Conference.html) | HOPER | NeurIPS 2025 | - |
@@ -216,6 +217,10 @@ This repository intentionally has a relatively broad scope. In addition to canon
 ### Incomplete, Unpaired, and Federated Multi-view Clustering
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering](https://openreview.net/forum?id=Wm3XgP6xQ8) | IDCD | ICML 2026 | - |
+| [Hypergraph-Based Unaligned Multi-View Clustering via Cluster-Aware Feature Extraction](https://doi.org/10.1145/3770855.3817741) | - | KDD 2026 | - |
+| [Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](https://openreview.net/forum?id=0oVPf178N4) | - | ICML 2026 | - |
+| [OPTION: Optimal Transport-Guided Flow Matching for Incomplete and Unaligned Multi-View Clustering](https://openreview.net/forum?id=1jBsENo5ii) | OPTION | ICML 2026 | - |
 | [Anti-Degradation Lifelong Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Anti-Degradation_Lifelong_Multi-View_Clustering_CVPR_2026_paper.pdf) | ALMC | CVPR 2026 | [Official](https://github.com/lee-xingfeng/ALMC) |
 | [Imbalanced View Contribution Evaluation and Refinement for Deep Incomplete Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Imbalanced_View_Contribution_Evaluation_and_Refinement_for_Deep_Incomplete_Multi-View_CVPR_2026_paper.pdf) | ICER | CVPR 2026 | [Official](https://github.com/Evelyn-zhou24/ICER) |
 | [Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_Generalized_Deep_Multi-view_Clustering_via_Causal_Learning_with_Partially_Aligned_ICCV_2025_paper.html) | CauMVC | ICCV 2025 | - |
@@ -284,6 +289,13 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [A Unified Framework for Deep Hypergraph Clustering Beyond Homophily](https://openreview.net/forum?id=tRl6gCrEma) | - | ICML 2026 | - |
+| [A Unified Graph Clustering Network](https://doi.org/10.1145/3774904.3792266) | - | WWW 2026 | - |
+| [Cross-Contrastive Clustering for Multimodal Attributed Graphs with Dual Graph Filtering](https://doi.org/10.1145/3770854.3780236) | DGF | KDD 2026 | [Official](https://github.com/HaoranZ99/DGF) |
+| [Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion](https://openreview.net/forum?id=XtqZ41BUkF) | APGC | ICML 2026 | - |
+| [FedCND: Federated Graph-Level Clustering under Inter-Client Cluster Number Discrepancy](https://doi.org/10.1145/3774904.3792325) | FedCND | WWW 2026 | - |
+| [From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering](https://doi.org/10.1145/3774904.3792432) | - | WWW 2026 | - |
+| [Structure-Semantic Synergized Deep Contrastive Graph Clustering](https://doi.org/10.1145/3774904.3792559) | - | WWW 2026 | - |
 | [Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss](https://ojs.aaai.org/index.php/AAAI/article/view/40091) | DGIMVCM | AAAI 2026 | - |
 | [Attribute-Missing Multi-view Graph Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Attribute-Missing_Multi-view_Graph_Clustering_CVPR_2025_paper.html) | AMMGC | CVPR 2025 | - |
 | [Enhanced then Progressive Fusion with View Graph for Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Enhanced_then_Progressive_Fusion_with_View_Graph_for_Multi-View_Clustering_CVPR_2025_paper.html) | EPFMVC | CVPR 2025 | - |
@@ -315,6 +327,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 ### Image and Visual Recognition
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [MAGIC: Multi-Granularity Language-Informed Image Clustering](https://openreview.net/forum?id=eyo7TITaF9) | MAGIC | ICML 2026 | - |
 | [On the Provable Importance of Gradients for Autonomous Language-Assisted Image Clustering](https://openaccess.thecvf.com/content/ICCV2025/html/Peng_On_the_Provable_Importance_of_Gradients_for_Autonomous_Language-Assisted_Image_ICCV_2025_paper.html) | GradNorm | ICCV 2025 | - |
 | [An Adaptor for Triggering Semi-Supervised Learning to Out-of-Box Serve Deep Image Clustering](https://doi.org/10.1109/TIP.2025.3611144) | ASD | IEEE TIP 2025 | - |
 | [Grid Jigsaw Representation with CLIP: a new perspective on image clustering](https://doi.org/10.1007/s00530-025-01703-x) | pGJR | Multimedia Systems 2025 | - |
@@ -366,6 +379,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 ### Text and Intent Discovery
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [CIDC: Cluster Identification-Guided Dual Correction for Robust Short Text Clustering](https://doi.org/10.1145/3774904.3792578) | CIDC | WWW 2026 | - |
 | [DUIC: User-descriptive intention guided clustering for personalized and understandable document partitions](https://doi.org/10.1016/j.ipm.2026.104648) | DUIC | Information Processing & Management 2026 | - |
 | [A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery](https://ieeexplore.ieee.org/document/10349963) | USNID | IEEE TKDE 2023 | [Pytorch](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) |
 | [Deep Clustering of Text Representations for Supervision-Free Probing of Syntax](https://www.aaai.org/AAAI22Papers/AAAI-7788.GuptaA.pdf) | SyntDEC | AAAI 2022 | - |
@@ -379,6 +393,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 ### Time Series and Video
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Adaptive Prototypical Contrastive Learning for Time Series Clustering](https://doi.org/10.1145/3770855.3817773) | APCL | KDD 2026 | [Official](https://github.com/William-Liwei/APCL) |
 | [Temporal Rate Reduction Clustering for Human Motion Segmentation](https://openaccess.thecvf.com/content/ICCV2025/html/Meng_Temporal_Rate_Reduction_Clustering_for_Human_Motion_Segmentation_ICCV_2025_paper.html) | TR2C | ICCV 2025 | [Pytorch](https://github.com/mengxianghan123/TR2C) |
 | [Cross-Domain Contrastive Learning for Time Series Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/28740) | CDCC | AAAI 2024 | [Pytorch](https://github.com/JiacLuo/CDCC) |
 | [Inducing Clusters Deep Kernel Gaussian Process for Longitudinal Data](https://ojs.aaai.org/index.php/AAAI/article/view/29279) | ICDKGP | AAAI 2024 | [Pytorch](https://github.com/junjieliang672/ICDKGP) |
@@ -395,6 +410,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 ### Bioinformatics and Single-cell Data
 |    Paper    |  Method |  Conference |  Code |
 |  :---------  | :------:  | :------: | :------: |
+| [Single-Cell Spatial Proteomics Clustering by Decoupling Spatiality and Expression](https://doi.org/10.1145/3770855.3818990) | spClust | KDD 2026 | - |
 | [Multi-View Hierarchical Alignment Learning for Spatial Transcriptomics](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Multi-View_Hierarchical_Alignment_Learning_for_Spatial_Transcriptomics_CVPR_2026_paper.html) | MHAL | CVPR 2026 | - |
 | [A Deep Variational Approach to Clustering Survival Data](https://openreview.net/pdf?id=RQ428ZptQfU) | VaDeSC | ICLR 2022 | [TensorFlow](https://github.com/i6092467/vadesc) |
 | [Iterative transfer learning with neural network for clustering and cell type classification in single-cell RNA-seq analysis](https://www.nature.com/articles/s42256-020-00233-7) | ItClust | Nature machine intelligence 2020 | [Keras](https://github.com/jianhuupenn/ItClust) |
