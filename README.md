@@ -60,7 +60,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Learning Statistical Representation with Joint Deep Embedded Clustering](https://arxiv.org/pdf/2109.05232.pdf) | StatDEC | arXiv 2021 | - |
 | [Learning the Precise Feature for Cluster Assignment](https://arxiv.org/pdf/2106.06159.pdf) | - | IEEE Trans Cybern 2021 | [TensorFlow](https://github.com/gyh5421/unified_deep_clustering) |
 | [Nearest Neighbor Matching for Deep Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.html) | NNM | CVPR 2021 | [Pytorch](https://github.com/ZhiyuanDang/NNM) |
-| [Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination](http://people.eecs.berkeley.edu/~xdwang/papers/CLD.pdf) | CLD | CVPR 2021 | [Pytorch](https://github.com/frank-xwang/CLD-UnsupervisedLearning) |
+| [Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Unsupervised_Feature_Learning_by_Cross-Level_Instance-Group_Discrimination_CVPR_2021_paper.html) | CLD | CVPR 2021 | [Pytorch](https://github.com/frank-xwang/CLD-UnsupervisedLearning) |
 | [You Never Cluster Alone](https://arxiv.org/abs/2106.01908) | TCC | NeurIPS 2021 | - |
 | [Adversarial Deep Embedded Clustering: on a better trade-off between Feature Randomness and Feature Drift](https://arxiv.org/pdf/1909.11832v1.pdf) | ADEC | TKDE 2020 | - |
 | [Cross multi-type objects clustering in attributed heterogeneous information network](https://www.sciencedirect.com/science/article/pii/S0950705119306719) | CMOC-AHIN | KBS 2020 | - |
@@ -72,7 +72,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [MPCC: Matching Priors and Conditionals for Clustering](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680647.pdf) | MPCC | ECCV 2020 | [Pytorch](https://github.com/jumpynitro/MPCC) |
 | [N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding](https://arxiv.org/abs/1908.05968) | N2D | ICPR 2020 | [TensorFlow](https://github.com/rymc/n2d) |
 | [Online Deep Clustering for Unsupervised Representation Learning](https://arxiv.org/abs/2006.10645v1) | ODC | CVPR 2020 | [Pytorch](https://github.com/open-mmlab/OpenSelfSup) |
-| [Schain-iram: An efficient and effective semi-supervised clustering algorithm for attributed heterogeneous information networks](https://lixiang3776.github.io/pub/clustering.pdf) | SCHAIN-IRAM | TKDE 2020 | - |
+| [Schain-iram: An efficient and effective semi-supervised clustering algorithm for attributed heterogeneous information networks](https://doi.org/10.1109/TKDE.2020.2997938) | SCHAIN-IRAM | TKDE 2020 | - |
 | [Structural Deep Clustering Network](https://arxiv.org/abs/2002.01633) | SDCN | WWW 2020 | [Pytorch](https://github.com/461054993/SDCN) |
 | [Unsupervised Clustering using Pseudo-semi-supervised Learning](https://openreview.net/pdf?id=rJlnxkSYPS) | Kingdra | ICLR 2020 | [Keras](https://github.com/divamgupta/deep-clustering-kingdra) |
 | [Adaptive Self-paced Deep Clustering with Data Augmentation](https://ieeexplore.ieee.org/document/8693526) | ASPC-DA | TKDE 2019 | [TensorFlow](https://github.com/XifengGuo/ASPC-DA) |
@@ -80,7 +80,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Optimal Sampling and Clustering in the Stochastic Block Model](https://papers.NeurIPS.cc/paper/9498-optimal-sampling-and-clustering-in-the-stochastic-block-model) | - | NeurIPS 2019 | [Python](https://github.com/fbsqkd/StochasticBlockModel) |
 | [Clustering-driven Deep Embedding with Pairwise Constraints](https://arxiv.org/pdf/1803.08457.pdf) |  CPAC  | arXiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
 | [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf) |  DCC  | arXiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
-| [Deep Embedded Clustering with Data Augmentation](http://proceedings.mlr.press/v95/guo18b/guo18b.pdf) | DEC-DA | ACML 2018 | [TensorFlow](https://github.com/XifengGuo/DEC-DA) |
+| [Deep Embedded Clustering with Data Augmentation](https://proceedings.mlr.press/v95/guo18b.html) | DEC-DA | ACML 2018 | [TensorFlow](https://github.com/XifengGuo/DEC-DA) |
 | [Deep Discriminative Latent Space for Clustering](https://arxiv.org/abs/1805.10795) | - |  NeurIPS 2017  | - |
 | [Improved Deep Embedded Clustering with Local Structure Preservation](https://www.ijcai.org/proceedings/2017/0243.pdf) | IDEC | IJCAI 2017 | [Keras](https://github.com/XifengGuo/IDEC) [Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Learning Discrete Representations via Information Maximizing Self-Augmented Training](https://arxiv.org/pdf/1702.08720.pdf) | IMSAT | ICML 2017 | [Python](https://github.com/weihua916/imsat) |
@@ -89,7 +89,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Unsupervised Multi-Manifold Clustering by Learning Deep Representation](https://pdfs.semanticscholar.org/b852/81d8729038148fd3d8297ea35d632d2e017c.pdf) | DMC | AAAI 2017 Workshop | - |
 | [Unsupervised Deep Embedding for Clustering Analysis](http://proceedings.mlr.press/v48/xieb16.pdf) | DEC | ICML 2016 | [Caffe](https://github.com/piiswrong/dec) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
 | [Deep Embedding Network for Clustering](https://ieeexplore.ieee.org/document/6976982/) | DEN | ICPR 2014 | - |
-| [Auto-encoder Based Data Clustering](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | ABDC | CIARP 2013 | [Pytorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
+| [Auto-encoder Based Data Clustering](https://doi.org/10.1007/978-3-642-41822-8_15) | ABDC | CIARP 2013 | [Pytorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 
 ### Autoencoder and Generative Methods
 |    Paper    |  Method |  Conference |  Code |
@@ -111,11 +111,11 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Clustering Meets Implicit Generative Models](https://openreview.net/forum?id=rk4QYDkwz) | - | ICLR 2019 workshop | - |
 | [Learning Latent Superstructures in Variational Autoencoders for Deep Multidimensional Clustering](https://arxiv.org/abs/1803.05206) | LTVAE | ICLR 2019 | [Pytorch](https://github.com/eelxpeng/ltvae-release) |
 | [Deep Clustering with Convolutional Autoencoders](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) | DCEC | ICONIP 2018 | [Keras](https://github.com/XifengGuo/DCEC) |
-| [Mixture of GANs for Clustering](https://idea-stat.snu.ac.kr/seminar/20200516/Mixture_of_GANs_for_Clustering_final.pdf) | - | IJCAI 2018 | - |
+| [Mixture of GANs for Clustering](https://doi.org/10.24963/ijcai.2018/423) | - | IJCAI 2018 | - |
 | [Deep Clustering via Joint Convolutional Autoencoder Embedding and Relative Entropy Minimization](https://arxiv.org/pdf/1704.06327.pdf) |  DEPICT | ICCV 2017 | [Theano](https://github.com/herandy/DEPICT) |
 | [Deep Unsupervised Clustering using Mixture of Autoencoders](https://arxiv.org/pdf/1712.07788.pdf) | MIXAE | arXiv 2017 | - |
 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders](https://arxiv.org/pdf/1611.02648.pdf) | GMVAE | ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE) |
-| [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf) | - | NeurIPS 2017 Workshop | [Pytorch](https://github.com/jariasf/clustering-NeurIPS-2017) |
+| [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf) | - | NeurIPS 2017 Workshop | [Pytorch](https://github.com/jariasf/GMVAE) |
 | [Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering](https://arxiv.org/pdf/1611.05148.pdf) | VaDE | IJCAI 2017 | [Keras](https://github.com/slim1017/VaDE) |
 
 ### Contrastive and Self-Supervised Methods
@@ -147,7 +147,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Deep Spectral Clustering via Joint Spectral Embedding and Kmeans](https://doi.org/10.1109/SMC54092.2024.10831693) | DSC | IEEE SMC 2024 | - |
 | [Efficient Deep Embedded Subspace Clustering](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_Efficient_Deep_Embedded_Subspace_Clustering_CVPR_2022_paper.pdf) | EDESC | CVPR 2022 | [Pytorch](https://github.com/JinyuCai95/EDESC-pytorch) |
 | [Learning a Self-Expressive Network for Subspace Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Learning_a_Self-Expressive_Network_for_Subspace_Clustering_CVPR_2021_paper.html) | SENet | CVPR 2021 | [Pytorch](https://github.com/zhangsz1998/self-expressive-network) |
-| [LRSC: Learning Representations for Subspace Clustering](https://www.aaai.org/AAAI21Papers/AAAI-2600.LiC.pdf) | LRSC | AAAI 2021 | - |
+| [LRSC: Learning Representations for Subspace Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/17014) | LRSC | AAAI 2021 | - |
 | [Pseudo-Supervised Deep Subspace Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9440402) | PSSC | TIP 2021 | [TensorFlow](https://github.com/sckangz/SelfsupervisedSC) |
 | [Deep Subspace Clustering with Data Augmentation](https://proceedings.neurips.cc/paper/2020/hash/753a043674f0193523abc1bbce678686-Abstract.html) | DSCwithDA | NeurIPS 2020 | [Pytorch](https://github.com/mahdiabavisani/DSCwithDA) |
 | [Multi-Scale Fusion Subspace Clustering Using Similarity Constraint](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dang_Multi-Scale_Fusion_Subspace_Clustering_Using_Similarity_Constraint_CVPR_2020_paper.pdf) | SC-MSFSC | CVPR 2020 | - |
@@ -159,7 +159,7 @@ This repository intentionally has a relatively broad scope. In addition to canon
 | [Self-Supervised Convolutional Subspace Clustering Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Self-Supervised_Convolutional_Subspace_Clustering_Network_CVPR_2019_paper.pdf) | S^2ConvSCN | CVPR 2019 | - |
 | [Deep adversarial subspace clustering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Deep_Adversarial_Subspace_CVPR_2018_paper.pdf) | DASC | CVPR 2018 | - |
 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) | SpectralNet | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) [PyTorch](https://github.com/shaham-lab/SpectralNet) |
-| [Cascade Subspace Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14442/14433) | CSC | AAAI 2017 | - |
+| [Cascade Subspace Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/10824) | CSC | AAAI 2017 | - |
 | [Deep Subspace Clustering Networks](http://papers.NeurIPS.cc/paper/6608-deep-subspace-clustering-networks.pdf) | DSC-Nets | NeurIPS 2017 | [TensorFlow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
 | [Deep subspace clustering with sparsity prior](http://pengxi.me/wp-content/uploads/2019/09/2016IJCAI.pdf) | PARTY | IJCAI 2016 | - |
 
@@ -328,7 +328,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 | [Cluster-gcn: An efficient algorithm for training deep and large graph convolutional networks](https://dl.acm.org/doi/pdf/10.1145/3292500.3330925) | Cluster-GCN | SIGKDD 2019 | [TensorFlow](https://github.com/google-research/google-research/tree/master/cluster_gcn) |
 | [Deep Clustering by Gaussian Mixture Variational Autoencoders with Graph Embedding](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf) | DGG | ICCV 2019 | [Pytorch](https://github.com/ngoc-nguyen-0/DGG) |
 | [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf) | GEMSEC | ASONAM 2019 | [TensorFlow](https://github.com/benedekrozemberczki/GEMSEC) |
-| [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) | - | AAAI 2014 | [Python](https://github.com/quinngroup/deep-representations-clustering) |
+| [Learning Deep Representations for Graph Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/8916) | - | AAAI 2014 | [Python](https://github.com/quinngroup/deep-representations-clustering) |
 
 ### Image and Visual Recognition
 |    Paper    |  Method |  Conference |  Code |
@@ -348,7 +348,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 | [Multi-Level Cross-Modal Alignment for Image Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/29387) | - | AAAI 2024 | - |
 | [Semantic-Enhanced Image Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/25841) | SIC | AAAI 2023 | - |
 | [Embedding Contrastive Unsupervised Features to Cluster In- and Out-of-distribution Noise in Corrupted Image Datasets](https://arxiv.org/pdf/2207.01573.pdf) | SNCF | ECCV 2022 | [Pytorch](https://github.com/PaulAlbert31/SNCF) |  
-| [Fine-Grained Fashion Representation Learning by Online Deep Clustering](https://assets.amazon.science/35/21/586873644828bb72c11308479667/fine-grained-fashion-representation-learning-by-online-deep-clustering.pdf) | MODC | ECCV 2022 | - |
+| [Fine-Grained Fashion Representation Learning by Online Deep Clustering](https://doi.org/10.1007/978-3-031-19812-0_2) | MODC | ECCV 2022 | - |
 | [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/pdf/2207.11895.pdf) | - | ECCV 2022 | [Pytorch](https://github.com/echoanran/On-Mitigating-Hard-Clusters) |
 | [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | TIP 2022 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
 | [A new clustering method for the diagnosis of CoVID19 using medical images](https://link.springer.com/article/10.1007/s10489-020-02122-3) | IGSA | Applied Intelligence 2021 | - |
@@ -367,7 +367,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 | [Deep Image Clustering with Category-Style Representation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590052.pdf) | DCCS | ECCV 2020 | [Pytorch](https://github.com/sKamiJ/DCCS) |
 | [DHOG: Deep Hierarchical Object Grouping](https://arxiv.org/pdf/2003.08821.pdf) | DHOG | arXiv 2020 | - |
 | [GATCluster: Self-Supervised Gaussian-Attention Network for Image Clustering](https://arxiv.org/pdf/2002.11863.pdf) | GATCluster | ECCV 2020 | [Pytorch](https://github.com/niuchuangnn/GATCluster) |
-| [Image Clustering via Deep Embedded Dimensionality Reduction and Probability-Based Triplet Loss](https://ieeexplore.ieee.org/document/9062501) | DERC | TIP 2020 | [TensorFlow](https://github.com/DizzyDwarf75/DERC) |
+| [Image Clustering via Deep Embedded Dimensionality Reduction and Probability-Based Triplet Loss](https://ieeexplore.ieee.org/document/9062501) | DERC | TIP 2020 | - |
 | [Mitigating Embedding and Class Assignment Mismatch in Unsupervised Image Classification](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690749.pdf) | TSUC | ECCV 2020 | [Pytorch](https://github.com/dscig/TwoStageUC) |
 | [SCAN: Learning to Classify Images without Labels](https://arxiv.org/abs/2005.12320) | SCAN | ECCV 2020 | [Pytorch](https://github.com/wvangansbeke/Unsupervised-Classification) |
 | [Un-Mix: Rethinking Image Mixture for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/2003.05438.pdf) | Un-Mix | arXiv 2020 | [Pytorch](https://github.com/szq0214/Un-Mix) |
@@ -379,7 +379,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 | [Deep Comprehensive Correlation Mining for Image Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Deep_Comprehensive_Correlation_Mining_for_Image_Clustering_ICCV_2019_paper.pdf) | DCCM | ICCV 2019 | [Pytorch](https://github.com/Cory-M/DCCM) |
 | [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ji_Invariant_Information_Clustering_for_Unsupervised_Image_Classification_and_Segmentation_ICCV_2019_paper.pdf) | IIC | ICCV 2019 | [Pytorch](https://github.com/xu-ji/IIC) |
 | [Learning to Cluster Faces on an Affinity Graph](http://personal.ie.cuhk.edu.hk/~ccloy/files/cvpr_2019_cluster.pdf) | LTC | CVPR 2019 | [Pytorch](https://github.com/yl-1993/learn-to-cluster) |
-| [Learning to Discover Novel Visual Categories via Deep Transfer Clustering](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf) | DTC | ICCV 2019 | [Pytorch](https://github.com/benjaminirving/DTC-testing/tree/5230618d10575ad28e025792c5470883e3be4f67) |
+| [Learning to Discover Novel Visual Categories via Deep Transfer Clustering](https://openaccess.thecvf.com/content_ICCV_2019/html/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.html) | DTC | ICCV 2019 | [Pytorch](https://github.com/k-han/DTC) |
 | [Linkage-based Face Clustering via Graph Convolution Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Linkage_Based_Face_Clustering_via_Graph_Convolution_Network_CVPR_2019_paper.pdf)|L-GCN|CVPR 2019| [Pytorch](https://github.com/Zhongdao/gcn_clustering)|
 | [Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520) | DeepCluster | ECCV 2018 | [Pytorch](https://github.com/facebookresearch/deepcluster) |
 | [CNN-Based Joint Clustering and Representation Learning with Feature Drift Compensation for Large-Scale Image Data](https://arxiv.org/abs/1705.07091) | - | TMM 2017 | - |
@@ -393,7 +393,7 @@ A dedicated graph-focused collection is also maintained in [Deep Graph Clusterin
 | [CIDC: Cluster Identification-Guided Dual Correction for Robust Short Text Clustering](https://doi.org/10.1145/3774904.3792578) | CIDC | WWW 2026 | - |
 | [DUIC: User-descriptive intention guided clustering for personalized and understandable document partitions](https://doi.org/10.1016/j.ipm.2026.104648) | DUIC | Information Processing & Management 2026 | - |
 | [A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery](https://ieeexplore.ieee.org/document/10349963) | USNID | IEEE TKDE 2023 | [Pytorch](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) |
-| [Deep Clustering of Text Representations for Supervision-Free Probing of Syntax](https://www.aaai.org/AAAI22Papers/AAAI-7788.GuptaA.pdf) | SyntDEC | AAAI 2022 | - |
+| [Deep Clustering of Text Representations for Supervision-Free Probing of Syntax](https://ojs.aaai.org/index.php/AAAI/article/view/21317) | SyntDEC | AAAI 2022 | - |
 | [A hybrid approach for text document clustering using Jaya optimization algorithm](https://www.sciencedirect.com/science/article/pii/S0957417421004814) |  HJO-DC | ESWA 2021 | - |
 | [Discovering New Intents with Deep Aligned Clustering](https://arxiv.org/pdf/2012.08987.pdf) | DeepAligned | AAAI 2021 | [Pytorch](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) |
 | [A text document clustering method based on weighted Bert model](https://ieeexplore.ieee.org/abstract/document/9085059) | - | ITNEC 2020 | - |
